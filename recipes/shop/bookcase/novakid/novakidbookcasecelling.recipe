@@ -1,0 +1,7 @@
+{
+  "input" : [
+		{ "item" : "money", "count" : 50 }
+  ],
+  "output" : { "item" : "novakidbookcasecelling", "count" : 1 },
+  "groups" : [ "imbshop", "imbcupboards" ]
+}

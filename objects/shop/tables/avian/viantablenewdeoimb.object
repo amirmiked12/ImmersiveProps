@@ -1,0 +1,35 @@
+{
+  "objectName" : "viantablenewdeoimb",
+  "colonyTags" : ["commerce","avian"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "An Avian wooden table.",
+  "shortdescription" : "Wooden Table",
+  "race" : "avian",
+  "category" : "furniture",
+  "price" : 50,
+
+  "apexDescription" : "A Nice And simple wooden table.",
+  "avianDescription" : "The Best table In This World.",
+  "floranDescription" : "Sssimple wood table.",
+  "glitchDescription" : "Bored. A very simple table.",
+  "humanDescription" : "Not much to say about this table.",
+  "hylotlDescription" : "A table, very simple in every way.",
+  "novakidDescription" : "Just a table.",
+
+  "inventoryIcon" : "viantablenewdeoimb.png",
+  "orientations" : [
+    {
+      "dualImage" : "viantablenewdeoimb.png:<color>",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ]
+}

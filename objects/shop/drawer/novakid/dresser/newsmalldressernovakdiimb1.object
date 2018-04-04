@@ -1,0 +1,43 @@
+{
+  "objectName" : "newsmalldressernovakdiimb1",
+  "colonyTags" : ["knowledge","storage"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "category" : "storage",
+  "description" : "A Wooden Dresser.",
+  "shortdescription" : "Frontier Dresser",
+  "race" : "novakid",
+  "price" : 50,
+  "health" : 1.5,
+
+  "apexDescription" : "A simple wooden Dresser.",
+  "avianDescription" : "A Dresser. Very simple.",
+  "floranDescription" : "Sssimple wooden Dresser.",
+  "glitchDescription" : "Uninterested. Just a Dresser.",
+  "humanDescription" : "A regular Dresser.",
+  "hylotlDescription" : "A spot to place Stuff.",
+  "novakidDescription" : "A Small, plain Dresser.",
+
+  "inventoryIcon" : "newsmalldressernovakdiimb1.png",
+  "orientations" : [
+    {
+      "dualImage" : "newsmalldressernovakdiimb1.png:<color>",
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/bookcase_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/bookcase_close.ogg" ],
+  "slotCount" : 9,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+}

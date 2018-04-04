@@ -1,0 +1,33 @@
+{
+  "objectName" : "oramgebigassbarricadeiomb",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "description" : "A Traffic Barricade For Our Safety!.",
+  "shortdescription" : "Traffic Barricade",
+  "race" : "human",
+  "price" : 50,
+  "health" : 1.5,
+
+  "apexDescription" : "A simple Traffic Barricade.",
+  "avianDescription" : "A Barrier. Very Traffic Barricade.",
+  "floranDescription" : "Sssimple Traffic Barricade.",
+  "glitchDescription" : "Uninterested. Just a Traffic Barricade.",
+  "humanDescription" : "A regular Traffic Barricade.",
+  "hylotlDescription" : "This Thing Warns Us.thats it, nothing Fancy.",
+  "novakidDescription" : "A Normal, Traffic Barricade.",
+
+  "inventoryIcon" : "oramgebigassbarricadeiomb.png",
+  "orientations" : [
+    {
+      "dualImage" : "oramgebigassbarricadeiomb.png:<color>",
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

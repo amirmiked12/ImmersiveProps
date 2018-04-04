@@ -1,0 +1,33 @@
+{
+  "objectName" : "drawingboardwhiteimbdeco",
+  "colonyTags" : ["knowledge","human"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "description" : "A White Paper For Drawing.",
+  "shortdescription" : "White Paper",
+  "race" : "human",
+  "price" : 50,
+  "health" : 1.5,
+
+  "apexDescription" : "A Simple Paper For Drawing.",
+  "avianDescription" : "A Paper. Very Simple.",
+  "floranDescription" : "Sssimple white Paper.",
+  "glitchDescription" : "Uninterested. Just a White Paper.",
+  "humanDescription" : "A regular Paper.",
+  "hylotlDescription" : "A spot to Draw.",
+  "novakidDescription" : "A Small, plain And White Paper.",
+
+  "inventoryIcon" : "drawingboardwhiteimbdeco.png",
+  "orientations" : [
+    {
+      "dualImage" : "drawingboardwhiteimbdeco.png:<color>",
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

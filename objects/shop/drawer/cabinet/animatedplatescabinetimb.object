@@ -1,0 +1,43 @@
+{
+  "objectName" : "animatedplatescabinetimb",
+  "colonyTags" : ["knowledge","storage"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "category" : "storage",
+  "description" : "A sturdy suspended Cabinet.",
+  "shortdescription" : "Wooden Cabinet",
+  "race" : "generic",
+  "price" : 50,
+  "health" : 1.5,
+
+  "apexDescription" : "A simple wooden Cabinet.",
+  "avianDescription" : "A Cabinet. Very simple.",
+  "floranDescription" : "Sssimple wooden Cabinet.",
+  "glitchDescription" : "Uninterested. Just a Cabinet.",
+  "humanDescription" : "A regular Cabinet.",
+  "hylotlDescription" : "A spot to place Plates.",
+  "novakidDescription" : "A large, plain Cabinet.",
+
+  "inventoryIcon" : "animatedplatescabinetimbicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "animatedplatescabinetimb.png:<key>",
+      "imagePosition" : [-16, 0],
+	  "frames" : 2,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ],
+
+  "openSounds" : ["/sfx/objects/wooddoor3_open.ogg"],
+  "closeSounds" : ["/sfx/objects/wooddoor3_close.ogg"],
+  "slotCount" : 24,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+}

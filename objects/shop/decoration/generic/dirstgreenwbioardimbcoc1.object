@@ -1,0 +1,33 @@
+{
+  "objectName" : "dirstgreenwbioardimbcoc1",
+  "colonyTags" : ["knowledge","human"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "description" : "A Small messy Green Chalkboard.",
+  "shortdescription" : "Green Chalkboard",
+  "race" : "human",
+  "price" : 50,
+  "health" : 1.5,
+
+  "apexDescription" : "A Messy Green Chalkboard.",
+  "avianDescription" : "A Chalkboard. Very Messy.",
+  "floranDescription" : "Sssimple Messy Chalkboard.",
+  "glitchDescription" : "Uninterested. Just a Chalkboard.",
+  "humanDescription" : "A regular Chalkboard.",
+  "hylotlDescription" : "A spot to Not Write.",
+  "novakidDescription" : "A Small, plain And Messy Chalkboard.",
+
+  "inventoryIcon" : "dirstgreenwbioardimbcoc1.png",
+  "orientations" : [
+    {
+      "dualImage" : "dirstgreenwbioardimbcoc1.png:<color>",
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

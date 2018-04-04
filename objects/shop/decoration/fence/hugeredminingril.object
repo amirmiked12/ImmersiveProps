@@ -1,0 +1,33 @@
+{
+  "objectName" : "hugeredminingril",
+  "colonyTags" : ["human","lunarbase","mining"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 50,
+  "description" : "A metal fence with Red and black warning stripes.",
+  "shortdescription" : "Huge Mining Railing",
+  "race" : "human",
+
+  "apexDescription" : "A metal railing painted with Red and black stripes.",
+  "avianDescription" : "A metal railing.",
+  "floranDescription" : "Floran bored of fencesss.",
+  "glitchDescription" : "Observant. The railing is implemented for safety.",
+  "humanDescription" : "A Metal Railing to keep people falling off platforms.",
+  "hylotlDescription" : "A plain-looking human construction.",
+  "novakidDescription" : "Just a borin' fence.",
+
+  "inventoryIcon" : "hugeredminingril.png",
+  "orientations" : [
+    {
+      "dualImage" : "hugeredminingril.png:<color>",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

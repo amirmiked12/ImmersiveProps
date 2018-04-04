@@ -1,0 +1,43 @@
+{
+  "objectName" : "newsallemsiahstashimb",
+  "colonyTags" : ["storage"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "category" : "storage",
+  "price" : 50,
+  "description" : "A dumpster.",
+  "shortdescription" : "Dumpster",
+  "race" : "generic",
+  "health" : 1.5,
+
+  "apexDescription" : "A standard dumpster.",
+  "avianDescription" : "A dumpster.",
+  "floranDescription" : "Dumpssster.",
+  "glitchDescription" : "Surprised. A dumpster.",
+  "humanDescription" : "Is dumpster diving still a thing?",
+  "hylotlDescription" : "A dumpster. Filthy but necessary.",
+  "novakidDescription":  "A big ol' dumpster.",
+
+  "inventoryIcon" : "newsallemsiahstashimb.png",
+  "orientations" : [
+    {
+      "dualImage" : "newsallemsiahstashimb.png:<color>",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/shippingcontainer_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/shippingcontainer_close.ogg" ],
+  "slotCount" : 48,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+
+}

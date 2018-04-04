@@ -1,0 +1,7 @@
+{
+  "input" : [
+		{ "item" : "money", "count" : 75 }
+  ],
+  "output" : { "item" : "greenfixeddumpsterimb", "count" : 1 },
+  "groups" : [ "imbshop", "imbdecorations" ]
+}

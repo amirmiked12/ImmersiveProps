@@ -1,0 +1,43 @@
+{
+  "objectName" : "novakidbookcasefloor",
+  "colonyTags" : ["knowledge","storage"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "category" : "storage",
+  "description" : "A sturdy suspended Bookcase.",
+  "shortdescription" : "Frontier Bookcase",
+  "race" : "novakid",
+  "price" : 50,
+  "health" : 1.5,
+
+  "apexDescription" : "A simple wooden bookcase.",
+  "avianDescription" : "A bookcase. Very simple.",
+  "floranDescription" : "Sssimple wooden bookcase.",
+  "glitchDescription" : "Uninterested. Just a bookcase.",
+  "humanDescription" : "A regular bookcase.",
+  "hylotlDescription" : "A spot to place books.",
+  "novakidDescription" : "A large, plain bookcase.",
+
+  "inventoryIcon" : "novakidbookcasefloor.png",
+  "orientations" : [
+    {
+      "dualImage" : "novakidbookcasefloor.png:<color>",
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/bookcase_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/bookcase_close.ogg" ],
+  "slotCount" : 9,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+}

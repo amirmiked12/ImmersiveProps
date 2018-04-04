@@ -1,0 +1,37 @@
+{
+  "objectName" : "gaurtwoerstonerstoen",
+  "colonyTags" : ["commerce"],
+  "printable" : false,
+  "rarity" : "Common",
+  "category" : "furniture",
+  "price" : 50,
+  "description" : "A Big And Tall Tower I can Stand on Top Of It.",
+  "shortdescription" : "Gaurds Tower",
+  "race" : "generic",
+
+
+  "apexDescription" : "A Big And Tall Tower I can Stand on Top Of It",
+  "avianDescription" : "A Big And Tall Tower I can Stand on Top Of It",
+  "floranDescription" : "A Big And Tall Tower I can Stand on Top Of It",
+  "glitchDescription" : "A Big And Tall Tower I can Stand on Top Of It",
+  "humanDescription" : "A Big And Tall Tower I can Stand on Top Of It",
+  "hylotlDescription" : "A Big And Tall Tower I can Stand on Top Of It",
+  "novakidDescription":  "A Big And Tall Tower I can Stand on Top Of It",
+
+  
+  "inventoryIcon" : "gaurtwoerstonerstoen.png",
+  "orientations" : [
+    {
+      "dualImage" : "gaurtwoerstonerstoen.png:<color>",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ]
+}

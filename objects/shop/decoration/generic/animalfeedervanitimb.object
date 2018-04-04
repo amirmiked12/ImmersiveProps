@@ -1,0 +1,32 @@
+{
+  "objectName" : "animalfeedervanitimb",
+  "colonyTags" : ["commerce","farm"],
+  "rarity" : "Common",
+  "category" : "furniture",
+  "price" : 50,
+  "description" : "A Place To Keep The Animal Fed!",
+  "shortdescription" : "Animal Feeder",
+  "race" : "generic",
+
+  "apexDescription" : "A Place To Keep The Animal Fed...",
+  "avianDescription" : "A Place To Keep The Animal Fed",
+  "floranDescription" : "A Place To Keep The Animal Fed.",
+  "glitchDescription" : "A Place To Keep The Animal Fed.",
+  "humanDescription" : "A Place To Keep The Animal Fed",
+  "hylotlDescription" : "A Place To Keep The Animal Fed",
+  "novakidDescription" : "A Place To Keep The Animal Fed",
+
+  "inventoryIcon" : "animalfeedervanitimb.png",
+  "orientations" : [
+    {
+      "dualImage" : "animalfeedervanitimb.png:<color>",
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

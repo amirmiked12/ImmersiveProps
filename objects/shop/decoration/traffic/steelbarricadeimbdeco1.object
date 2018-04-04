@@ -1,0 +1,33 @@
+{
+  "objectName" : "steelbarricadeimbdeco1",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "description" : "A Steel Barrier Made Of Steel!.",
+  "shortdescription" : "Steel Barrier",
+  "race" : "human",
+  "price" : 50,
+  "health" : 1.5,
+
+  "apexDescription" : "A simple Barrier.",
+  "avianDescription" : "A Barrier. Very simple.",
+  "floranDescription" : "Sssimple Barrier.",
+  "glitchDescription" : "Uninterested. Just a Barrier.",
+  "humanDescription" : "A regular Barrier.",
+  "hylotlDescription" : "This Thing Dont Let Us Pass.",
+  "novakidDescription" : "A Normal,Steel Barrier.",
+
+  "inventoryIcon" : "steelbarricadeimbdeco1.png",
+  "orientations" : [
+    {
+      "dualImage" : "steelbarricadeimbdeco1.png:<color>",
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

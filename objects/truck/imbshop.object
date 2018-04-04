@@ -1,0 +1,53 @@
+{
+  "objectName" : "imbshop",
+  "rarity" : "Legendary",
+  "learnBlueprintsOnPickup" : [ "imbshop" ],
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/imbshop.config",
+    "filter" : [ "imbshop" ]
+  },
+  "printable" : false,
+  "description" : "Affordable goods, instant delivery and no assembly required!",
+  "shortdescription" : "^orange;Immersive Prop Store^white;",
+  "race" : "generic",
+  "category" : "crafting",
+  "price" : 50,
+
+  "apexDescription" : "Furniture shop, neat!",
+  "avianDescription" : "I don't even have to leave home to buy furniture!",
+  "floranDescription" : "Ooooh, fancy machine..",
+  "glitchDescription" : "Excited. Endless supply of screws!",
+  "humanDescription" : "No assembly required!",
+  "hylotlDescription" : "Do they have kotatsu in stock ?",
+
+  "inventoryIcon" : "imbshopicon.png",
+  "orientations" : [
+    {
+      "image" : "imbshopleft.png:<color>",
+      "imagePosition" : [-16,0],
+	  "frames" : 4,
+      "animationCycle" : 1.0,
+      "direction" : "left",
+      "flipImages" : false,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "imbshopright.png:<color>",
+      "imagePosition" : [-16, 0],
+	  "frames" : 4,
+      "animationCycle" : 1.0,
+      "direction" : "right",
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+//
+  "soundEffect" : "/sfx/objects/imbtruck.ogg",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600,
+  "soundEffectRadius" : 20
+//
+}
+

@@ -1,0 +1,33 @@
+{
+  "objectName" : "bigwhiteboardimbwalldeco1",
+  "colonyTags" : ["knowledge","human"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "description" : "A Huge Whiteboard For Writting.",
+  "shortdescription" : "Whiteboard",
+  "race" : "human",
+  "price" : 50,
+  "health" : 1.5,
+
+  "apexDescription" : "A simple Whiteboard.",
+  "avianDescription" : "A Whiteboard. Very simple.",
+  "floranDescription" : "Sssimple Whiteboard.",
+  "glitchDescription" : "Uninterested. Just a Whiteboard.",
+  "humanDescription" : "A regular Whiteboard.",
+  "hylotlDescription" : "A spot to Write.",
+  "novakidDescription" : "A Huge, plain Whiteboard.",
+
+  "inventoryIcon" : "bigwhiteboardimbwalldeco1.png",
+  "orientations" : [
+    {
+      "dualImage" : "bigwhiteboardimbwalldeco1.png:<color>",
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

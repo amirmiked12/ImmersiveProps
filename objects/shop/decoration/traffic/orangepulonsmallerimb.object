@@ -1,0 +1,33 @@
+{
+  "objectName" : "orangepulonsmallerimb",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "description" : "A Small Traffic Pylon For Our Safety.",
+  "shortdescription" : "Traffic Pylon",
+  "race" : "human",
+  "price" : 50,
+  "health" : 1.5,
+
+  "apexDescription" : "A simple Pylon.",
+  "avianDescription" : "A Pylon. Very simple.",
+  "floranDescription" : "Sssimple Pylon.",
+  "glitchDescription" : "Uninterested. Just a Pylon.",
+  "humanDescription" : "A regular Pylon.",
+  "hylotlDescription" : "This Thing Just Warns Us.",
+  "novakidDescription" : "A Small,Traffic Pylon.",
+
+  "inventoryIcon" : "orangepulonsmallerimb.png",
+  "orientations" : [
+    {
+      "dualImage" : "orangepulonsmallerimb.png:<color>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}
