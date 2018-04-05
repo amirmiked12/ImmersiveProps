@@ -1,0 +1,32 @@
+{
+  "objectName" : "beachaprasolcolorfllimbdecor1",
+  "colonyTags" : ["human","generic"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 50,
+  "description" : "this Protects You From Sun's Ultra Violete!",
+  "shortdescription" : "Beach Parasol",
+  "race" : "human",
+
+  "apexDescription" : "I can Lay Down Forever...",
+  "avianDescription" : "It protects Me From Heat Of Sun",
+  "floranDescription" : "Florans Love To Sssssleep Under It.",
+  "glitchDescription" : "A Place To Keep The Sleep.",
+  "humanDescription" : "I want To Change My Skin Color",
+  "hylotlDescription" : "A Place To Rest",
+  "novakidDescription" : "A Very Simple Beach Parasol",
+
+  "inventoryIcon" : "beachaprasolcolorfllimbdecor1.png",
+  "orientations" : [
+    {
+      "dualImage" : "beachaprasolcolorfllimbdecor1.png:<color>",
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}
