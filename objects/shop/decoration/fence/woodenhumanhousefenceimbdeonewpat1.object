@@ -1,0 +1,33 @@
+{
+  "objectName" : "woodenhumanhousefenceimbdeonewpat1",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 50,
+  "description" : "A Simple Wooden Fence For My Farm.",
+  "shortdescription" : "Wooden Fence",
+  "race" : "human",
+
+  "apexDescription" : "A simple Wooden fence with a nice pattern.",
+  "avianDescription" : "That ought to wall in plants nicely.",
+  "floranDescription" : "Ssssssmal Farm fence?!",
+  "glitchDescription" : "Glad. This should be fine for My little farm.",
+  "humanDescription" : "This Fence Is nice I Can make A Nice Farm With It.",
+  "hylotlDescription" : "The gaps in that fence would benefit well from some green growth.",
+  "novakidDescription" : "Looks nice, but its not quite Good.",
+
+  "inventoryIcon" : "woodenhumanhousefenceimbdeonewpat1.png",
+  "orientations" : [
+    {
+      "dualImage" : "woodenhumanhousefenceimbdeonewpat1.png:<color>",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

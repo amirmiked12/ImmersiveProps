@@ -1,0 +1,34 @@
+{
+  "objectName" : "lumberpileverticalimbdeoc",
+  "colonyTags" : ["Generic"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 50,
+  "description" : "A log, Veru smooth.",
+  "shortdescription" : "Log Stack",
+  "race" : "Generic",
+
+  "apexDescription" : "This log seems an ideal height for sitting.",
+  "avianDescription" : "An old log, looks like it's been used as a seat.",
+  "floranDescription" : "Who needs fancy chairss? Ssit on log.",
+  "glitchDescription" : "Surprised. This simple log makes an effective seat.",
+  "humanDescription" : "It's a log. Yessir I like it.",
+  "hylotlDescription" : "Most of the logs I've sat on have been floating.",
+  "novakidDescription" : "Looks perfect for sittin' on round a campfire.",
+
+
+  "inventoryIcon" : "lumberpileverticalimbdeoc.png",
+  "orientations" : [
+    {
+      "dualImage" : "lumberpileverticalimbdeoc.png:<color>",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}
