@@ -20,7 +20,7 @@
     {
       "dualImage" : "flowerpotvanillauimb1.png:<color>",
 
-      "imagePosition" : [-16, 0],
+      "imagePosition" : [0, 0],
       "frames" : 1,
       "animationCycle" : 1.0,
 

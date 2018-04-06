@@ -1,5 +1,5 @@
 {
-  "objectName" : "bathmirroswaterimbdeov1",
+  "objectName" : "bathtabenewimbdeoc1white",
   "colonyTags" : ["human"],
   "rarity" : "Common",
   "description" : "A Tabel.Made For Bathroom.",
@@ -16,10 +16,10 @@
   "hylotlDescription" : "A Table.",
   "novakidDescription" : "A Table.",
 
-  "inventoryIcon" : "bathmirroswaterimbdeov1.png",
+  "inventoryIcon" : "bathtabenewimbdeoc1white.png",
   "orientations" : [
     {
-      "dualImage" : "bathmirroswaterimbdeov1.png:<color>",
+      "dualImage" : "bathtabenewimbdeoc1white.png:<color>",
 
       "imagePosition" : [-16, 0],
       "frames" : 1,

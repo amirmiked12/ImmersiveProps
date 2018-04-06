@@ -1,5 +1,5 @@
 {
-  "objectName" : "bathmirroswaterimbdeov1",
+  "objectName" : "whitecoolerprotectorimbde1",
   "colonyTags" : ["human"],
   "rarity" : "Common",
   "description" : "An Air Conditioner Use For Refreshing The Air.",
@@ -16,10 +16,10 @@
   "hylotlDescription" : "An Air Conditioner",
   "novakidDescription" : "An Air Conditioner",
 
-  "inventoryIcon" : "bathmirroswaterimbdeov1.png",
+  "inventoryIcon" : "whitecoolerprotectorimbde1.png",
   "orientations" : [
     {
-      "dualImage" : "bathmirroswaterimbdeov1.png:<color>",
+      "dualImage" : "whitecoolerprotectorimbde1.png:<color>",
 
       "imagePosition" : [-16, 0],
       "frames" : 1,
