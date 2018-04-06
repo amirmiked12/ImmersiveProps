@@ -1,0 +1,32 @@
+{
+  "objectName" : "newgenericvanitybasketimb",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "description" : "Its A very Nince basket.",
+  "shortdescription" : "Wooden Basket",
+  "race" : "human",
+  "category" : "decorative",
+  "price" : 50,
+
+  "apexDescription" : "A Wooden Basket.",
+  "avianDescription" : "A Wooden Basket.",
+  "floranDescription" : "A Wooden Basket.",
+  "glitchDescription" : "A Wooden Basket.",
+  "humanDescription" : "A Wooden Basket.",
+  "hylotlDescription" : "A Wooden Basket.",
+
+  "inventoryIcon" : "newgenericvanitybasketimb.png",
+  "orientations" : [
+    {
+      "dualImage" : "newgenericvanitybasketimb.png:<color>",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

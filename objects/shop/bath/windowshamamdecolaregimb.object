@@ -1,0 +1,33 @@
+{
+  "objectName" : "windowshamamdecolaregimb",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "description" : "A Mirror.I Can See Myself Inside.",
+  "shortdescription" : "Bath Mirror",
+  "race" : "human",
+  "category" : "decorative",
+  "price" : 50,
+
+  "apexDescription" : "A Mirror.",
+  "avianDescription" : "A Mirror.",
+  "floranDescription" : "A Mirror.",
+  "glitchDescription" : "A Mirror.",
+  "humanDescription" : "A Mirror.",
+  "hylotlDescription" : "A Mirror.",
+  "novakidDescription" : "A Mirror.",
+
+  "inventoryIcon" : "windowshamamdecolaregimb.png",
+  "orientations" : [
+    {
+      "dualImage" : "windowshamamdecolaregimb.png:<color>",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

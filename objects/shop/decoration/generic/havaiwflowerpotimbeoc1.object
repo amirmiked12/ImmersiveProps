@@ -1,0 +1,32 @@
+{
+  "objectName" : "havaiwflowerpotimbeoc1",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "description" : "Its A Nice Flower.",
+  "shortdescription" : "Flower Pot",
+  "race" : "human",
+  "category" : "decorative",
+  "price" : 50,
+
+  "apexDescription" : "A Flower Pot.",
+  "avianDescription" : "A Flower Pott.",
+  "floranDescription" : "A Flower Pot.",
+  "glitchDescription" : "A Flower Pot.",
+  "humanDescription" : "A Flower Pot.",
+  "hylotlDescription" : "A Flower Pot.",
+
+  "inventoryIcon" : "havaiwflowerpotimbeoc1.png",
+  "orientations" : [
+    {
+      "dualImage" : "havaiwflowerpotimbeoc1.png:<color>",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

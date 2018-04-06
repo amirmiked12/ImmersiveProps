@@ -1,0 +1,53 @@
+{
+  "objectName" : "newstoolbathimbdeowhite1",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "description" : "A smallstool.",
+  "shortdescription" : "BathRoom Stool",
+  "race" : "huma",
+  "category" : "furniture",
+  "price" : 5,
+
+  "apexDescription" : "A small BathRoom stool.",
+  "avianDescription" : "A stool. Perhaps for one to rest one's talons.",
+  "floranDescription" : "Tiny ssseat.",
+  "glitchDescription" : "Unimpressed. A very small stool.",
+  "humanDescription" : "A cute little stool.",
+  "hylotlDescription" : "A charming stool.",
+  "novakidDescription" : "A lil BathRoom stool, straight outta some fairytale.",
+
+  "inventoryIcon" : "newstoolbathimbdeowhite1.png",
+  "orientations" : [
+    {
+      "image" : "newstoolbathimbdeowhite1.png:",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+
+      "sitPosition" : [5, 21],
+
+      "direction" : "right"
+    },
+    {
+      "image" : "woodstool.png",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+
+      "sitPosition" : [-5, 21],
+
+      "direction" : "left"
+    }
+  ],
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false
+}

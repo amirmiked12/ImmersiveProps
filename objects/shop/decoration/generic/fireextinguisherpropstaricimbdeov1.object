@@ -1,0 +1,33 @@
+{
+  "objectName" : "fireextinguisherpropstaricimbdeov1",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "description" : "A fire extinguisher Too bad Its Empty.",
+  "shortdescription" : "fire extinguisher",
+  "race" : "human",
+  "price" : 50,
+  "health" : 1.5,
+
+  "apexDescription" : "A fire extinguishert.",
+  "avianDescription" : "A fire extinguisher.",
+  "floranDescription" : "A fire extinguisher.",
+  "glitchDescription" : "A fire extinguisher.",
+  "humanDescription" : "A fire extinguisher.",
+  "hylotlDescription" : "A fire extinguisher.",
+  "novakidDescription" : "A fire extinguisher.",
+
+  "inventoryIcon" : "fireextinguisherpropstaricimbdeov1.png",
+  "orientations" : [
+    {
+      "dualImage" : "fireextinguisherpropstaricimbdeov1.png:<color>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}
