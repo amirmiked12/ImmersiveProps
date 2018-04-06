@@ -1,5 +1,5 @@
 {
-  "objectName" : "umberalsaferombdovred1'1",
+  "objectName" : "umberalsaferombdovred1",
   "colonyTags" : ["human","generic"],
   "rarity" : "Common",
   "category" : "decorative",
@@ -16,10 +16,10 @@
   "hylotlDescription" : "A Place To Rest",
   "novakidDescription" : "A Very Simple Beach Parasol",
 
-  "inventoryIcon" : "umberalsaferombdovred1'1.png",
+  "inventoryIcon" : "umberalsaferombdovred1.png",
   "orientations" : [
     {
-      "dualImage" : "umberalsaferombdovred1'1.png:<color>",
+      "dualImage" : "umberalsaferombdovred1.png:<color>",
       "imagePosition" : [-16, 0],
       "frames" : 1,
       "animationCycle" : 0.5,
