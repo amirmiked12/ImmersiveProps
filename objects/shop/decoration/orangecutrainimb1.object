@@ -1,0 +1,33 @@
+{
+  "objectName" : "orangecutrainimb1",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 50,
+
+  "description" : "A thin set of short curtains.",
+  "shortdescription" : "Standard Orange Curtain",
+  "race" : "humam",
+
+  "apexDescription" : "These curtains don't close. Privacy was not a priority.",
+  "avianDescription" : "Thin sheets of fabric. They're too small to cover any window.",
+  "floranDescription" : "Sssilly Apex make curtain too sssmall to cover window.",
+  "glitchDescription" : "Confused. Curtains too small for purpose.",
+  "humanDescription" : "These curtains aren't very wide. You couldn't cover a window with them.",
+  "hylotlDescription" : "This is a fabric of dull colours and rough feel.",
+  "novakidDescription" : "Some curtains. They seem too short to cover the window.",
+
+  "inventoryIcon" : "orangecutrainimb1.png",
+  "orientations" : [
+    {
+      "dualImage" : "orangecutrainimb1.png:<color>",
+      "imagePosition" : [-8, -16],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

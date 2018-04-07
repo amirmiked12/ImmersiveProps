@@ -1,0 +1,7 @@
+{
+  "input" : [
+		{ "item" : "money", "count" : 300 }
+  ],
+  "output" : { "item" : "sorsoreunbdeci1uribredpng", "count" : 1 },
+  "groups" : [ "imbshop", "imbdecorations" ]
+}

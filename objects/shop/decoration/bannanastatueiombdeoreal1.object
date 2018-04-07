@@ -1,0 +1,33 @@
+{
+  "objectName" : "bannanastatueiombdeoreal1",
+  "colonyTags" : ["apex"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "description" : "A Real BANANA Statue.",
+  "shortdescription" : "Banana Statue",
+  "race" : "apex",
+  "price" : 50,
+  "health" : 1.5,
+
+  "apexDescription" : "This One Is Real.",
+  "avianDescription" : "This One Is Real.",
+  "floranDescription" : "This One Is Real.",
+  "glitchDescription" : "This One Is Real.",
+  "humanDescription" : "This One Is Real.",
+  "hylotlDescription" : "This One Is Real.",
+  "novakidDescription" : "This One Is Real.",
+
+  "inventoryIcon" : "bannanastatueiombdeoreal1.png",
+  "orientations" : [
+    {
+      "dualImage" : "bannanastatueiombdeoreal1.png:<color>",
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

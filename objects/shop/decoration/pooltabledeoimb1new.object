@@ -1,0 +1,33 @@
+{
+  "objectName" : "pooltabledeoimb1new",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "description" : "A Pool Table With No Balls.",
+  "shortdescription" : "Pool Table",
+  "race" : "human",
+  "price" : 50,
+  "health" : 1.5,
+
+  "apexDescription" : "A Pool Table.",
+  "avianDescription" : "A Pool Table.",
+  "floranDescription" : "A Pool Table.",
+  "glitchDescription" : "A Pool Table.",
+  "humanDescription" : "A Pool Table.",
+  "hylotlDescription" : "A Pool Table.",
+  "novakidDescription" : "A Pool Table.",
+
+  "inventoryIcon" : "pooltabledeoimb1new.png",
+  "orientations" : [
+    {
+      "dualImage" : "pooltabledeoimb1new.png:<color>",
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}
