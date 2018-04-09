@@ -1,0 +1,56 @@
+{
+  "objectName" : "genericironchariimb1",
+    "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "category" : "furniture",
+  "price" : 50,
+  "printable" : false,
+  "description" : "A bench found in the garden.",
+  "shortdescription" : "Iron Bench",
+  "race" : "human",
+
+  "apexDescription" : "A solid Iron bench.",
+  "avianDescription" : "A Iron Garden Bench.",
+  "floranDescription" : "Floran sitsss on this bench often.",
+  "glitchDescription" : "A Iron Garden Bench.",
+  "humanDescription" : "A nice Iron bench.",
+  "hylotlDescription" : "A Iron Garden Bench.",
+  "novakidDescription" : "A Iron Garden Bench.",
+
+  "inventoryIcon" : "genericironchariimb1.png",
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false,
+
+  "orientations" : [
+    {
+      "image" : "genericironchariimb1.png:<color>",
+      "imagePosition" : [-18, 0],
+      "flipImages" : true,
+      "direction" : "left",
+
+      "sitPositions" : [
+        // Positions from front to back.
+        [-13, 23], // Right
+        [5, 23] // Left
+      ],
+
+      "spaces" : [ [-2,0],[-1,0],[0,0],[1,0],[2,0],[-2,1],[-1,1],[0,1],[1,1],[2,1],[-2,2],[-1,2],[0,2],[1,2],[2,2] ],
+      "anchors" : ["bottom"]
+    },
+    {
+      "image" : "genericironchariimb1.png:<color>",
+      "imagePosition" : [-16, 0],
+      "direction" : "right",
+
+      "sitPositions" : [
+        // Positions from front to back.
+        [-5, 23], // Left
+        [13, 23] // Right
+      ],
+
+      "spaces" : [ [-2,0],[-1,0],[0,0],[1,0],[2,0],[-2,1],[-1,1],[0,1],[1,1],[2,1],[-2,2],[-1,2],[0,2],[1,2],[2,2] ],
+      "anchors" : ["bottom"]
+    }
+  ]
+}

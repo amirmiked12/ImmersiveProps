@@ -1,0 +1,33 @@
+{
+  "objectName" : "mountainnewalldecoraionimb1",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "description" : "A Very Nice Painting",
+  "shortdescription" : "Painting",
+  "race" : "human",
+  "price" : 50,
+  "health" : 1.5,
+
+  "apexDescription" : "It Should Be Expensive.",
+  "avianDescription" : "It Should Be Expensive.",
+  "floranDescription" : "It Should Be Expensive.",
+  "glitchDescription" : "It Should Be Expensive.",
+  "humanDescription" : "It Should Be Expensive.",
+  "hylotlDescription" : "It Should Be Expensive.",
+  "novakidDescription" : "It Should Be Expensive.",
+
+  "inventoryIcon" : "mountainnewalldecoraionimb1.png",
+  "orientations" : [
+    {
+      "dualImage" : "mountainnewalldecoraionimb1.png:<color>",
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}
