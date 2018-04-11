@@ -1,0 +1,33 @@
+{
+  "objectName" : "basektalldecostreetmb1",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "description" : "A BasketBall Hoop For Street Matches.",
+  "shortdescription" : "Street BasketBall Hoop",
+  "race" : "human",
+  "price" : 50,
+  "health" : 1.5,
+
+  "apexDescription" : "I should Practice On My Three.",
+  "avianDescription" : "I should Practice On My Three.",
+  "floranDescription" : "I should Practice On My Three.",
+  "glitchDescription" : "I should Practice On My Three.",
+  "humanDescription" : "I should Practice On My Three.",
+  "hylotlDescription" : "I should Practice On My Three.",
+  "novakidDescription" : "I should Practice On My Three.",
+
+  "inventoryIcon" : "basektalldecostreetmb1.png",
+  "orientations" : [
+    {
+      "dualImage" : "basektalldecostreetmb1.png:<color>",
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "objectName" : "gymabstraineriombdeco1",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "description" : "A Wooden Bar For Abs training ",
+  "shortdescription" : "Wooden Bar",
+  "race" : "human",
+  "price" : 50,
+  "health" : 1.5,
+
+  "apexDescription" : "I Will Make My Six Pack One Day.",
+  "avianDescription" : "I Will Make My Six Pack One Day.",
+  "floranDescription" : "I Will Make My Six Pack One Day.",
+  "glitchDescription" : "I Will Make My Six Pack One Day.",
+  "humanDescription" : "I Will Make My Six Pack One Day.",
+  "hylotlDescription" : "I Will Make My Six Pack One Day.",
+  "novakidDescription" : "I Will Make My Six Pack One Day.",
+
+  "inventoryIcon" : "gymabstraineriombdeco1.png",
+  "orientations" : [
+    {
+      "dualImage" : "gymabstraineriombdeco1.png:<color>",
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

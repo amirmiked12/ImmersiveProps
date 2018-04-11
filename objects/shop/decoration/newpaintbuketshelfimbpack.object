@@ -1,0 +1,32 @@
+{
+  "objectName" : "newpaintbuketshelfimbpack",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 50,
+  "description" : "A Shelf With All Kinda Painting Color",
+  "shortdescription" : "Paints Shelf",
+  "race" : "human",
+
+  "apexDescription" : "This Is Exactly What I Need.",
+  "avianDescription" : "This Is Exactly What I Need.",
+  "floranDescription" : "This Is Exactly What I Need.",
+  "glitchDescription" : "This Is Exactly What I Need.",
+  "humanDescription" : "This Is Exactly What I Need.",
+  "hylotlDescription" : "This Is Exactly What I Need",
+  "novakidDescription" : "This Is Exactly What I Need",
+
+  "inventoryIcon" : "newpaintbuketshelfimbpack.png",
+  "orientations" : [
+    {
+      "dualImage" : "newpaintbuketshelfimbpack.png:<color>",
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

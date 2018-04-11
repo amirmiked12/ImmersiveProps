@@ -1,0 +1,32 @@
+{
+  "objectName" : "plateblackgym1",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 50,
+  "description" : "A Weight Plate made From Iron",
+  "shortdescription" : "Weight Plate",
+  "race" : "human",
+
+  "apexDescription" : "I Can Increase My halter Weights With This.",
+  "avianDescription" : "I Can Increase My halter Weights With This.",
+  "floranDescription" : "I Can Increase My halter Weights With This.",
+  "glitchDescription" : "I Can Increase My halter Weights With This.",
+  "humanDescription" : "I Can Increase My halter Weights With This.",
+  "hylotlDescription" : "I Can Increase My halter Weights With This",
+  "novakidDescription" : "I Can Increase My halter Weights With This",
+
+  "inventoryIcon" : "plateblackgym1.png",
+  "orientations" : [
+    {
+      "dualImage" : "plateblackgym1.png:<color>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}
