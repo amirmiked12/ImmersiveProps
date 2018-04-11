@@ -1,0 +1,34 @@
+{
+  "objectName" : "etnieslogdecoarinimbddeco",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 50,
+
+  "description" : "The Logo of Etnies Company.",
+  "shortdescription" : "Etnies Logo",
+  "race" : "human",
+
+  "apexDescription" : "What This Logo Do In This Game?",
+  "avianDescription" : "What This Logo Do In This Game?",
+  "floranDescription" : "What This Logo Do In This Game?",
+  "glitchDescription" : "What This Logo Do In This Game?",
+  "humanDescription" : "What This Logo Do In This Game?",
+  "hylotlDescription" : "What This Logo Do In This Game?",
+  "novakidDescription" : "What This Logo Do In This Game?",
+
+
+  "inventoryIcon" : "etnieslogdecoarinimbddeco.png",
+  "orientations" : [
+    {
+      "dualImage" : "etnieslogdecoarinimbddeco.png:<color>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "objectName" : "skatebortadledgeimbeco1",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "description" : "A Ledge made Using Woods.",
+  "shortdescription" : "Wooden Ledge",
+  "race" : "human",
+  "price" : 50,
+  "health" : 1.5,
+
+  "apexDescription" : "Too Bad I Dont have Skate.",
+  "avianDescription" : "Too Bad I Dont have Skate.",
+  "floranDescription" : "Too Bad I Dont have Skate.",
+  "glitchDescription" : "Too Bad I Dont have Skate.",
+  "humanDescription" : "Too Bad I Dont have Skate.",
+  "hylotlDescription" : "Too Bad I Dont have Skate.",
+  "novakidDescription" : "Too Bad I Dont have Skate.",
+
+  "inventoryIcon" : "skatebortadledgeimbeco1.png",
+  "orientations" : [
+    {
+      "dualImage" : "skatebortadledgeimbeco1.png:<color>",
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

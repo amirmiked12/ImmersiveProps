@@ -1,0 +1,34 @@
+{
+  "objectName" : "horizontalbartallimbboxwhite",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 50,
+
+  "description" : "A Punching Bag For Increasing My Strenth.",
+  "shortdescription" : "Punching Bag",
+  "race" : "human",
+
+  "apexDescription" : "I Should Punch AS Much As I Can",
+  "avianDescription" : "I Should Punch AS Much As I Can",
+  "floranDescription" : "I Should Punch AS Much As I Can",
+  "glitchDescription" : "I Should Punch AS Much As I Can",
+  "humanDescription" : "I Should Punch AS Much As I Can",
+  "hylotlDescription" : "I Should Punch AS Much As I Can",
+  "novakidDescription" : "I Should Punch AS Much As I Can",
+
+
+  "inventoryIcon" : "horizontalbartallimbboxwhite.png",
+  "orientations" : [
+    {
+      "dualImage" : "horizontalbartallimbboxwhite.png:<color>",
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

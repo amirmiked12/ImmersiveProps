@@ -1,0 +1,34 @@
+{
+  "objectName" : "monsetystackeddoolorrappedtranspaernt",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 50,
+
+  "description" : "Stacks Of Dollors In here.",
+  "shortdescription" : "Money Stacks",
+  "race" : "human",
+
+  "apexDescription" : "I Wodner How Much?",
+  "avianDescription" : "I Wodner How Much?",
+  "floranDescription" : "I Wodner How Much?",
+  "glitchDescription" : "I Wodner How Much?",
+  "humanDescription" : "I Wodner How Much?",
+  "hylotlDescription" : "I Wodner How Much?",
+  "novakidDescription" : "I Wodner How Much?",
+
+
+  "inventoryIcon" : "monsetystackeddoolorrappedtranspaernt.png",
+  "orientations" : [
+    {
+      "dualImage" : "monsetystackeddoolorrappedtranspaernt.png:<color>",
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}
