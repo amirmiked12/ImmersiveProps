@@ -1,0 +1,37 @@
+{
+  "objectName" : "stopsignnewimbdeoc1grevkyeen",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "description" : "A Very Usefull Traffic Sign.",
+  "shortdescription" : "Traffic Sign",
+  "race" : "human",
+  "price" : 50,
+  "health" : 1.5,
+
+  "apexDescription" : "Its Trying To Tell Me Something.",
+  "avianDescription" : "Its Trying To Tell Me Something.",
+  "floranDescription" : "Its Trying To Tell Me Something.",
+  "glitchDescription" : "Its Trying To Tell Me Something.",
+  "humanDescription" : "Its Trying To Tell Me Something.",
+  "hylotlDescription" : "Its Trying To Tell Me Something.",
+  "novakidDescription" : "Its Trying To Tell Me Something.",
+
+  "inventoryIcon" : "stopsignnewimbdeoc1grevkyeen.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "stopsignnewimbdeoc1grevkyeen.png" } ],
+      "imagePosition" : [-16,0],
+
+      "direction" : "right",
+      "flipImages" : false,
+
+      "frames" : 1,
+      "animationCycle" : 0.1,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "objectName" : "onewayshoersignewdeocib1blue",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "description" : "A Very Usefull Traffic Sign.",
+  "shortdescription" : "Traffic Sign",
+  "race" : "human",
+  "price" : 50,
+  "health" : 1.5,
+
+  "apexDescription" : "Its Trying To Tell Me Something.",
+  "avianDescription" : "Its Trying To Tell Me Something.",
+  "floranDescription" : "Its Trying To Tell Me Something.",
+  "glitchDescription" : "Its Trying To Tell Me Something.",
+  "humanDescription" : "Its Trying To Tell Me Something.",
+  "hylotlDescription" : "Its Trying To Tell Me Something.",
+  "novakidDescription" : "Its Trying To Tell Me Something.",
+
+  "inventoryIcon" : "onewayshoersignewdeocib1blue.png",
+  "orientations" : [
+    {
+      "dualImage" : "onewayshoersignewdeocib1blue.png:<color>",
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}
