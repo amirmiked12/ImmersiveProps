@@ -21,7 +21,7 @@
   "orientations" : [
     {
       "dualImage" : "runrightsignshoernewmbdeoc1.png:<color>",
-      "imagePosition" : [-16, 0],
+      "imagePosition" : [-12, 0],
       "frames" : 1,
       "animationCycle" : 1.0,
 

@@ -21,7 +21,7 @@
   "orientations" : [
     {
       "imageLayers" : [ { "image" : "stopsignnewdecinbd1.png" } ],
-      "imagePosition" : [-16,0],
+      "imagePosition" : [-9,0],
 
       "direction" : "right",
       "flipImages" : false,

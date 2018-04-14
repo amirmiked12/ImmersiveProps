@@ -21,7 +21,7 @@
   "orientations" : [
     {
       "imageLayers" : [ { "image" : "stopsignnewimbdeoc1green.png" } ],
-      "imagePosition" : [-16,0],
+      "imagePosition" : [-12,0],
 
       "direction" : "right",
       "flipImages" : false,
