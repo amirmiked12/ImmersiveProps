@@ -1,0 +1,34 @@
+{
+  "objectName" : "mewplankstackimbdeco1v1",
+  "colonyTags" : ["human","generic"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 50,
+  "description" : "A Plank, Veru smooth.",
+  "shortdescription" : "Plank Stacks",
+  "race" : "human",
+
+  "apexDescription" : "This Plank seems an ideal height for sitting.",
+  "avianDescription" : "An old Plank, looks like it's been used as a seat.",
+  "floranDescription" : "Who needs fancy chairss? Ssit on Plank.",
+  "glitchDescription" : "Surprised. This simple Plank makes an effective seat.",
+  "humanDescription" : "It's a Plank. Yessir I like it.",
+  "hylotlDescription" : "Most of the logs I've sat on have been floating.",
+  "novakidDescription" : "Looks perfect for sittin' on round a campfire.",
+
+
+  "inventoryIcon" : "mewplankstackimbdeco1v1.png",
+  "orientations" : [
+    {
+      "dualImage" : "mewplankstackimbdeco1v1.png:<color>",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

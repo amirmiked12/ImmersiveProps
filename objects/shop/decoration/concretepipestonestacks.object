@@ -1,0 +1,32 @@
+{
+  "objectName" : "concretepipestonestacks",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 50,
+  "description" : "A Concrete Pipe Veru Usefull",
+  "shortdescription" : "Concrete Pipe Stacks",
+  "race" : "human",
+
+  "apexDescription" : "Best Place For hide And Seak",
+  "avianDescription" : "Best Place For hide And Seak",
+  "floranDescription" : "Best Place For hide And Seak.",
+  "glitchDescription" : "Best Place For hide And Seak.",
+  "humanDescription" : "Best Place For hide And Seak",
+  "hylotlDescription" : "Best Place For hide And Seak",
+  "novakidDescription" : "Best Place For hide And Seak",
+
+  "inventoryIcon" : "concretepipestonestacks.png",
+  "orientations" : [
+    {
+      "dualImage" : "concretepipestonestacks.png:<color>",
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "objectName" : "copperbardeocaribimb1",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 50,
+  "description" : "A Simple Copper Bar",
+  "shortdescription" : "Copper Bar",
+  "race" : "human",
+
+  "apexDescription" : "Why Its Orange?",
+  "avianDescription" : "Why Its Orange?",
+  "floranDescription" : "Why Its Orange?",
+  "glitchDescription" : "Why Its Orange?",
+  "humanDescription" : "Why Its Orange?",
+  "hylotlDescription" : "Why Its Orange?",
+  "novakidDescription" : "Why Its Orange?",
+
+  "inventoryIcon" : "copperbardeocaribimb1.png",
+  "orientations" : [
+    {
+      "dualImage" : "copperbardeocaribimb1.png:<color>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "objectName" : "silverbarmibdeovimv1",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 50,
+  "description" : "A Simple Silver Bar",
+  "shortdescription" : "Silver Bar",
+  "race" : "human",
+
+  "apexDescription" : "Why Its blue?",
+  "avianDescription" : "Why Its blue?",
+  "floranDescription" : "Why Its blue?",
+  "glitchDescription" : "Why Its blue?",
+  "humanDescription" : "Why Its blue?",
+  "hylotlDescription" : "Why Its blue?",
+  "novakidDescription" : "Why Its blue?",
+
+  "inventoryIcon" : "silverbarmibdeovimv1.png",
+  "orientations" : [
+    {
+      "dualImage" : "silverbarmibdeovimv1.png:<color>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

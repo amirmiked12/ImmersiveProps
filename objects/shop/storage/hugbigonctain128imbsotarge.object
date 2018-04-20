@@ -1,0 +1,45 @@
+{
+  "objectName" : "hugbigonctain128imbsotarge",
+  "colonyTags" : ["storage"],
+  "printable" : false,
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+
+  "category" : "storage",
+  "price" : 50,
+  "description" : "A mysterious Iron Container.",
+  "shortdescription" : "Huge Container Crate",
+  "race" : "human",
+  "health" : 1.5,
+
+  "apexDescription" : "A Iron Container.",
+  "avianDescription" : "A Iron Container.",
+  "floranDescription" : "Iron Container!",
+  "glitchDescription" : "Curious. Is there anything inside?",
+  "humanDescription" : "A Iron Container. It's open.",
+  "hylotlDescription" : "An open Iron Container.",
+  "novakidDescription" : "A regular Iron Container.",
+
+  "inventoryIcon" : "hugbigonctain128imbsotarge.png",
+  "orientations" : [
+    {
+      "dualImage" : "hugbigonctain128imbsotarge.png:<color>",
+
+      "imagePosition" : [-80, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/shippingcontainer_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/shippingcontainer_close.ogg" ],
+  "slotCount" : 128,
+  "uiConfig" : "/interface/chests/imbstorage128.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+}

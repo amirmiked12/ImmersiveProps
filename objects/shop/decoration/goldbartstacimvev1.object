@@ -1,0 +1,32 @@
+{
+  "objectName" : "goldbartstacimvev1",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 50,
+  "description" : "A Simple Gold Bar",
+  "shortdescription" : "Gold Bar Stacks",
+  "race" : "human",
+
+  "apexDescription" : "Why Its Yellow?",
+  "avianDescription" : "Why Its Yellow?",
+  "floranDescription" : "Why Its Yellow?",
+  "glitchDescription" : "Why Its Yellow?",
+  "humanDescription" : "Why Its Yellow?",
+  "hylotlDescription" : "Why Its Yellow?",
+  "novakidDescription" : "Why Its Yellow?",
+
+  "inventoryIcon" : "goldbartstacimvev1.png",
+  "orientations" : [
+    {
+      "dualImage" : "goldbartstacimvev1.png:<color>",
+      "imagePosition" : [-22, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

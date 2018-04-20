@@ -1,0 +1,32 @@
+{
+  "objectName" : "silerbaesirackeimb1",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 50,
+  "description" : "A Simple Silver Bar",
+  "shortdescription" : "Silver Bar Stacks",
+  "race" : "human",
+
+  "apexDescription" : "Why Its blue?",
+  "avianDescription" : "Why Its blue?",
+  "floranDescription" : "Why Its blue?",
+  "glitchDescription" : "Why Its blue?",
+  "humanDescription" : "Why Its blue?",
+  "hylotlDescription" : "Why Its blue?",
+  "novakidDescription" : "Why Its blue?",
+
+  "inventoryIcon" : "silerbaesirackeimb1.png",
+  "orientations" : [
+    {
+      "dualImage" : "silerbaesirackeimb1.png:<color>",
+      "imagePosition" : [-22, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

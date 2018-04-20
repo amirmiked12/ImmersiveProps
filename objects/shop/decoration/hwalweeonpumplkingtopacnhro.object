@@ -1,0 +1,33 @@
+{
+  "objectName" : "hwalweeonpumplkingtopacnhro",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "description" : "A pumpkin Good For HalloWeen.",
+  "shortdescription" : "Hanging Pumpkin",
+  "race" : "human",
+  "price" : 50,
+  "health" : 1.5,
+
+  "apexDescription" : "booooooooo",
+  "avianDescription" : "booooooooo",
+  "floranDescription" : "booooooooo",
+  "glitchDescription" : "booooooooo",
+  "humanDescription" : "booooooooo",
+  "hylotlDescription" : "booooooooo",
+  "novakidDescription" : "booooooooo",
+
+  "inventoryIcon" : "hwalweeonpumplkingtopacnhro.png",
+  "orientations" : [
+    {
+      "dualImage" : "hwalweeonpumplkingtopacnhro.png:<color>",
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "top" ]
+
+    }
+  ]
+}

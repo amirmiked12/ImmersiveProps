@@ -1,0 +1,32 @@
+{
+  "objectName" : "hylotltreered",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 50,
+  "description" : "A Huge Bonsai Tree!",
+  "shortdescription" : "Bonsai Tree",
+  "race" : "human",
+
+  "apexDescription" : "The big tree. Its trunk is big and solid. I wonder what will happen when it outgrows this platform.",
+  "avianDescription" : "This big tree is precious to the Protectorate. I heard it's as old as the academy.",
+  "floranDescription" : "Big tree isss old and wise. Floran wishess to grow as old and wise as tree.",
+  "glitchDescription" : "Impressed. This tree is as old as the academy.",
+  "humanDescription" : "The Protectorate tree. It's known as just \"the Tree\".",
+  "hylotlDescription" : "The blossom is brighter and more beautiful this year than I've ever seen it.",
+  "novakidDescription" : "The big ol' tree is said to be as old as the academy itself.",
+
+  "inventoryIcon" : "hylotltreered.png",
+  "orientations" : [
+    {
+      "dualImage" : "hylotltreered.png:<color>",
+      "imagePosition" : [-107, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

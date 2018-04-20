@@ -1,0 +1,32 @@
+{
+  "objectName" : "ironbarstackedimbv1",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 50,
+  "description" : "A Simple Iron Bar",
+  "shortdescription" : "Iron Bar Stacks",
+  "race" : "human",
+
+  "apexDescription" : "Why Its White?",
+  "avianDescription" : "Why Its White?",
+  "floranDescription" : "Why Its White?",
+  "glitchDescription" : "Why Its White?",
+  "humanDescription" : "Why Its White?",
+  "hylotlDescription" : "Why Its White?",
+  "novakidDescription" : "Why Its White?",
+
+  "inventoryIcon" : "ironbarstackedimbv1.png",
+  "orientations" : [
+    {
+      "dualImage" : "ironbarstackedimbv1.png:<color>",
+      "imagePosition" : [-22, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

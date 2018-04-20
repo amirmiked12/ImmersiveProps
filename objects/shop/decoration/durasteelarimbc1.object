@@ -1,0 +1,32 @@
+{
+  "objectName" : "durasteelarimbc1",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 50,
+  "description" : "A Simple Durasteel Bar",
+  "shortdescription" : "Durasteel Bar",
+  "race" : "human",
+
+  "apexDescription" : "Why Its Purple?",
+  "avianDescription" : "Why Its Purple?",
+  "floranDescription" : "Why Its Purple?",
+  "glitchDescription" : "Why Its Purple?",
+  "humanDescription" : "Why Its Purple?",
+  "hylotlDescription" : "Why Its Purple?",
+  "novakidDescription" : "Why Its Purple?",
+
+  "inventoryIcon" : "durasteelarimbc1.png",
+  "orientations" : [
+    {
+      "dualImage" : "durasteelarimbc1.png:<color>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

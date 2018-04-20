@@ -1,0 +1,32 @@
+{
+  "objectName" : "blackgetterjarsaghilimb",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 50,
+  "description" : "Crane,for lifting stuff",
+  "shortdescription" : "Crane",
+  "race" : "human",
+
+  "apexDescription" : "I wonder If I Can Go Up there",
+  "avianDescription" : "I wonder If I Can Go Up there",
+  "floranDescription" : "I wonder If I Can Go Up there.",
+  "glitchDescription" : "I wonder If I Can Go Up there.",
+  "humanDescription" : "I wonder If I Can Go Up there",
+  "hylotlDescription" : "I wonder If I Can Go Up there",
+  "novakidDescription" : "I wonder If I Can Go Up there",
+
+  "inventoryIcon" : "blackgetterjarsaghilimb.png",
+  "orientations" : [
+    {
+      "dualImage" : "blackgetterjarsaghilimb.png:<color>",
+      "imagePosition" : [-112, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}
