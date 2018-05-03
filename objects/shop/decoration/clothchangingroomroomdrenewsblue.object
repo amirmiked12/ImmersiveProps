@@ -1,0 +1,38 @@
+{
+  "objectName" : "clothchangingroomroomdrenewsblue",
+  "colonyTags" : ["human"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "A screen for modest individuals to hide behind while getting changed",
+  "shortdescription" : "Screen",
+  "race" : "human",
+  "category" : "furniture",
+  "price" : 50,
+
+  "apexDescription" : "A screen. Apex are not allowed such things.",
+  "avianDescription" : "This screen looks like it could fall over in the slightest breeze.",
+  "floranDescription" : "Floran could poke two holes in ssscreen and peek through!",
+  "glitchDescription" : "Critical. You can practically see through this screen. Pointless.",
+  "humanDescription" : "You couldn't really hide behind this screen. People would see your silhouette.",
+  "hylotlDescription" : "Modesty, integrity, beauty. This screen has it all.",
+  "novakidDescription" : "A thin paper screen. I can practically see right through it.",
+
+  "objectType" : "loungeable",
+  "sitCoverImage" : "/objects/shop/decoration/clothchangingroomroomdrenewsblue.png",
+  "sitFlipDirection" : true,
+  "sitOrientation" : "lay",
+  "sitAngle" : 0,
+
+  "inventoryIcon" : "clothchangingroomroomdrenewsblue.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "clothchangingroomroomdrenewsblue.png" } ],
+      "imagePosition" : [-33, 0],
+	  "direction" : "right",
+      "flipImages" : false,
+      "spaceScan" : 0.1,
+      "sitPosition" : [-5, 20],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

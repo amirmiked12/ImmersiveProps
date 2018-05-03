@@ -1,0 +1,32 @@
+{
+  "objectName" : "gaurdstowernoakidimbdeoc1",
+  "colonyTags" : ["novakid"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 50,
+  "description" : "Large logs assembled as a construction platform.",
+  "shortdescription" : "Large Wooden Tower",
+  "race" : "novakid",
+
+  "apexDescription" : "These logs are arranged to support great weight.",
+  "avianDescription" : "This assembly looks like it's made for building a large structure.",
+  "floranDescription" : "Floran ssstand on platform, leap down on unsssuspecting enemies.",
+  "glitchDescription" : "Curious. How were novakid able to move these enormous logs into place?",
+  "humanDescription" : "If I played a game with this, it'd be a platform game.",
+  "hylotlDescription" : "A very structurally solid construction platform.",
+  "novakidDescription" : "A whole mess o' logs stacked up for standin' on.",
+
+  "inventoryIcon" : "gaurdstowernoakidimbdeoc1.png",
+  "orientations" : [
+    {
+      "dualImage" : "gaurdstowernoakidimbdeoc1.png:<color>",
+      "imagePosition" : [-20, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+	  "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    }
+  ]
+}

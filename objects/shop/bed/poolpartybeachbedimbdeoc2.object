@@ -1,0 +1,47 @@
+{
+  "objectName" : "poolpartybeachbedimbdeoc2",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "description" : "A Beach Bed For Tanning But With Parasol.",
+  "shortdescription" : "Beach Bed",
+  "race" : "human",
+  "price" : 50,
+  "health" : 1.5,
+
+  "apexDescription" : "I Realy Like The Parasol.",
+  "avianDescription" : "I Realy Like The Parasol.",
+  "floranDescription" : "I Realy Like The Parasol.",
+  "glitchDescription" : "I Realy Like The Parasol.",
+  "humanDescription" : "I Realy Like The Parasol.",
+  "hylotlDescription" : "I Realy Like The Parasol.",
+  "novakidDescription" : "I Realy Like The Parasol.",
+
+  "inventoryIcon" : "poolpartybeachbedimbdeoc2.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "poolpartybeachbedimbdeoc2.png" } ],
+      "imagePosition" : [-25, 0],
+	  "direction" : "right",
+      "flipImages" : false,
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+  
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false,
+  "sitPosition" : [1,17],
+  "sitOrientation" : "lay",
+  "sitAngle" : 45,
+  "sitCoverImage" : "/objects/shop/bed/poolpartybeachbedimbdeoc2cover.png",
+  "sitEmote" : "sleep",
+  "sitStatusEffects" : [
+    "bed1"
+  ],
+  "sitEffectEmitters" : [ "sleepbubbles" ]
+}

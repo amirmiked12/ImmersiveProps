@@ -1,0 +1,33 @@
+{
+  "objectName" : "newalltvimbdecrab1",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "description" : "A Black Tv For Wall.",
+  "shortdescription" : "WideScreen Tv",
+  "race" : "human",
+  "price" : 50,
+  "health" : 1.5,
+
+  "apexDescription" : "Why Its Off?",
+  "avianDescription" : "Why Its Off?",
+  "floranDescription" : "Why Its Off?",
+  "glitchDescription" : "Why Its Off?",
+  "humanDescription" : "Why Its Off?",
+  "hylotlDescription" : "Why Its Off?",
+  "novakidDescription" : "Why Its Off?",
+
+  "inventoryIcon" : "newalltvimbdecrab1.png",
+  "orientations" : [
+    {
+      "dualImage" : "newalltvimbdecrab1.png:<color>",
+      "imagePosition" : [-15, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}
