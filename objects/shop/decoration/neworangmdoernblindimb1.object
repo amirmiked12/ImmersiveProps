@@ -1,0 +1,49 @@
+{
+  "objectName" : "neworangmdoernblindimb1",
+  "printable" : false,
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "category" : "furniture",
+  "price" : 50,
+
+  "description" : "Nice Orange curtain.",
+  "shortdescription" : "Orange curtain",
+  "race" : "human",
+
+  "apexDescription" : "I Want To Know Whats behind.",
+  "avianDescription" : "I Want To Know Whats behind.",
+  "floranDescription" : "I Want To Know Whats behind.",
+  "glitchDescription" : "I Want To Know Whats behind.",
+  "humanDescription" : "I Want To Know Whats behind.",
+  "hylotlDescription" : "I Want To Know Whats behind.",
+
+ "inventoryIcon" : "neworangmdoernblindimb1icon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "neworangmdoernblindimb1.png:<color>.off" } ],
+      "imagePosition" : [-20, 0],
+      "direction" : "right",
+      "flipImages" : false,
+      "frames" : 5,
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "scripts" : [ "/objects/wired/switch/switch.lua" ],
+  "scriptDelta" : 5,
+
+  "animation" : "/objects/animation/switchtoggle5imb.animation",
+  "animationParts" : {
+    "switch" : "neworangmdoernblindimb1.png"
+  },
+  
+  "animationCustom" : {
+    "sounds" : {
+      "on" : [],
+      "off" : []
+    }
+  },
+  
+  "animationPosition" : [-20, 0]
+}

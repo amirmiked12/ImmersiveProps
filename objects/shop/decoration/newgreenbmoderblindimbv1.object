@@ -1,0 +1,49 @@
+{
+  "objectName" : "newgreenbmoderblindimbv1",
+  "printable" : false,
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "category" : "furniture",
+  "price" : 50,
+
+  "description" : "Nice Green curtain.",
+  "shortdescription" : "Green curtain",
+  "race" : "human",
+
+  "apexDescription" : "I Want To Know Whats behind.",
+  "avianDescription" : "I Want To Know Whats behind.",
+  "floranDescription" : "I Want To Know Whats behind.",
+  "glitchDescription" : "I Want To Know Whats behind.",
+  "humanDescription" : "I Want To Know Whats behind.",
+  "hylotlDescription" : "I Want To Know Whats behind.",
+
+ "inventoryIcon" : "newgreenbmoderblindimbv1icon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "newgreenbmoderblindimbv1.png:<color>.off" } ],
+      "imagePosition" : [-20, 0],
+      "direction" : "right",
+      "flipImages" : false,
+      "frames" : 5,
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "scripts" : [ "/objects/wired/switch/switch.lua" ],
+  "scriptDelta" : 5,
+
+  "animation" : "/objects/animation/switchtoggle5imb.animation",
+  "animationParts" : {
+    "switch" : "newgreenbmoderblindimbv1.png"
+  },
+  
+  "animationCustom" : {
+    "sounds" : {
+      "on" : [],
+      "off" : []
+    }
+  },
+  
+  "animationPosition" : [-20, 0]
+}

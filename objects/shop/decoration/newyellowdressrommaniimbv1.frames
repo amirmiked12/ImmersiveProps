@@ -1,0 +1,21 @@
+{
+  "frameGrid" : {
+    "size" : [56, 41],
+    "dimensions" : [5, 1],
+    "names" : [
+      [ "default.off", "default.1", "default.2", "default.3", "default.on" ]
+    ]
+  },
+ "aliases" : {
+    "turningOn.1" : "default.off",
+    "turningOn.2" : "default.1",
+    "turningOn.3" : "default.2",
+    "turningOn.4" : "default.3",
+    "turningOn.5" : "default.on",
+    "turningOff.1" : "default.on",
+    "turningOff.2" : "default.3",
+    "turningOff.3" : "default.2",
+    "turningOff.4" : "default.1",
+    "turningOff.5" : "default.off"
+  }
+}
