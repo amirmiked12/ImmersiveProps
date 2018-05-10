@@ -20,10 +20,8 @@
   "inventoryIcon" : "poolpartybeachbedimbdeoc3.png",
   "orientations" : [
     {
-      "imageLayers" : [ { "image" : "poolpartybeachbedimbdeoc3.png" } ],
+      "dualImage" : "poolpartybeachbedimbdeoc3.png",
       "imagePosition" : [-25, 0],
-	  "direction" : "right",
-      "flipImages" : false,
       "frames" : 1,
       "animationCycle" : 1.0,
 

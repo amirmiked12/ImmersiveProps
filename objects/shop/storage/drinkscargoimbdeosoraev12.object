@@ -1,0 +1,41 @@
+{
+  "objectName" : "drinkscargoimbdeosoraev12",
+  "colonyTags" : ["storage"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "description" : "A Cart Full of LEGAL Stuff.",
+  "shortdescription" : "beverages Cart",
+  "race" : "human",
+  "category" : "storage",
+  "price" : 50,
+  "health" : 1.5,
+
+  "apexDescription" : "A Cart.",
+  "avianDescription" : "A Cart .",
+  "floranDescription" : "Fine Cart .",
+  "glitchDescription" : "Neutral. A Cart .",
+  "humanDescription" : "It's just a Cart.",
+  "hylotlDescription" : "A Cart made of wood.",
+  "novakidDescription" : "A huge Cart.",
+
+  "inventoryIcon" : "drinkscargoimbdeosoraev12.png",
+  "orientations" : [
+    {
+      "dualImage" : "drinkscargoimbdeosoraev12.png:<color>",
+
+      "imagePosition" : [-57, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+  "slotCount" : 64,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+
+}

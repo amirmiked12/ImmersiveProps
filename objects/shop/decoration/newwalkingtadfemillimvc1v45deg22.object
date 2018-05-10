@@ -1,0 +1,32 @@
+{
+  "objectName" : "newwalkingtadfemillimvc1v45deg22",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 50,
+  "description" : "A Machine For You To Run",
+  "shortdescription" : "45 Degree Treadmill",
+  "race" : "human",
+
+  "apexDescription" : "You can Run Forever On This Thing",
+  "avianDescription" : "You can Run Forever On This Thing",
+  "floranDescription" : "You can Run Forever On This Thing.",
+  "glitchDescription" : "You can Run Forever On This Thing.",
+  "humanDescription" : "You can Run Forever On This Thing",
+  "hylotlDescription" : "You can Run Forever On This Thing",
+  "novakidDescription" : "You can Run Forever On This Thing",
+
+  "inventoryIcon" : "newwalkingtadfemillimvc1v45deg22.png",
+  "orientations" : [
+    {
+      "dualImage" : "newwalkingtadfemillimvc1v45deg22.png:<color>",
+      "imagePosition" : [-30, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

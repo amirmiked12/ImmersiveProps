@@ -41,8 +41,8 @@
   
   "animationCustom" : {
     "sounds" : {
-      "on" : [],
-      "off" : []
+      "on" : ["/sfx/objects/curtainslide.ogg"],
+      "off" : ["/sfx/objects/curtainslideclose.ogg"]
     }
   },
   

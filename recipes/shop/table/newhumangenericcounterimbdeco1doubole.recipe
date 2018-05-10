@@ -1,0 +1,7 @@
+{
+  "input" : [
+		{ "item" : "money", "count" : 200 }
+  ],
+  "output" : { "item" : "newhumangenericcounterimbdeco1doubole", "count" : 1 },
+  "groups" : [ "imbshop", "imbtables" ]
+}

@@ -40,8 +40,8 @@
   
   "animationCustom" : {
     "sounds" : {
-      "on" : [],
-      "off" : []
+      "on" : ["/sfx/objects/blindcurtain.ogg"],
+      "off" : ["/sfx/objects/blindcurtain.ogg"]
     }
   },
   

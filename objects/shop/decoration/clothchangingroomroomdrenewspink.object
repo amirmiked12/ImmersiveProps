@@ -31,7 +31,7 @@
 	  "direction" : "right",
       "flipImages" : false,
       "spaceScan" : 0.1,
-      "sitPosition" : [-5, 20],
+      "sitPosition" : [-6, 33],
       "anchors" : [ "bottom" ]
     }
   ]

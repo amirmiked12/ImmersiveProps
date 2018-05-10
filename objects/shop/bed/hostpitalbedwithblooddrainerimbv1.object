@@ -1,0 +1,45 @@
+{
+  "objectName" : "hostpitalbedwithblooddrainerimbv1",
+  "colonyTags" : ["human"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "A comfy bed.",
+  "shortdescription" : "Hospital Bed",
+  "race" : "human",
+  "category" : "furniture",
+  "price" : 50,
+
+  "apexDescription" : "A simple bed, comfy for sick People.",
+  "avianDescription" : "A simple bed, comfy for sick People.",
+  "floranDescription" : "A simple bed, comfy for sick People.",
+  "glitchDescription" : "A simple bed, comfy for sick People.",
+  "humanDescription" : "A simple bed, comfy for sick People.",
+  "hylotlDescription" : "A simple bed, comfy for sick People.",
+  "novakidDescription" : "A simple bed, comfy for sick People.",
+
+  "inventoryIcon" : "hostpitalbedwithblooddrainerimbv1.png",
+  "orientations" : [
+    {
+      "dualImage" : "hostpitalbedwithblooddrainerimbv1.png:<color>",
+
+      "imagePosition" : [-37, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : true,
+  "sitPosition" : [-9, 18],
+  "sitOrientation" : "lay",
+  "sitAngle" : 90,
+  "sitEmote" : "sleep",
+  "sitStatusEffects" : [
+    "bed1"
+  ],
+  "sitEffectEmitters" : [ "sleepbubbles" ]
+}

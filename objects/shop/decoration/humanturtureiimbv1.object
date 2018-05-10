@@ -1,0 +1,52 @@
+{
+  "objectName" : "humanturtureiimbv1",
+  "printable" : false,
+  "colonyTags" : ["glitch","glitchcastle","evil"],
+  "rarity" : "Common",
+  "category" : "furniture",
+  "price" : 50,
+
+  "description" : "A brutal yet effective execution device.",
+  "shortdescription" : "Guillotine",
+  "race" : "glitch",
+
+  "apexDescription" : "An old but effective form of punishment.",
+  "avianDescription" : "Not as bad as being defeathered.",
+  "floranDescription" : "Blade cutss fasst! Great for food preparationss!",
+  "glitchDescription" : "Sadness. The preferred form of capital punishment among the Glitch.",
+  "humanDescription" : "I would not want to be on the receiving end of this thing.",
+  "hylotlDescription" : "A barbaric form of punishment...",
+  "novakidDescription" : "Quick and easy. Too easy for my likin'!",
+
+ "inventoryIcon" : "humanturtureiimbv1icon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "humanturtureiimbv1.png:<color>.off" } ],
+      "imagePosition" : [-8, -8],
+	  "direction" : "right",
+      "flipImages" : false,
+      "frames" : 5,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "scripts" : [ "/objects/wired/switch/switch.lua" ],
+  "scriptDelta" : 5,
+
+  "animation" : "/objects/animation/switchtoggle5fastimb.animation",
+  "animationParts" : {
+    "switch" : "humanturtureiimbv1.png"
+  },
+  
+  "animationCustom" : {
+    "sounds" : {
+      "on" : ["/sfx/objects/gultinedorop.ogg"],
+      "off" : []
+    }
+  },
+  
+  "animationPosition" : [-8, -8]
+}
+
+
