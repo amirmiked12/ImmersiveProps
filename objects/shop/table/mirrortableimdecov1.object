@@ -2,6 +2,8 @@
   "objectName" : "mirrortableimdecov1",
   "colonyTags" : ["commerce"],
   "printable" : false,
+  "objectType" : "container",
+  "tooltipKind" : "container",
   "rarity" : "Common",
   "description" : "A basic wooden table With Mirror.",
   "shortdescription" : "Frontier Table",
@@ -22,7 +24,7 @@
     {
       "dualImage" : "mirrortableimdecov1.png:<color>",
 
-      "imagePosition" : [-18, 0],
+      "imagePosition" : [-16, 0],
       "frames" : 1,
       "animationCycle" : 1.0,
 
@@ -30,5 +32,12 @@
       "anchors" : [ "bottom" ]
 
     }
-  ]
+  ],
+  
+  "openSounds" : [ "/sfx/objects/bookcase_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/bookcase_close.ogg" ],
+  "slotCount" : 9,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
 }
