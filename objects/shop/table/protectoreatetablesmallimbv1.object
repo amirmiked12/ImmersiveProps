@@ -1,0 +1,35 @@
+{
+  "objectName" : "protectoreatetablesmallimbv1",
+  "colonyTags" : ["protectorate"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "A basic Protectorate table.",
+  "shortdescription" : "Protectorate Table",
+  "race" : "protectorate",
+  "category" : "furniture",
+  "price" : 50,
+
+  "apexDescription" : "A very simple protectorate table.",
+  "avianDescription" : "The simplest of tables.",
+  "floranDescription" : "Sssimple protectorate table.",
+  "glitchDescription" : "Bored. A very simple table.",
+  "humanDescription" : "Not much to say about this table.",
+  "hylotlDescription" : "A table, very simple in every way.",
+  "novakidDescription" : "Just a table.",
+
+  "inventoryIcon" : "protectoreatetablesmallimbv1.png",
+  "orientations" : [
+    {
+      "dualImage" : "protectoreatetablesmallimbv1.png:<color>",
+
+      "imagePosition" : [-20, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ]
+}

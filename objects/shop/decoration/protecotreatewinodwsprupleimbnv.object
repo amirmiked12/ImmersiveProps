@@ -1,0 +1,32 @@
+{
+  "objectName" : "protecotreatewinodwsprupleimbnv",
+  "colonyTags" : ["protectorate"],
+  "rarity" : "Common",
+  "description" : "A Very Wide And Nice Window",
+  "shortdescription" : "Protectorate Window",
+  "race" : "protectorate",
+  "category" : "decorative",
+  "price" : 50,
+
+  "apexDescription" : "I Cant See My Reflection.",
+  "avianDescription" : "I Cant See My Reflection.",
+  "floranDescription" : "I Cant See My Reflection.",
+  "glitchDescription" : "I Cant See My Reflection.",
+  "humanDescription" : "I Cant See My Reflection.",
+  "hylotlDescription" : "I Cant See My Reflection.",
+
+  "inventoryIcon" : "protecotreatewinodwsprupleimbnv.png",
+  "orientations" : [
+    {
+      "dualImage" : "protecotreatewinodwsprupleimbnv.png:<color>",
+
+      "imagePosition" : [-32, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

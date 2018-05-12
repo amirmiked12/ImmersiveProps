@@ -1,0 +1,56 @@
+{
+  "objectName" : "protectoretaebnechimbv1",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "description" : "A Protectorate bench.",
+  "shortdescription" : "Protectorate Bench",
+  "race" : "human",
+  "category" : "furniture",
+  "price" : 50,
+
+  "apexDescription" : "A plain bench.",
+  "avianDescription" : "A bench.",
+  "floranDescription" : "Ssseat.",
+  "glitchDescription" : "Neutral. A bench.",
+  "humanDescription" : "A bench.",
+  "hylotlDescription" : "A simple bench.",
+  "novakidDescription" : "A simple place for restin' tired legs.",
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false,
+
+  "inventoryIcon" : "protectoretaebnechimbv1.png",
+  "orientations" : [
+    {
+      "image" : "protectoretaebnechimbv1.png:<color>",
+      "imagePosition" : [-24, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "sitPositions" : [
+        // Positions from front to back.
+        [-14, 21], // Right
+        [0, 21], // Middle
+        [14, 21] // Left
+      ],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "protectoretaebnechimbv1.png:<color>",
+      "imagePosition" : [-24, 0],
+      "direction" : "right",
+
+      "sitPositions" : [
+        // Positions from front to back.
+        [-14, 21], // Left
+        [0, 21], // Middle
+        [14, 21] // Right
+      ],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

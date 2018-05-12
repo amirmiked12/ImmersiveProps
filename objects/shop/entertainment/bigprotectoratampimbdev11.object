@@ -1,0 +1,32 @@
+{
+  "objectName" : "bigprotectoratampimbdev11",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "description" : "A Strong AMP",
+  "shortdescription" : "AMP",
+  "race" : "human",
+  "category" : "decorative",
+  "price" : 50,
+
+  "apexDescription" : "This Will Produce A Strong Sound I guess.",
+  "avianDescription" : "This Will Produce A Strong Sound I guess.",
+  "floranDescription" : "This Will Produce A Strong Sound I guess.",
+  "glitchDescription" : "This Will Produce A Strong Sound I guess.",
+  "humanDescription" : "This Will Produce A Strong Sound I guess.",
+  "hylotlDescription" : "This Will Produce A Strong Sound I guess.",
+
+  "inventoryIcon" : "bigprotectoratampimbdev11.png",
+  "orientations" : [
+    {
+      "dualImage" : "bigprotectoratampimbdev11.png:<color>",
+
+      "imagePosition" : [-10, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

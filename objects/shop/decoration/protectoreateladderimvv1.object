@@ -1,0 +1,33 @@
+{
+  "objectName" : "protectoreateladderimvv1",
+  "colonyTags" : ["protectorate"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "description" : "A Tall Ladder For Climbing.",
+  "shortdescription" : "Tall Ladder",
+  "race" : "protectorate",
+  "price" : 50,
+  "health" : 1.5,
+
+  "apexDescription" : "A Tall Ladder.",
+  "avianDescription" : "A Tall Ladder.",
+  "floranDescription" : "A Tall Ladder.",
+  "glitchDescription" : "A Tall Ladder.",
+  "humanDescription" : "A Tall Ladder.",
+  "hylotlDescription" : "A Tall Ladder.",
+  "novakidDescription" : "A Tall Ladder.",
+
+  "inventoryIcon" : "protectoreateladderimvv1.png",
+  "orientations" : [
+    {
+      "dualImage" : "protectoreateladderimvv1.png:<color>",
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}
