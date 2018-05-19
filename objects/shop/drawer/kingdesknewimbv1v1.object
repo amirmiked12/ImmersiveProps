@@ -1,0 +1,43 @@
+{
+  "objectName" : "kingdesknewimbv1v1",
+  "colonyTags" : ["human","storage"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "category" : "storage",
+  "description" : "A Dark Oak Desk.",
+  "shortdescription" : "Dark Oak Desk",
+  "race" : "human",
+  "price" : 50,
+  "health" : 1.5,
+
+  "apexDescription" : "A simple Dark Oak Desk.",
+  "avianDescription" : "A Desk. Very simple.",
+  "floranDescription" : "Sssimple Dark Oak Desk.",
+  "glitchDescription" : "Uninterested. Just a Desk.",
+  "humanDescription" : "A Dark Oak Desk.",
+  "hylotlDescription" : "A spot to place Stuff.",
+  "novakidDescription" : "A Small, plain Desk.",
+
+  "inventoryIcon" : "kingdesknewimbv1v1.png",
+  "orientations" : [
+    {
+      "dualImage" : "kingdesknewimbv1v1.png:<color>",
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/woodenbox_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/woodenbox_close.ogg" ],
+  "slotCount" : 9,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+}

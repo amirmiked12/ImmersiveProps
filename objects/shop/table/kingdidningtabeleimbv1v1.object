@@ -1,0 +1,35 @@
+{
+  "objectName" : "kingdidningtabeleimbv1v1",
+  "colonyTags" : ["human"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "A basic Dark Oak table.",
+  "shortdescription" : "Dark Oak Table",
+  "race" : "human",
+  "category" : "furniture",
+  "price" : 50,
+
+  "apexDescription" : "A very simple Dark Oak table.",
+  "avianDescription" : "The simplest of tables.",
+  "floranDescription" : "Sssimple Dark Oak table.",
+  "glitchDescription" : "Bored. A very simple table.",
+  "humanDescription" : "Not much to say about this table.",
+  "hylotlDescription" : "A table, very simple in every way.",
+  "novakidDescription" : "Just a table.",
+
+  "inventoryIcon" : "kingdidningtabeleimbv1v1.png",
+  "orientations" : [
+    {
+      "dualImage" : "kingdidningtabeleimbv1v1.png:<color>",
+
+      "imagePosition" : [-40, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ]
+}

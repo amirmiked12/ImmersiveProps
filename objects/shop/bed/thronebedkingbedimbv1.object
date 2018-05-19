@@ -1,0 +1,45 @@
+{
+  "objectName" : "thronebedkingbedimbv1",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "description" : "A beautiful bed made of Dark Oak.",
+  "shortdescription" : "Dark Oak Bed",
+  "race" : "human",
+  "category" : "furniture",
+  "price" : 50,
+
+  "apexDescription" : "A bed of Dark Oak.Fit for a My Home.",
+  "avianDescription" : "A bed forged from precious Oak. Who sleeps amongst such precious materials?",
+  "floranDescription" : "Floran want to try out Dark bed.",
+  "glitchDescription" : "Identify. A bed built for Humans.",
+  "humanDescription" : "I suspect this was built for Humans.",
+  "hylotlDescription" : "why this bed is so dark?",
+  "novakidDescription" : "Sure is a fancy bed, fit for a king almost!",
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : true,
+  "sitPosition" : [-10, 15],
+  "sitOrientation" : "lay",
+  "sitAngle" : 90,
+  "sitCoverImage" : "/objects/shop/bed/thronebedkingbedimbv1cover.png",
+  "sitEmote" : "sleep",
+  "sitStatusEffects" : [
+    "bed1"
+  ],
+  "sitEffectEmitters" : [ "sleepbubbles" ],
+
+  "inventoryIcon" : "thronebedkingbedimbv1.png",
+  "orientations" : [
+    {
+      "dualImage" : "thronebedkingbedimbv1.png:<color>",
+
+      "imagePosition" : [-24, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

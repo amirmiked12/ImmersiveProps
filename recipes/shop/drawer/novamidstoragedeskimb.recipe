@@ -3,5 +3,5 @@
 		{ "item" : "money", "count" : 50 }
   ],
   "output" : { "item" : "novamidstoragedeskimb", "count" : 1 },
-  "groups" : [ "imbshop", "imbtables" ]
+  "groups" : [ "imbshop", "imbdrawers" ]
 }

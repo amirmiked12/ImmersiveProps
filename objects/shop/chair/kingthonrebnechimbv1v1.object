@@ -1,0 +1,62 @@
+{
+  "objectName" : "kingthonrebnechimbv1v1",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "description" : "A basic bench Made Out Of Dark Oak.",
+  "shortdescription" : "Dark Oak Bench",
+  "race" : "human",
+  "category" : "furniture",
+  "price" : 50,
+
+  "apexDescription" : "A Dark Oak bench.",
+  "avianDescription" : "A Dark Oak bench.",
+  "floranDescription" : "Ssseat.",
+  "glitchDescription" : "Neutral. A Dark Oak bench.",
+  "humanDescription" : "A Dark Oak bench.",
+  "hylotlDescription" : "A simple Dark Oak bench.",
+  "novakidDescription" : "A simple place for restin' tired legs.",
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false,
+
+  "inventoryIcon" : "kingthonrebnechimbv1v1.png",
+  "orientations" : [
+    {
+      "image" : "kingthonrebnechimbv1v1.png:<color>",
+      "imagePosition" : [-36, 0],
+      "flipImages" : true,
+      "direction" : "left",
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "sitPositions" : [
+        // Positions from front to back.
+        [-15, 21], // Right
+        [-2, 21], // Middle Right
+        [11, 21], // Middle Left
+        [24, 21] // Left
+      ],
+
+      "spaceScan" : 0.1,
+      "anchors" : ["bottom"]
+    },
+    {
+      "image" : "kingthonrebnechimbv1v1.png:<color>",
+      "imagePosition" : [-36, 0],
+      "direction" : "right",
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "sitPositions" : [
+        // Positions from front to back.
+        [-23, 21], // Left
+        [-10, 21], // Middle Left
+        [3, 21], // Middle Right
+        [16, 21] // Right
+      ],
+
+      "spaceScan" : 0.1,
+      "anchors" : ["bottom"]
+    }
+  ]
+}

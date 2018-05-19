@@ -1,0 +1,52 @@
+{
+  "objectName" : "kingcurtainimbv1newcolrv",
+  "printable" : false,
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "category" : "furniture",
+  "price" : 50,
+
+  "description" : "Nice Dark Leather curtain.",
+  "shortdescription" : "Dark Leather curtain",
+  "race" : "human",
+
+  "apexDescription" : "I Want To Know Whats behind.",
+  "avianDescription" : "I Want To Know Whats behind.",
+  "floranDescription" : "I Want To Know Whats behind.",
+  "glitchDescription" : "I Want To Know Whats behind.",
+  "humanDescription" : "I Want To Know Whats behind.",
+  "hylotlDescription" : "I Want To Know Whats behind.",
+
+ "inventoryIcon" : "kingcurtainimbv1newcolrvicon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "kingcurtainimbv1newcolrv.png:<color>.off" } ],
+      "imagePosition" : [-20, 0],
+	  "direction" : "right",
+      "flipImages" : false,
+      "frames" : 5,
+      "animationCycle" : 0.5,
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "scripts" : [ "/objects/wired/switch/switch.lua" ],
+  "scriptDelta" : 5,
+
+  "animation" : "/objects/animation/switchtoggle5imb.animation",
+  "animationParts" : {
+    "switch" : "kingcurtainimbv1newcolrv.png"
+  },
+  
+  "animationCustom" : {
+    "sounds" : {
+      "on" : ["/sfx/objects/curtainslide.ogg"],
+      "off" : ["/sfx/objects/curtainslideclose.ogg"]
+    }
+  },
+  
+  "animationPosition" : [-20, 0]
+}
+
+

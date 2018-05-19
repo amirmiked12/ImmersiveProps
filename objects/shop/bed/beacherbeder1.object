@@ -21,7 +21,7 @@
   "orientations" : [
     {
       "dualImage" : "beacherbeder1.png",
-      "imagePosition" : [-13, 0],
+      "imagePosition" : [-25, 0],
       "frames" : 1,
       "animationCycle" : 1.0,
 

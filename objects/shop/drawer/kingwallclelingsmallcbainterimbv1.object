@@ -1,0 +1,43 @@
+{
+  "objectName" : "kingwallclelingsmallcbainterimbv1",
+  "colonyTags" : ["human","storage"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "category" : "storage",
+  "description" : "A Dark Oak Cabinet.",
+  "shortdescription" : "Dark Oak Cabinet",
+  "race" : "human",
+  "price" : 50,
+  "health" : 1.5,
+
+  "apexDescription" : "A simple Dark Oak Cabinet.",
+  "avianDescription" : "A Cabinet. Very simple.",
+  "floranDescription" : "Sssimple Dark Oak Cabinet.",
+  "glitchDescription" : "Uninterested. Just a Cabinet.",
+  "humanDescription" : "A Dark Oak Cabinet.",
+  "hylotlDescription" : "A spot to place Stuff.",
+  "novakidDescription" : "A Small, plain Cabinet.",
+
+  "inventoryIcon" : "kingwallclelingsmallcbainterimbv1.png",
+  "orientations" : [
+    {
+      "dualImage" : "kingwallclelingsmallcbainterimbv1.png:<color>",
+      "imagePosition" : [-12, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ],
+      "collision" : "platform"
+
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/woodenbox_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/woodenbox_close.ogg" ],
+  "slotCount" : 9,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+}

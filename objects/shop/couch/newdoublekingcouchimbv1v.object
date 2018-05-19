@@ -1,0 +1,37 @@
+{
+  "objectName" : "newdoublekingcouchimbv1v",
+  "colonyTags" : ["human","human"],
+  "rarity" : "Common",
+  "description" : "A comfy Dark Oak couch",
+  "shortdescription" : "Dark Oak Couch",
+  "race" : "human",
+  "category" : "furniture",
+  "price" : 50,
+
+  "apexDescription" : "A simple Dark Oak couch.",
+  "avianDescription" : "The pillows make this couch comfortable.",
+  "floranDescription" : "couch. Ssoft pillows.",
+  "glitchDescription" : "Inspired. Perhaps I should decorate myself with stripes.",
+  "humanDescription" : "A Dark Oak bench with nice pillows.",
+  "hylotlDescription" : "Not too soft, not too firm. A good spot for meditation.",
+  "novakidDescription" : "A good place to sit and watch a sun go down.",
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false,
+
+  "inventoryIcon" : "newdoublekingcouchimbv1v.png",
+  "orientations" : [
+    {
+      "dualImage" : "newdoublekingcouchimbv1v.png",
+      "sitCoverImage" : "/objects/shop/couch/newdoublekingcouchimbv1vcover.png",
+      "imagePosition" : [-23, 0],
+
+      "sitPositions" : [
+        [-6, 21], [6, 21]
+      ],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}
