@@ -1,0 +1,37 @@
+{
+  "objectName" : "doubedeckercouchimbv1",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "description" : "A comfy Double Decker couch",
+  "shortdescription" : "Double Decker Couch",
+  "race" : "human",
+  "category" : "furniture",
+  "price" : 50,
+
+  "apexDescription" : "A simple Double Decker couch.",
+  "avianDescription" : "The pillows make this couch comfortable.",
+  "floranDescription" : "couch. Ssoft pillows.",
+  "glitchDescription" : "Inspired. Perhaps I should decorate myself with stripes.",
+  "humanDescription" : "A Double Decker Couch with nice pillows.",
+  "hylotlDescription" : "Not too soft, not too firm. A good spot for meditation.",
+  "novakidDescription" : "A good place to sit and watch a sun go down.",
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false,
+
+  "inventoryIcon" : "doubedeckercouchimbv1.png",
+  "orientations" : [
+    {
+      "dualImage" : "doubedeckercouchimbv1.png",
+      "sitCoverImage" : "/objects/shop/couch/doubedeckercouchimbv1cover.png",
+      "imagePosition" : [-23, 0],
+
+      "sitPositions" : [
+        [-6, 21], [6, 21], [-6, 55], [6, 55]
+      ],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }	
+  ] 
+}
