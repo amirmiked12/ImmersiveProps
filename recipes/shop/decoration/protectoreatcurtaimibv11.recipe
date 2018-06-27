@@ -1,7 +1,0 @@
-{
-  "input" : [
-		{ "item" : "money", "count" : 255 }
-  ],
-  "output" : { "item" : "protectoreatcurtaimibv11", "count" : 1 },
-  "groups" : [ "imbshop", "imbdecorations" ]
-}
