@@ -1,0 +1,47 @@
+{
+  "objectName" : "apexwoodenbedbunkown",
+  "colonyTags" : ["apex"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "A cheaply-manufactured bed.",
+  "shortdescription" : "Standard Issue Bunk Bed(down)",
+  "race" : "apex",
+  "category" : "furniture",
+  "price" : 50,
+
+  "apexDescription" : "We Apex are afraid of an entirely different kind of bed bug.",
+  "avianDescription" : "Such comfort is rare amongst the Avian, our furniture is stone and straw.",
+  "floranDescription" : "Sssuch uncomfortable bedding. No match for Floran fursss.",
+  "glitchDescription" : "Observant. A useful station for recharging one's batteries.",
+  "humanDescription" : "A simple bed, lacks any real charm.",
+  "hylotlDescription" : "How does one close one's eyes when surrounded by such ugliness?",
+  "novakidDescription" : "A simple bed. It does the job.",
+
+  "inventoryIcon" : "apexwoodenbedbunkown.png",
+  "orientations" : [
+    {
+      "dualImage" : "apexwoodenbedbunkown.png:<color>",
+
+      "imagePosition" : [-24, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+	  "collision" : "platform"
+
+    }
+  ],
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : true,
+  "sitPosition" : [-10, 14],
+  "sitOrientation" : "lay",
+  "sitAngle" : 90,
+  "sitCoverImage" : "/objects/shop/bed/apexwoodenbedbunkowncover.png",
+  "sitEmote" : "sleep",
+  "sitStatusEffects" : [
+    "bed1"
+  ],
+  "sitEffectEmitters" : [ "sleepbubbles" ]
+}

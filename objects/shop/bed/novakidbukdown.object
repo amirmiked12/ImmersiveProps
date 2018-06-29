@@ -1,0 +1,47 @@
+{
+  "objectName" : "novakidbukdown",
+  "colonyTags" : ["novakid"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "A sturdy wooden bed with mooshi hide sheets.",
+  "shortdescription" : "Frontier Bunk Bed(down)",
+  "race" : "novakid",
+  "category" : "furniture",
+  "price" : 50,
+
+  "apexDescription" : "I'm sure these hide sheets keep you warm while you sleep.",
+  "avianDescription" : "Sleeping in leather sheets? I'd much prefer a bed of straw.",
+  "floranDescription" : "A bed made from hunting trophiesss? Floran impresssed, good idea.",
+  "glitchDescription" : "Confused. Are these sheets actually made from animal hide?",
+  "humanDescription" : "I... Wonder if this is real animal hide?",
+  "hylotlDescription" : "I can tell that little thought was put into the making of this bed.",
+  "novakidDescription" : "Now this is a bed I can really get some shut-eye in.",
+
+  "inventoryIcon" : "novakidbukdown.png",
+  "orientations" : [
+    {
+      "dualImage" : "novakidbukdown.png:<color>",
+
+      "imagePosition" : [-24, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+	  "collision" : "platform"
+
+    }
+  ],
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : true,
+  "sitPosition" : [-10, 14],
+  "sitOrientation" : "lay",
+  "sitAngle" : 90,
+  "sitCoverImage" : "/objects/shop/bed/novakidbukdowncover.png",
+  "sitEmote" : "sleep",
+  "sitStatusEffects" : [
+    "bed1"
+  ],
+  "sitEffectEmitters" : [ "sleepbubbles" ]
+}
