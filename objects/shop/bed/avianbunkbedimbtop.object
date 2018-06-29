@@ -34,7 +34,7 @@
 
   "objectType" : "loungeable",
   "sitFlipDirection" : true,
-  "sitPosition" : [-10, 12],
+  "sitPosition" : [-10, 10],
   "sitOrientation" : "lay",
   "sitAngle" : 90,
   "sitCoverImage" : "/objects/shop/bed/avianbunkbedimbtopcover.png",
