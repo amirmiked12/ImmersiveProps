@@ -1,0 +1,45 @@
+{
+  "objectName" : "pinkpoolpartimbbeach",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "category" : "furniture",
+  "description" : "A Beach Bed For Tanning.",
+  "shortdescription" : "Beach Bed",
+  "race" : "human",
+  "price" : 50,
+  "health" : 1.5,
+
+  "apexDescription" : "I Realy Like The Bed.",
+  "avianDescription" : "I Realy Like The Bed.",
+  "floranDescription" : "I Realy Like The Bed.",
+  "glitchDescription" : "I Realy Like The Bed.",
+  "humanDescription" : "I Realy Like The Bed.",
+  "hylotlDescription" : "I Realy Like The Bed.",
+  "novakidDescription" : "I Realy Like The Bed.",
+
+  "inventoryIcon" : "pinkpoolpartimbbeach.png",
+  "orientations" : [
+    {
+      "dualImage" : "pinkpoolpartimbbeach.png",
+      "imagePosition" : [-25, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+  
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false,
+  "sitPosition" : [1,17],
+  "sitOrientation" : "lay",
+  "sitAngle" : 45,
+  "sitCoverImage" : "/objects/shop/bed/beacherbeder1cover.png",
+  "sitEmote" : "sleep",
+  "sitStatusEffects" : [
+    "bed1"
+  ],
+  "sitEffectEmitters" : [ "sleepbubbles" ]
+}

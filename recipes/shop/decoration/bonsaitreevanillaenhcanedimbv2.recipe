@@ -1,7 +1,0 @@
-{
-  "input" : [
-		{ "item" : "money", "count" : 500 }
-  ],
-  "output" : { "item" : "bonsaitreevanillaenhcanedimbv2", "count" : 1 },
-  "groups" : [ "imbshop", "imbdecorations" ]
-}
