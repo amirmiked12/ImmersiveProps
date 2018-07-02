@@ -1,0 +1,33 @@
+{
+  "objectName" : "newmulticolorbushbedimbv1",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "description" : "A beautiful Flower bed. Watch out for bees!",
+  "shortdescription" : "Flower Bed",
+  "race" : "human",
+  "category" : "decorative",
+  "price" : 50,
+
+  "apexDescription" : "A well-tended flowerbed. One of the few people pleasures.",
+  "avianDescription" : "A sickly-sweet smell wafts in the air.",
+  "floranDescription" : "Floran once hid in flowers, then jumped out to sssurprise poptop! Poptop not happy.",
+  "glitchDescription" : "Admiration. A remarkably well-cultivated flowerbed.",
+  "humanDescription" : "A Flower bed. Best left to those with green fingers.",
+  "hylotlDescription" : "A rather childish attempt at a floral display.",
+  "novakidDescription" : "A Flower bed. Maximum quaintness.",
+
+  "inventoryIcon" : "newmulticolorbushbedimbv1.png",
+  "orientations" : [
+    {
+      "dualImage" : "newmulticolorbushbedimbv1.png:<color>",
+
+      "imagePosition" : [-17, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

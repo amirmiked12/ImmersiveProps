@@ -1,0 +1,33 @@
+{
+  "objectName" : "newplantbambolikeimbtallv1",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "description" : "A beautiful Bamboo Tree. Watch out for Pandas!",
+  "shortdescription" : "Bamboo Tree",
+  "race" : "human",
+  "category" : "decorative",
+  "price" : 50,
+
+  "apexDescription" : "A well-tended Bamboo Tree. One of the few people pleasures.",
+  "avianDescription" : "A sickly-sweet smell wafts in the air.",
+  "floranDescription" : "Floran once hid Behind Bamboo Tree, then jumped out to sssurprise poptop! Poptop not happy.",
+  "glitchDescription" : "Admiration. A remarkably well-cultivated Bamboo Tree.",
+  "humanDescription" : "A Bamboo Tree. Best left to those with green fingers.",
+  "hylotlDescription" : "A rather childish attempt at a floral display.",
+  "novakidDescription" : "A Bamboo Tree. Maximum quaintness.",
+
+  "inventoryIcon" : "newplantbambolikeimbtallv1.png",
+  "orientations" : [
+    {
+      "dualImage" : "newplantbambolikeimbtallv1.png:<color>",
+
+      "imagePosition" : [-13, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}
