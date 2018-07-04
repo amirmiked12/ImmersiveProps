@@ -1,0 +1,32 @@
+{
+  "objectName" : "nesmallvaseer1pink",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "description" : "Its A Nice Flower.",
+  "shortdescription" : "Flower Pot",
+  "race" : "human",
+  "category" : "decorative",
+  "price" : 50,
+
+  "apexDescription" : "A Flower Pot.",
+  "avianDescription" : "A Flower Pott.",
+  "floranDescription" : "A Flower Pot.",
+  "glitchDescription" : "A Flower Pot.",
+  "humanDescription" : "A Flower Pot.",
+  "hylotlDescription" : "A Flower Pot.",
+
+  "inventoryIcon" : "nesmallvaseer1pink.png",
+  "orientations" : [
+    {
+      "dualImage" : "nesmallvaseer1pink.png:<color>",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}
