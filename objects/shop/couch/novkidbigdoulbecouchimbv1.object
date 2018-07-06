@@ -1,0 +1,36 @@
+{
+  "objectName" : "novkidbigdoulbecouchimbv1",
+  "colonyTags" : ["novakid","novakidvillage"],
+  "rarity" : "Common",
+  "description" : "A wooden Couch with mooshi hide cushioning.",
+  "shortdescription" : "Frontier Couch",
+  "race" : "novakid",
+  "category" : "furniture",
+  "price" : 50,
+
+  "apexDescription" : "This Couch is comfortable enough. The animal hide cushions add a little character.",
+  "avianDescription" : "The animal hide cushioning is itchy on the feathers.",
+  "floranDescription" : "Couch ssstill smellss a bit like prey. Good Couch.",
+  "glitchDescription" : "Impressed. This Couch may look low quality but the hide cushions create a lot of potential comfort.",
+  "humanDescription" : "This couch looks a little itchy to sit on.",
+  "hylotlDescription" : "I'd be reluctant to sit on this Couch. The animal hide cushioning doesn't look very comfortable.",
+  "novakidDescription" : "The perfect Couch. I'd rest my feet up at a Couch like this any day.",
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false,
+
+  "inventoryIcon" : "novkidbigdoulbecouchimbv1.png",
+  "orientations" : [
+    {
+      "dualImage" : "novkidbigdoulbecouchimbv1.png",
+      "imagePosition" : [-23, 0],
+
+      "sitPositions" : [
+        [-6, 21], [6, 21]
+      ],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "objectName" : "newdevoverntimbdeovv1",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "description" : "A Vent For Cleaning The Air",
+  "shortdescription" : "Metal Vent",
+  "race" : "human",
+  "category" : "decorative",
+  "price" : 50,
+
+  "apexDescription" : "Can I Get Through It?",
+  "avianDescription" : "Can I Get Through It?",
+  "floranDescription" : "Can I Get Through It?",
+  "glitchDescription" : "Can I Get Through It?",
+  "humanDescription" : "Can I Get Through It?",
+  "hylotlDescription" : "Can I Get Through It?",
+
+  "inventoryIcon" : "newdevoverntimbdeovv1.png",
+  "orientations" : [
+    {
+      "dualImage" : "newdevoverntimbdeovv1.png:<color>",
+
+      "imagePosition" : [-9, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}
