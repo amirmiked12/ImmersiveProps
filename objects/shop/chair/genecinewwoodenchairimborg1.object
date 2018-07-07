@@ -1,0 +1,56 @@
+{
+  "objectName" : "genecinewwoodenchairimborg1",
+    "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "category" : "furniture",
+  "price" : 50,
+  "printable" : false,
+  "description" : "A bench found in the garden.",
+  "shortdescription" : "Garden Bench",
+  "race" : "human",
+
+  "apexDescription" : "A solid wooden bench.",
+  "avianDescription" : "A Wooden Garden Bench.",
+  "floranDescription" : "Floran sitsss on this bench often.",
+  "glitchDescription" : "A Wooden Garden Bench.",
+  "humanDescription" : "A nice wooden bench.",
+  "hylotlDescription" : "A Wooden Garden Bench.",
+  "novakidDescription" : "A Wooden Garden Bench.",
+
+  "inventoryIcon" : "genecinewwoodenchairimborg1.png",
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false,
+
+  "orientations" : [
+    {
+      "image" : "genecinewwoodenchairimborg1.png:<color>",
+      "imagePosition" : [-18, 0],
+      "flipImages" : true,
+      "direction" : "left",
+
+      "sitPositions" : [
+        // Positions from front to back.
+        [-13, 23], // Right
+        [5, 23] // Left
+      ],
+
+      "spaces" : [ [-2,0],[-1,0],[0,0],[1,0],[2,0],[-2,1],[-1,1],[0,1],[1,1],[2,1],[-2,2],[-1,2],[0,2],[1,2],[2,2] ],
+      "anchors" : ["bottom"]
+    },
+    {
+      "image" : "genecinewwoodenchairimborg1.png:<color>",
+      "imagePosition" : [-16, 0],
+      "direction" : "right",
+
+      "sitPositions" : [
+        // Positions from front to back.
+        [-5, 23], // Left
+        [13, 23] // Right
+      ],
+
+      "spaces" : [ [-2,0],[-1,0],[0,0],[1,0],[2,0],[-2,1],[-1,1],[0,1],[1,1],[2,1],[-2,2],[-1,2],[0,2],[1,2],[2,2] ],
+      "anchors" : ["bottom"]
+    }
+  ]
+}
