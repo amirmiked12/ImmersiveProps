@@ -1,0 +1,34 @@
+{
+  "objectName" : "newgraswalkbyeimbv12v",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "description" : "A gazebo Made Of Bamboo.",
+  "shortdescription" : "Bamboo gazebo",
+  "race" : "human",
+  "price" : 50,
+  "health" : 1.5,
+
+  "apexDescription" : "A Bamboo gazebo.",
+  "avianDescription" : "A Bamboo gazebo.",
+  "floranDescription" : "A Bamboo gazebo.",
+  "glitchDescription" : "A Bamboo gazebo.",
+  "humanDescription" : "A Bamboo gazebo.",
+  "hylotlDescription" : "A Bamboo gazebo.",
+  "novakidDescription" : "A Bamboo gazebo.",
+
+  "inventoryIcon" : "newgraswalkbyeimbv12v.png",
+  "orientations" : [
+    {
+      "dualImage" : "newgraswalkbyeimbv12v.png:<color>",
+      "imagePosition" : [-50, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+	  "renderLayer" : "player+1"
+
+    }
+  ]
+}
