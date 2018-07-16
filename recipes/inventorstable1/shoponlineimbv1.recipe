@@ -3,5 +3,5 @@
 		{ "item" : "money", "count" : 2000 }
   ],
   "output" : { "item" : "shoponlineimbv1", "count" : 1 },
-  "groups" : [ "inventorstable" ]
+  "groups" : [ "inventorstable2", "craftingstations", "all" ]
 }
