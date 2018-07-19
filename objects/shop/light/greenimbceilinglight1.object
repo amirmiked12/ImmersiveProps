@@ -1,0 +1,69 @@
+{
+  "objectName" : "greenimbceilinglight1",
+  "colonyTags" : ["human","light"],
+  "rarity" : "Common",
+  "description" : "A metallic ceiling lamp.",
+  "shortdescription" : "Green Ceiling Lamp",
+  "race" : "human",
+
+  "category" : "light",
+  "price" : 50,
+  "lightColor" : [229, 229, 210],
+  "pointLight" : true,
+  "pointBeam" : 2,
+  "beamAmbience" : 0.35,
+
+  "apexDescription" : "A Green ceiling light.",
+  "avianDescription" : "A ceiling light.",
+  "floranDescription" : "Hanging lamp.",
+  "glitchDescription" : "Bored. A light fixture.",
+  "humanDescription" : "A device you attach to your head, and... wait, no, it's just a light.",
+  "hylotlDescription" : "An uninteresting ceiling light.",
+  "novakidDescription" : "A plain lookin' ceilin' light.",
+
+  "inventoryIcon" : "greenimbceilinglight1icon.png",
+  "orientations" : [
+    {
+      "image" : "greenimbceilinglight1.png:<color>.<frame>",
+      "imagePosition" : [-8, -32],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "top" ],
+      "lightPosition" : [0, -4],
+      "beamAngle" : 270
+    },
+    {
+      "image" : "greenimbceilinglight1.png:<color>.<frame>",
+      "imagePosition" : [-8, -32],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "top" ],
+      "lightPosition" : [0, -4],
+      "beamAngle" : 270
+    }
+  ],
+  
+  "animationCustom" : {
+    "sounds" : {
+      "on" : [ "/sfx/objects/lightonimb.ogg" ],
+      "off" : [ "/sfx/objects/lightoffimb.ogg" ]
+    }
+  },
+
+  "animation" : "/objects/wired/light/lighttogglebgfullbright.animation",
+  "animationParts" : {
+    "bg" : "greenimbceilinglight1.png",
+    "fg" : "greenimbceilinglight1lit.png"
+  },
+  "animationPosition" : [-8, -32],
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+  
+  "interactive" : true,
+
+  "inputNodes" : [ [0, -3] ]
+}
