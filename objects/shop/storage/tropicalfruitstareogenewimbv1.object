@@ -1,0 +1,43 @@
+{
+  "objectName" : "tropicalfruitstareogenewimbv1",
+  "colonyTags" : ["storage","island"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "description" : "A Storage For tropical Fruits.",
+  "shortdescription" : "Tropical Fruits Storage",
+  "race" : "generic",
+  "category" : "storage",
+  "price" : 50,
+
+  "apexDescription" : "A Storage.",
+  "avianDescription" : "A storage .",
+  "floranDescription" : "Fine Storage .",
+  "glitchDescription" : "Neutral. A Storage .",
+  "humanDescription" : "It's just a Storage.",
+  "hylotlDescription" : "A Storage made of wood.",
+  "novakidDescription" : "A huge Storage.",
+
+  "inventoryIcon" : "tropicalfruitstareogenewimbv1.png",
+  "orientations" : [
+    {
+      "dualImage" : "tropicalfruitstareogenewimbv1.png:<color>",
+
+      "imagePosition" : [-12, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/woodenbox_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/woodenbox_close.ogg" ],
+  "slotCount" : 24,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+
+}

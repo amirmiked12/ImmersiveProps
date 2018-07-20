@@ -1,0 +1,42 @@
+{
+  "objectName" : "islandnwesmalltallbokcaseminbv1",
+  "colonyTags" : ["knowledge","storage","island"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "category" : "storage",
+  "description" : "A tropical looking bookcase full of books.",
+  "shortdescription" : "Island Bookcase",
+  "race" : "generic",
+  "price" : 50,
+
+  "apexDescription" : "This bookcase is far too expressive for Apex homes.",
+  "avianDescription" : "A bookcase. Very simple.",
+  "floranDescription" : "Floran likesss Green things.",
+  "glitchDescription" : "Uninterested. Just a bookcase.",
+  "humanDescription" : "A regular bookcase.",
+  "hylotlDescription" : "A spot to place books.",
+  "novakidDescription" : "A large, plain bookcase.",
+
+  "inventoryIcon" : "islandnwesmalltallbokcaseminbv1.png",
+  "orientations" : [
+    {
+      "dualImage" : "islandnwesmalltallbokcaseminbv1.png:<color>",
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/bookcase_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/bookcase_close.ogg" ],
+  "slotCount" : 24,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+}

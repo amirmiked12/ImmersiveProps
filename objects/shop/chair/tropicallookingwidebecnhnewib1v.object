@@ -1,0 +1,62 @@
+{
+  "objectName" : "tropicallookingwidebecnhnewib1v",
+  "colonyTags" : ["island"],
+  "rarity" : "Common",
+  "description" : "A basic Island bench Made Out Of Wood.",
+  "shortdescription" : "Island Bench",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 50,
+
+  "apexDescription" : "An Island bench.",
+  "avianDescription" : "An Island bench.",
+  "floranDescription" : "Ssseat.",
+  "glitchDescription" : "Neutral. An Island bench.",
+  "humanDescription" : "An Island bench.",
+  "hylotlDescription" : "A simple Island bench.",
+  "novakidDescription" : "A simple place for restin' tired legs.",
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false,
+
+  "inventoryIcon" : "tropicallookingwidebecnhnewib1v.png",
+  "orientations" : [
+    {
+      "image" : "tropicallookingwidebecnhnewib1v.png:<color>",
+      "imagePosition" : [-32, 0],
+      "flipImages" : true,
+      "direction" : "left",
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "sitPositions" : [
+        // Positions from front to back.
+        [-15, 21], // Right
+        [-2, 21], // Middle Right
+        [11, 21], // Middle Left
+        [24, 21] // Left
+      ],
+
+      "spaceScan" : 0.1,
+      "anchors" : ["bottom"]
+    },
+    {
+      "image" : "tropicallookingwidebecnhnewib1v.png:<color>",
+      "imagePosition" : [-32, 0],
+      "direction" : "right",
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "sitPositions" : [
+        // Positions from front to back.
+        [-23, 21], // Left
+        [-10, 21], // Middle Left
+        [3, 21], // Middle Right
+        [16, 21] // Right
+      ],
+
+      "spaceScan" : 0.1,
+      "anchors" : ["bottom"]
+    }
+  ]
+}

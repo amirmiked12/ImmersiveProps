@@ -1,0 +1,42 @@
+{
+  "objectName" : "newislanddresserrommimbv1",
+  "colonyTags" : ["island","storage"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "category" : "storage",
+  "description" : "A tropical looking Cabinet.",
+  "shortdescription" : "Island Cabinet",
+  "race" : "generic",
+  "price" : 50,
+
+  "apexDescription" : "This Cabinet is far too expressive for Apex homes.",
+  "avianDescription" : "A Cabinet. Very simple.",
+  "floranDescription" : "Floran likesss Green things.",
+  "glitchDescription" : "Uninterested. Just a Cabinet.",
+  "humanDescription" : "A regular Cabinet.",
+  "hylotlDescription" : "A spot to place Stuff.",
+  "novakidDescription" : "A Small, plain Cabinet.",
+
+  "inventoryIcon" : "newislanddresserrommimbv1.png",
+  "orientations" : [
+    {
+      "dualImage" : "newislanddresserrommimbv1.png:<color>",
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/woodendoor_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/woodendoor_close.ogg" ],
+  "slotCount" : 32,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+}

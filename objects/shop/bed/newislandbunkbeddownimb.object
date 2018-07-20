@@ -1,0 +1,46 @@
+{
+  "objectName" : "newislandbunkbeddownimb",
+  "colonyTags" : ["island"],
+  "rarity" : "Common",
+  "description" : "An Island wooden bed.",
+  "shortdescription" : "Island Bunk Bed(down)",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 50,
+
+  "apexDescription" : "A simple Island bed, nice and comfortable.",
+  "avianDescription" : "A wooden frame and a comfortable mattress. What more could you need?",
+  "floranDescription" : "Floran rarely ssleep in ssuch nice bed.",
+  "glitchDescription" : "Drowsy. My power levels are low. This bed looks inviting.",
+  "humanDescription" : "Your basic, comfy bed.",
+  "hylotlDescription" : "A good place to close one's eyes.",
+  "novakidDescription" : "A decent place to get some shut-eye.",
+
+  "inventoryIcon" : "newislandbunkbeddownimb.png",
+  "orientations" : [
+    {
+      "dualImage" : "newislandbunkbeddownimb.png:<color>",
+
+      "imagePosition" : [-24, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+	  "collision" : "platform"
+
+    }
+  ],
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : true,
+  "sitPosition" : [-10, 12],
+  "sitOrientation" : "lay",
+  "sitAngle" : 90,
+  "sitCoverImage" : "/objects/shop/bed/siladnbunkbednewdownimbcover.png",
+  "sitEmote" : "sleep",
+  "sitStatusEffects" : [
+    "bed1"
+  ],
+  "sitEffectEmitters" : [ "sleepbubbles" ]
+}
