@@ -1,0 +1,41 @@
+{
+  "objectName" : "minserstoragenewimbmisv1v1v",
+  "colonyTags" : ["novakid","storage"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "category" : "storage",
+  "price" : 50,
+
+  "description" : "A big Shak For Miners.",
+  "shortdescription" : "Miner's Shak",
+  "race" : "generic",
+
+  "apexDescription" : "I can store lots of things in this Shack.",
+  "avianDescription" : "I can store lots of things in this Shack.",
+  "floranDescription" : "I can store lots of things in this Shack.",
+  "glitchDescription" : "I can store lots of things in this Shack.",
+  "humanDescription" : "I can store lots of things in this Shack.",
+  "hylotlDescription" : "I can store lots of things in this Shack.",
+
+  "inventoryIcon" : "minserstoragenewimbmisv1v1v.png",
+  "orientations" : [
+    {
+      "dualImage" : "minserstoragenewimbmisv1v1v.png:<color>",
+      "imagePosition" : [-45, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+      "spaceScan" : 0.1,
+      "anchors" : ["bottom"]
+
+    }
+  ],
+  
+  "openSounds" : [ "/sfx/objects/wooddoor_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/wooddoor_close.ogg" ],
+  "slotCount" : 64,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+  
+}
