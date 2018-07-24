@@ -6,7 +6,6 @@
   "tooltipKind" : "container",
   "category" : "storage",
   "price" : 50,
-
   "description" : "A big Storage Shack.",
   "shortdescription" : "Farm Products Storage Shack",
   "race" : "glitch",
