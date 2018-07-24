@@ -1,11 +1,9 @@
 {
   "objectName" : "hugbigonctain128imbsotarge",
   "colonyTags" : ["storage"],
-  "printable" : false,
   "rarity" : "Common",
   "objectType" : "container",
   "tooltipKind" : "container",
-
   "category" : "storage",
   "price" : 50,
   "description" : "A mysterious Iron Container.",

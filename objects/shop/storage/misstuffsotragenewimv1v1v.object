@@ -1,15 +1,15 @@
 {
   "objectName" : "misstuffsotragenewimv1v1v",
-  "colonyTags" : ["novakid","storage"],
+  "colonyTags" : ["storage","glitch","glitchvillage"],
   "rarity" : "Common",
   "objectType" : "container",
   "tooltipKind" : "container",
   "category" : "storage",
   "price" : 50,
 
-  "description" : "A big Storage Shak.",
-  "shortdescription" : "Furnitures Storage Shak",
-  "race" : "generic",
+  "description" : "A big Storage Shack.",
+  "shortdescription" : "Furnitures Storage Shack",
+  "race" : "glitch",
 
   "apexDescription" : "I can store lots of things in this Shack.",
   "avianDescription" : "I can store lots of things in this Shack.",

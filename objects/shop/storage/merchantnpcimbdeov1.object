@@ -1,0 +1,40 @@
+{
+  "objectName" : "merchantnpcimbdeov1",
+  "colonyTags" : ["storage","glitch","glitchvillage"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "description" : "A Cart Full of Farm Products.",
+  "shortdescription" : "Farm Products Cart",
+  "race" : "glitch",
+  "category" : "storage",
+  "price" : 50,
+
+  "apexDescription" : "A Cart.",
+  "avianDescription" : "A Cart .",
+  "floranDescription" : "Fine Cart .",
+  "glitchDescription" : "Neutral. A Cart .",
+  "humanDescription" : "It's just a Cart.",
+  "hylotlDescription" : "A Cart made of wood.",
+  "novakidDescription" : "A huge Cart.",
+
+  "inventoryIcon" : "merchantnpcimbdeov1.png",
+  "orientations" : [
+    {
+      "dualImage" : "merchantnpcimbdeov1.png:<color>",
+
+      "imagePosition" : [-57, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+  "slotCount" : 64,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+
+}

@@ -1,6 +1,6 @@
 {
   "objectName" : "winmillnewimbv1animated",
-  "colonyTags" : ["novakid"],
+  "colonyTags" : ["storage","glitch","glitchvillage"],
   "rarity" : "Common",
   "objectType" : "container",
   "tooltipKind" : "container",
@@ -9,7 +9,7 @@
 
   "description" : "A big Windmill.",
   "shortdescription" : "Wooden Windmill",
-  "race" : "novakid",
+  "race" : "glitch",
 
   "apexDescription" : "I can store lots of things in this windmill.",
   "avianDescription" : "I can store lots of things in this windmill.",

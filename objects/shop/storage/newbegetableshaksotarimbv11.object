@@ -1,5 +1,5 @@
 {
-  "objectName" : "alesuffstoragenewimbv1v1",
+  "objectName" : "newbegetableshaksotarimbv11",
   "colonyTags" : ["storage","glitch","glitchvillage"],
   "rarity" : "Common",
   "objectType" : "container",
@@ -8,7 +8,7 @@
   "price" : 50,
 
   "description" : "A big Storage Shack.",
-  "shortdescription" : "Ale Storage Shack",
+  "shortdescription" : "Farm Products Storage Shack",
   "race" : "glitch",
 
   "apexDescription" : "I can store lots of things in this Shack.",
@@ -18,10 +18,10 @@
   "humanDescription" : "I can store lots of things in this Shack.",
   "hylotlDescription" : "I can store lots of things in this Shack.",
 
-  "inventoryIcon" : "alesuffstoragenewimbv1v1.png",
+  "inventoryIcon" : "newbegetableshaksotarimbv11.png",
   "orientations" : [
     {
-      "dualImage" : "alesuffstoragenewimbv1v1.png:<color>",
+      "dualImage" : "newbegetableshaksotarimbv11.png:<color>",
       "imagePosition" : [-50, 0],
       "frames" : 1,
       "animationCycle" : 1.0,

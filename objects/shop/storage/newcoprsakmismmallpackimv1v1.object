@@ -1,0 +1,43 @@
+{
+  "objectName" : "newcoprsakmismmallpackimv1v1",
+  "colonyTags" : ["storage","glitch"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "description" : "Storage Barrl.",
+  "shortdescription" : "Farm Products Barrel",
+  "race" : "glitch",
+  "category" : "storage",
+  "price" : 50,
+
+  "apexDescription" : "A Storage.",
+  "avianDescription" : "A storage .",
+  "floranDescription" : "Fine Storage .",
+  "glitchDescription" : "Neutral. A Storage .",
+  "humanDescription" : "It's just a Storage.",
+  "hylotlDescription" : "A Storage made of wood.",
+  "novakidDescription" : "A huge Storage.",
+
+  "inventoryIcon" : "newcoprsakmismmallpackimv1v1.png",
+  "orientations" : [
+    {
+      "dualImage" : "newcoprsakmismmallpackimv1v1.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/woodenbox_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/woodenbox_close.ogg" ],
+  "slotCount" : 16,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+
+}

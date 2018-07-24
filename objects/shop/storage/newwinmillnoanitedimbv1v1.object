@@ -1,6 +1,6 @@
 {
   "objectName" : "newwinmillnoanitedimbv1v1",
-  "colonyTags" : ["novakid"],
+  "colonyTags" : ["storage","glitch","glitchvillage"],
   "rarity" : "Common",
   "objectType" : "container",
   "tooltipKind" : "container",
@@ -8,8 +8,8 @@
   "price" : 50,
 
   "description" : "A big Windmill.",
-  "shortdescription" : "Wooden Windmill",
-  "race" : "novakid",
+  "shortdescription" : "Wooden Windmill (static) ",
+  "race" : "glitch",
 
   "apexDescription" : "I can store lots of things in this windmill.",
   "avianDescription" : "I can store lots of things in this windmill.",

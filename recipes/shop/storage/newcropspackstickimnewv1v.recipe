@@ -1,0 +1,7 @@
+{
+  "input" : [
+		{ "item" : "money", "count" : 100 }
+  ],
+  "output" : { "item" : "newcropspackstickimnewv1v", "count" : 1 },
+  "groups" : [ "imbshop", "imbstorage" ]
+}
