@@ -6,7 +6,7 @@
   "shortdescription" : "Wooden Couch",
   "race" : "human",
   "category" : "furniture",
-  "price" : 50,
+  "price" : 0,
 
   "apexDescription" : "A simple wooden couch.",
   "avianDescription" : "The pillows make this couch comfortable.",

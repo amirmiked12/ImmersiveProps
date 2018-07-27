@@ -7,7 +7,7 @@
   "tooltipKind" : "container",
 
   "category" : "furniture",
-  "price" : 50,
+  "price" : 0,
   "description" : "A Frontier wooden Desk.",
   "shortdescription" : "Frontier Desk",
   "race" : "novakid",

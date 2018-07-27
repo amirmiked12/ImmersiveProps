@@ -6,7 +6,7 @@
   "description" : "A Very Usefull Traffic Sign.",
   "shortdescription" : "Traffic Sign",
   "race" : "human",
-  "price" : 50,
+  "price" : 0,
   "health" : 1.5,
 
   "apexDescription" : "Its Trying To Tell Me Something.",

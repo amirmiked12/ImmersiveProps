@@ -5,18 +5,18 @@
   "objectType" : "container",
   "tooltipKind" : "container",
   "category" : "storage",
-  "price" : 50,
+  "price" : 0,
 
   "description" : "A Shelter That keeps Your Stuff Safe.",
   "shortdescription" : "Storage Shelter",
   "race" : "glitch",
 
-  "apexDescription" : "I can store lots of things in this Here.",
-  "avianDescription" : "I can store lots of things in this Here.",
-  "floranDescription" : "I can store lots of things in this Here.",
-  "glitchDescription" : "I can store lots of things in this Here.",
-  "humanDescription" : "I can store lots of things in this Here.",
-  "hylotlDescription" : "I can store lots of things in this Here.",
+  "apexDescription" : "I can store lots of things in Here.",
+  "avianDescription" : "I can store lots of things in Here.",
+  "floranDescription" : "I can store lots of things in Here.",
+  "glitchDescription" : "I can store lots of things in Here.",
+  "humanDescription" : "I can store lots of things in Here.",
+  "hylotlDescription" : "I can store lots of things in Here.",
 
   "inventoryIcon" : "storgebigassstoraecreateimnewv1v1.png",
   "orientations" : [

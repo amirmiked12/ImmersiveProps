@@ -5,7 +5,7 @@
   "category" : "storage",
   "objectType" : "container",
   "tooltipKind" : "container",
-  "price" : 50,
+  "price" : 0,
   "description" : "It should be stocked full of science journals and lab reports.",
   "shortdescription" : "Cool Bookcase",
   "race" : "apex",

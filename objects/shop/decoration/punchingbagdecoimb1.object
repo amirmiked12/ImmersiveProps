@@ -6,7 +6,7 @@
   "description" : "A Punching Bag for Increasing My Strenth.",
   "shortdescription" : "Punching Bag",
   "race" : "human",
-  "price" : 50,
+  "price" : 0,
   "health" : 1.5,
 
   "apexDescription" : "I Should Punch As Much As I Can",

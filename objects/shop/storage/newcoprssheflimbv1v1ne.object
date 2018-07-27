@@ -4,11 +4,13 @@
   "rarity" : "Common",
   "objectType" : "container",
   "tooltipKind" : "container",
+  
   "description" : "Wooden Shelf.",
-  "shortdescription" : "Farm Products Storage Shelf",
+  "shortdescription" : "Farm Products Shelf",
+  
   "race" : "glitch",
   "category" : "storage",
-  "price" : 50,
+  "price" : 0,
 
   "apexDescription" : "A Storage.",
   "avianDescription" : "A storage .",

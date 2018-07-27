@@ -8,7 +8,7 @@
   "description" : "A sturdy suspended Dresser.",
   "shortdescription" : "Towels Rack",
   "race" : "generic",
-  "price" : 50,
+  "price" : 0,
   "health" : 1.5,
 
   "apexDescription" : "A simple Towel Rack.",

@@ -6,7 +6,7 @@
   "description" : "A Traffic Barricade For Our Safety!.",
   "shortdescription" : "Traffic Barricade",
   "race" : "human",
-  "price" : 50,
+  "price" : 0,
   "health" : 1.5,
 
   "apexDescription" : "A simple Traffic Barricade.",

@@ -8,7 +8,7 @@
   "description" : "A sturdy suspended Bookcase.",
   "shortdescription" : "Frontier Bookcase",
   "race" : "novakid",
-  "price" : 50,
+  "price" : 0,
   "health" : 1.5,
 
   "apexDescription" : "A simple wooden bookcase.",

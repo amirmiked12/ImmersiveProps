@@ -7,7 +7,7 @@
   "shortdescription" : "Island Table",
   "race" : "generic",
   "category" : "furniture",
-  "price" : 50,
+  "price" : 0,
 
   "apexDescription" : "A very simple Island table.",
   "avianDescription" : "The simplest of tables.",

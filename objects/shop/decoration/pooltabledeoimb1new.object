@@ -6,7 +6,7 @@
   "description" : "A Pool Table With No Balls.",
   "shortdescription" : "Pool Table",
   "race" : "human",
-  "price" : 50,
+  "price" : 0,
   "health" : 1.5,
 
   "apexDescription" : "A Pool Table.",

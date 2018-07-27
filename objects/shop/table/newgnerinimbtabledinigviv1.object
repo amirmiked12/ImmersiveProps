@@ -7,7 +7,7 @@
   "shortdescription" : "Dark Oak Table",
   "race" : "human",
   "category" : "furniture",
-  "price" : 50,
+  "price" : 0,
 
   "apexDescription" : "A very simple Dark Oak table.",
   "avianDescription" : "The simplest of tables.",

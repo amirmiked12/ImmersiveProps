@@ -6,7 +6,7 @@
   "description" : "A gazebo Very Simple.",
   "shortdescription" : "Plastic gazebo",
   "race" : "human",
-  "price" : 50,
+  "price" : 0,
   "health" : 1.5,
 
   "apexDescription" : "A very Basic gazebo To Help me not Get Wet.",

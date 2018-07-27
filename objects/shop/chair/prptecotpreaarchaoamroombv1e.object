@@ -5,7 +5,7 @@
   "objectType" : "loungeable",
   "sitFlipDirection" : false,
   "category" : "furniture",
-  "price" : 50,
+  "price" : 0,
 
   "description" : "A comfy chair, looks like it's meant to be nailed to the floor.",
   "shortdescription" : "Protectorate Seat",

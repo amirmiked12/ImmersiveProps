@@ -8,7 +8,7 @@
   "shortdescription" : "Dark Oak Cabinet",
   "race" : "human",
   "category" : "storage",
-  "price" : 50,
+  "price" : 0,
   "health" : 1.5,
 
   "apexDescription" : "A small Dark Oak cabinet.",

@@ -3,7 +3,7 @@
   "colonyTags" : ["human","humanprison"],
   "rarity" : "Common",
   "category" : "decorative",
-  "price" : 50,
+  "price" : 0,
 
   "description" : "It's a chain-link fence.",
   "shortdescription" : "Short Chain-link Fence",

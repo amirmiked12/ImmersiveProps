@@ -6,7 +6,7 @@
   "description" : "An Iron Anchor For Ships.",
   "shortdescription" : "Iorn Anchor",
   "race" : "human",
-  "price" : 50,
+  "price" : 0,
   "health" : 1.5,
 
   "apexDescription" : "Its Very Heavy",

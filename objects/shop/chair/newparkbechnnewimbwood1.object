@@ -3,7 +3,7 @@
     "colonyTags" : ["human"],
   "rarity" : "Common",
   "category" : "furniture",
-  "price" : 50,
+  "price" : 0,
   "printable" : false,
   "description" : "A bench found in the Park.",
   "shortdescription" : "Garden Bench",

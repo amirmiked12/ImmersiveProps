@@ -7,7 +7,7 @@
   "race" : "human",
 
   "category" : "light",
-  "price" : 50,
+  "price" : 0,
   "lightColor" : [229, 229, 210],
   "pointLight" : true,
   "pointBeam" : 2,

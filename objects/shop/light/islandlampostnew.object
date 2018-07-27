@@ -3,7 +3,7 @@
   "colonyTags" : ["island","light"],
   "rarity" : "Common",
   "category" : "light",
-  "price" : 50,
+  "price" : 0,
   "description" : "An Island lamp, fit for outdoors.",
   "shortdescription" : "Island Lamp Post",
   "race" : "generic",

@@ -8,7 +8,7 @@
   "description" : "A tropical looking bookcase full of books.",
   "shortdescription" : "Island Bookcase",
   "race" : "generic",
-  "price" : 50,
+  "price" : 0,
 
   "apexDescription" : "This bookcase is far too expressive for Apex homes.",
   "avianDescription" : "A bookcase. Very simple.",

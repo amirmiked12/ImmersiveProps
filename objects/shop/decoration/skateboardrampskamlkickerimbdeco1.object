@@ -6,7 +6,7 @@
   "description" : "A Ramp With Ledge.",
   "shortdescription" : "Wooden Ramp With Ledge",
   "race" : "human",
-  "price" : 50,
+  "price" : 0,
   "health" : 1.5,
 
   "apexDescription" : "Too Bad I Dont have Skate.",

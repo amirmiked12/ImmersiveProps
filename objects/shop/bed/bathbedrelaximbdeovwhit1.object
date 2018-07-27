@@ -7,7 +7,7 @@
   "shortdescription" : "Hospital Bed",
   "race" : "human",
   "category" : "furniture",
-  "price" : 50,
+  "price" : 0,
 
   "apexDescription" : "A simple bed, comfy for sick People.",
   "avianDescription" : "A simple bed, comfy for sick People.",

@@ -6,7 +6,7 @@
   "shortdescription" : "Island Bench",
   "race" : "generic",
   "category" : "furniture",
-  "price" : 50,
+  "price" : 0,
 
   "apexDescription" : "An Island bench.",
   "avianDescription" : "An Island bench.",

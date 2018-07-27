@@ -6,7 +6,7 @@
   "description" : "A Treasure Crate Full Of Pixels.",
   "shortdescription" : "Treasure Crate",
   "race" : "novakid",
-  "price" : 50,
+  "price" : 0,
   "health" : 1.5,
 
   "apexDescription" : "A Treasure Crate.",

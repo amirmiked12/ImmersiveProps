@@ -3,7 +3,7 @@
   "colonyTags" : ["human","lunarbase","mining"],
   "rarity" : "Common",
   "category" : "decorative",
-  "price" : 50,
+  "price" : 0,
   "description" : "A metal fence with Yellow and black warning stripes.",
   "shortdescription" : "Small Mining Railing",
   "race" : "human",

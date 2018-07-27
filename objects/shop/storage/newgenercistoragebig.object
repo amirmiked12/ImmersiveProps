@@ -7,7 +7,7 @@
   "tooltipKind" : "container",
 
   "category" : "storage",
-  "price" : 50,
+  "price" : 0,
   "description" : "A mysterious wooden crate.",
   "shortdescription" : "Huge Wooden Crate",
   "race" : "generic",

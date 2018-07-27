@@ -7,7 +7,7 @@
   "shortdescription" : "Wooden Counter",
   "race" : "human",
   "category" : "furniture",
-  "price" : 50,
+  "price" : 0,
 
   "apexDescription" : "A very simple wooden Counter.",
   "avianDescription" : "The simplest of Counters.",

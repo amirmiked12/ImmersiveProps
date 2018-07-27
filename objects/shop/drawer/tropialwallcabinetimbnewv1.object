@@ -8,7 +8,7 @@
   "description" : "A tropical looking Dresser.",
   "shortdescription" : "Island Dresser",
   "race" : "generic",
-  "price" : 50,
+  "price" : 0,
 
   "apexDescription" : "This Dresser is far too expressive for Apex homes.",
   "avianDescription" : "A Dresser. Very simple.",

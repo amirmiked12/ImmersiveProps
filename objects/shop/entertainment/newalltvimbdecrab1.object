@@ -6,7 +6,7 @@
   "description" : "A Black Tv For Wall.",
   "shortdescription" : "WideScreen Tv",
   "race" : "human",
-  "price" : 50,
+  "price" : 0,
   "health" : 1.5,
 
   "apexDescription" : "Why Its Off?",

@@ -8,7 +8,7 @@
   "shortdescription" : "carrot Storage",
   "race" : "glitch",
   "category" : "storage",
-  "price" : 50,
+  "price" : 0,
   "health" : 1.5,
 
   "apexDescription" : "A Storage.",

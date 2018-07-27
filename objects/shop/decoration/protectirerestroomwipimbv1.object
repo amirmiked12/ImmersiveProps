@@ -6,7 +6,7 @@
   "shortdescription" : "Protectorate Bathroom Stall",
   "race" : "Protectorate",
   "category" : "furniture",
-  "price" : 50,
+  "price" : 0,
 
   "apexDescription" : "A basic bathroom stall.",
   "avianDescription" : "A bathroom stall.",

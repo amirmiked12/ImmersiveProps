@@ -3,7 +3,7 @@
   "colonyTags" : ["island"],
   "rarity" : "Common",
   "category" : "furniture",
-  "price" : 50,
+  "price" : 0,
   "description" : "An Island bath barrel, Very Soothing Water.",
   "shortdescription" : "Island bath barrel",
   "race" : "generic",

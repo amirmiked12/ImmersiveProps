@@ -6,7 +6,7 @@
   "shortdescription" : "Bathroom Table",
   "race" : "human",
   "category" : "furniture",
-  "price" : 50,
+  "price" : 0,
 
   "apexDescription" : "A Table.",
   "avianDescription" : "A Table.",

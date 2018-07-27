@@ -6,7 +6,7 @@
   "description" : "A Small Green Chalkboard For Writting.",
   "shortdescription" : "Green Chalkboard",
   "race" : "human",
-  "price" : 50,
+  "price" : 0,
   "health" : 1.5,
 
   "apexDescription" : "A simple Green Chalkboard.",

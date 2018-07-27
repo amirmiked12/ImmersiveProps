@@ -4,7 +4,7 @@
   "rarity" : "Common",
 
   "category" : "door",
-  "price" : 50,
+  "price" : 0,
   "description" : "A strong Island door.",
   "shortdescription" : "Island Door",
   "race" : "generic",

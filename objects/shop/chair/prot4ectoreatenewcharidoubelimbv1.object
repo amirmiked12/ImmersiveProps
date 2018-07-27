@@ -3,7 +3,7 @@
   "colonyTags" : ["Protectorate"],
   "rarity" : "Common",
   "category" : "furniture",
-  "price" : 50,
+  "price" : 0,
   "printable" : false,
   "description" : "A bench For Protectorate.",
   "shortdescription" : "Protectorate Bench",

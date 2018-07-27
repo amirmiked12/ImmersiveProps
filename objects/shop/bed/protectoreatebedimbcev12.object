@@ -7,7 +7,7 @@
   "shortdescription" : "Protectorate Bed",
   "race" : "protectorate",
   "category" : "furniture",
-  "price" : 50,
+  "price" : 0,
 
   "apexDescription" : "A simple bed, comfy for protectorate People.",
   "avianDescription" : "A simple bed, comfy for protectorate People.",

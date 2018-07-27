@@ -6,7 +6,7 @@
   "description" : "A Concrete Barricade with Stripes On It.",
   "shortdescription" : "Concrete Barricade",
   "race" : "human",
-  "price" : 50,
+  "price" : 0,
   "health" : 1.5,
 
   "apexDescription" : "A heavy Concrete Barricade.",

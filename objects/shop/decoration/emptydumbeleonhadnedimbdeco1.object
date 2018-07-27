@@ -6,7 +6,7 @@
   "description" : "A Dumbbell For Increasing Biceps Size.",
   "shortdescription" : "Dumbbell",
   "race" : "human",
-  "price" : 50,
+  "price" : 0,
   "health" : 1.5,
 
   "apexDescription" : "I should Do Some Curls.",

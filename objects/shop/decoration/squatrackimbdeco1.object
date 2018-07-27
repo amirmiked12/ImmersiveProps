@@ -6,7 +6,7 @@
   "description" : "A Halter Use For Squating.",
   "shortdescription" : "Squate halter",
   "race" : "human",
-  "price" : 50,
+  "price" : 0,
   "health" : 1.5,
 
   "apexDescription" : "I should Never Skip Legs Day.",

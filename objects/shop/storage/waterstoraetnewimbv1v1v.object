@@ -5,7 +5,7 @@
   "objectType" : "container",
   "tooltipKind" : "container",
   "category" : "storage",
-  "price" : 50,
+  "price" : 0,
 
   "description" : "A big Storage Shack.",
   "shortdescription" : "Liquid Storage Shack",

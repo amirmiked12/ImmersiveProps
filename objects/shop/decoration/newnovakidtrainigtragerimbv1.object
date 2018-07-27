@@ -3,7 +3,7 @@
   "colonyTags" : ["combat"],
   "rarity" : "Common",
   "category" : "decorative",
-  "price" : 50,
+  "price" : 0,
   "description" : "A Wooden sheet with a target painted on. Perfect for practicing your aim.",
   "shortdescription" : "Shooting Target",
   "race" : "generic",

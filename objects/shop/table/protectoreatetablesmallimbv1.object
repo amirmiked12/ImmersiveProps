@@ -7,7 +7,7 @@
   "shortdescription" : "Protectorate Table",
   "race" : "protectorate",
   "category" : "furniture",
-  "price" : 50,
+  "price" : 0,
 
   "apexDescription" : "A very simple protectorate table.",
   "avianDescription" : "The simplest of tables.",

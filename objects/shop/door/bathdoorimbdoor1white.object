@@ -5,7 +5,7 @@
   "rarity" : "Common",
 
   "category" : "door",
-  "price" : 50,
+  "price" : 0,
   "description" : "A strong Glass door.",
   "shortdescription" : "Glass Door",
   "race" : "human",

@@ -3,7 +3,7 @@
   "colonyTags" : ["human","cooking"],
   "rarity" : "Common",
   "category" : "crafting",
-  "price" : 50,
+  "price" : 0,
   "description" : "Cooks food to a reasonable standard.",
   "shortdescription" : "Standard Oven",
   "race" : "human",

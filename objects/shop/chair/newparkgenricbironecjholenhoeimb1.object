@@ -3,7 +3,7 @@
   "colonyTags" : ["human"],
   "rarity" : "Common",
   "category" : "furniture",
-  "price" : 50,
+  "price" : 0,
   "description" : "A comfortable Iron bench.",
   "shortdescription" : "Iron Bench",
   "race" : "human",

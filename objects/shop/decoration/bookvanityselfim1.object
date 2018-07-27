@@ -6,7 +6,7 @@
   "description" : "A Book Shelf With Some Books On It.",
   "shortdescription" : "Book Shelf",
   "race" : "human",
-  "price" : 50,
+  "price" : 0,
   "health" : 1.5,
 
   "apexDescription" : "A Book Shelf.",

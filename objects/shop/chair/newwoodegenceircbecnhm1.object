@@ -6,7 +6,7 @@
   "shortdescription" : "Bench",
   "race" : "human",
   "category" : "furniture",
-  "price" : 50,
+  "price" : 0,
 
   "apexDescription" : "A plain bench.",
   "avianDescription" : "A bench.",

@@ -6,7 +6,7 @@
   "description" : "A Soccer Goal For Goaler.",
   "shortdescription" : "Soccer Goal",
   "race" : "human",
-  "price" : 50,
+  "price" : 0,
   "health" : 1.5,
 
   "apexDescription" : "I Should Bring My Ball I Guess?.",
