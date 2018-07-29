@@ -1,0 +1,32 @@
+{
+  "objectName" : "torricustmindecov1v1browndecored23",
+  "colonyTags" : ["hylotl"],
+  "rarity" : "common",
+  "description" : "Torii gate made from wood.",
+  "shortdescription" : "Torii Gate",
+  "race" : "hylotl",
+  "category" : "decorative",
+  "price" : 0,
+  "printable" : false,
+
+  "apexDescription" : "The presence of a torii at the entrance is usually the simplest way to identify Shinto shrines,",
+  "avianDescription" : "The presence of a torii at the entrance is usually the simplest way to identify Shinto shrines,",
+  "floranDescription" : "The presence of a torii at the entrance is usually the simplest way to identify Shinto shrines,",
+  "glitchDescription" : "The presence of a torii at the entrance is usually the simplest way to identify Shinto shrines,",
+  "humanDescription" : "The presence of a torii at the entrance is usually the simplest way to identify Shinto shrines,",
+  "hylotlDescription" : "The presence of a torii at the entrance is usually the simplest way to identify Shinto shrines,",
+  "novakidDescription" : "The presence of a torii at the entrance is usually the simplest way to identify Shinto shrines,",
+
+  "inventoryIcon" : "torricustmindecov1v1browndecored23.png",
+  "orientations" : [
+    {
+      "image" : "torricustmindecov1v1browndecored23.png:<color>",
+      "imagePosition" : [-90, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}
