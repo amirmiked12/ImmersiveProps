@@ -1,0 +1,32 @@
+{
+  "objectName" : "hugehaystakcimbdweo1",
+  "colonyTags" : ["nature"],
+  "rarity" : "Common",
+  "description" : "A pile of hay. Probably not a great hiding place.",
+  "shortdescription" : "Hay Pile",
+  "race" : "glitch",
+  "category" : "decorative",
+  "price" : 0,
+
+  "apexDescription" : "A pile of hay.",
+  "avianDescription" : "A big, fresh pile of hay. Avians use hay as bedding.",
+  "floranDescription" : "Fresh hay ssmells good!",
+  "glitchDescription" : "Mischievous. A pile big of hay, enough to hide in.",
+  "humanDescription" : "I am tempted to dive in.",
+  "hylotlDescription" : "The hay looks soft and smells fresh.",
+  "novakidDescription" : "A fresh hay pile.",
+
+  "inventoryIcon" : "hugehaystakcimbdweo1.png",
+  "orientations" : [
+    {
+      "dualImage" : "hugehaystakcimbdweo1.png:<color>",
+
+      "imagePosition" : [-36, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

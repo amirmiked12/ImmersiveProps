@@ -1,0 +1,41 @@
+{
+  "objectName" : "newnovakidhaybarnstaorgeimbb1v1deco",
+  "colonyTags" : ["glitch","glitchvillage"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "category" : "storage",
+  "price" : 0,
+
+  "description" : "A Shelter That keeps Your Stuff Safe.",
+  "shortdescription" : "Farm Stuff Shelter",
+  "race" : "glitch",
+
+  "apexDescription" : "I can store lots of things in Here.",
+  "avianDescription" : "I can store lots of things in Here.",
+  "floranDescription" : "I can store lots of things in Here.",
+  "glitchDescription" : "I can store lots of things in Here.",
+  "humanDescription" : "I can store lots of things in Here.",
+  "hylotlDescription" : "I can store lots of things in Here.",
+
+  "inventoryIcon" : "newnovakidhaybarnstaorgeimbb1v1deco.png",
+  "orientations" : [
+    {
+      "dualImage" : "newnovakidhaybarnstaorgeimbb1v1deco.png:<color>",
+      "imagePosition" : [-53, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+      "spaceScan" : 0.1,
+      "anchors" : ["bottom"]
+
+    }
+  ],
+  
+  "openSounds" : [ "/sfx/objects/woodenbox_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/woodenbox_close.ogg" ],
+  "slotCount" : 64,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+  
+}

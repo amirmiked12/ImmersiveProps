@@ -1,11 +1,11 @@
 {
-  "objectName" : "drinkscargoimbdeosoraev12",
+  "objectName" : "farmproductsstareogecartnewimbv1v1",
   "colonyTags" : ["storage"],
   "rarity" : "Common",
   "objectType" : "container",
   "tooltipKind" : "container",
-  "description" : "A Cart Full of LEGAL Stuff.",
-  "shortdescription" : "beverages Cart",
+  "description" : "A Cart Full of Farm Products.",
+  "shortdescription" : "Farm Products Cart",
   "race" : "human",
   "category" : "storage",
   "price" : 0,
@@ -19,12 +19,12 @@
   "hylotlDescription" : "A Cart made of wood.",
   "novakidDescription" : "A huge Cart.",
 
-  "inventoryIcon" : "drinkscargoimbdeosoraev12.png",
+  "inventoryIcon" : "farmproductsstareogecartnewimbv1v1.png",
   "orientations" : [
     {
-      "dualImage" : "drinkscargoimbdeosoraev12.png:<color>",
+      "dualImage" : "farmproductsstareogecartnewimbv1v1.png:<color>",
 
-      "imagePosition" : [-57, 0],
+      "imagePosition" : [-45, 0],
       "frames" : 1,
       "animationCycle" : 1.0,
 
