@@ -1,0 +1,36 @@
+{
+  "objectName" : "newdungeoncaveerr",
+  "tags" : ["decorative"],
+  "printable" : false,
+  "rarity" : "Common",
+  "category" : "decorative",
+
+  "description" : "I sure could use some water...",
+  "shortdescription" : "Well",
+  "race" : "glitch",
+
+  "apexDescription" : "An attractive well with bucket attached. It looks well-used.",
+  "avianDescription" : "The handle looks like it raises and lowers the bucket.",
+  "floranDescription" : "Metalmen build little houssse for bucket. Metalmen love bucket.",
+  "glitchDescription" : "Dissatisfied. Villagers use wells like this for all of their drinking water. Often the water is dirty or polluted.",
+  "humanDescription" : "An adorable little well.",
+  "hylotlDescription" : "It is difficult for me to grasp a world in which water must be dragged forth in buckets.",
+  "novakidDescription" : "A classic way to get water, better make sure I don't fall down it.",
+
+  "inventoryIcon" : "newdungeoncaveerr.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "newdungeoncaveerr.png" } ],
+      "imagePosition" : [-16,0],
+
+      "direction" : "right",
+      "flipImages" : false,
+
+      "frames" : 1,
+      "animationCycle" : 0.1,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+  }

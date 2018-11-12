@@ -1,0 +1,176 @@
+[
+	{ "op": "add", "path": "/metadata/anchor/-", "value": "nemountainmicor1" },
+	{ "op": "add", "path": "/metadata/anchor/-", "value": "nemountainmicor2" },
+	{ "op": "add", "path": "/metadata/anchor/-", "value": "newcacvestlemicor" },
+	{ "op": "add", "path": "/metadata/anchor/-", "value": "newcacvestlemicor2" },
+	{ "op": "add", "path": "/metadata/anchor/-", "value": "newcacvestlemicor3" },
+	{ "op": "add", "path": "/metadata/anchor/-", "value": "newcacvestlemicor232" },
+	{ "op": "add", "path": "/metadata/anchor/-", "value": "newdangerouscave" },
+	{ "op": "add", "path": "/metadata/anchor/-", "value": "newwatertrap11" },
+	{ "op": "add", "path": "/metadata/anchor/-", "value": "newwatertrap112" },
+	{ "op": "add", "path": "/metadata/anchor/-", "value": "waterbridgeims1" },
+	{ "op": "add", "path": "/metadata/anchor/-", "value": "waterbridgeims2" },
+	{ "op": "add", "path": "/metadata/anchor/-", "value": "witchercaveimd" },
+	{ "op": "add", "path": "/metadata/anchor/-", "value": "newbigdabgerouscave1" },
+	{ "op": "add", "path": "/metadata/anchor/-", "value": "terrarobasedcvae1" },
+	{ "op": "add", "path": "/metadata/anchor/-", "value": "terrarobasedcvae2" },
+	{ "op": "add", "path": "/metadata/anchor/-", "value": "newbigdabgerouscave13" },
+	{ "op": "add", "path": "/metadata/anchor/-", "value": "neterradamcn1" },
+	{ "op": "add", "path": "/metadata/anchor/-", "value": "neterradamcn2" },
+	{ "op": "add", "path": "/metadata/anchor/-", "value": "neterradamcn3" },
+	{ "op": "add", "path": "/metadata/anchor/-", "value": "neterradamcn4" },
+	{ "op": "add", "path": "/metadata/anchor/-", "value": "neterradamcn5" },
+	{ "op": "add", "path": "/metadata/anchor/-", "value": "neterradamcn6" },
+	{ "op": "add", "path": "/metadata/anchor/-", "value": "wandermerchantcaveimd" },
+	{ "op": "add", "path": "/metadata/anchor/-", "value": "newlandforslae6001" },
+	{ "op": "add", "path": "/metadata/anchor/-", "value": "newsmallvialgeegs001" },
+	{ "op": "add", "path": "/metadata/anchor/-", "value": "newsmallvialgeegs002" },
+	{ "op": "add", "path": "/metadata/anchor/-", "value": "newsmallvialgeegs003" },
+	{ "op": "add", "path": "/metadata/anchor/-", "value": "newsmallvialgeegs004" },
+	{ "op": "add", "path": "/metadata/anchor/-", "value": "newsmallvialgeegs005" },
+	{ "op": "add", "path": "/parts/-", "value": {
+		"name": "nemountainmicor1",
+		"rules": [[ "maxSpawnCount", [1]]],
+		"def": [ "tmx", "nemountainmicor1.json" ]
+	}},
+	{ "op": "add", "path": "/parts/-", "value": {
+		"name": "nemountainmicor2",
+		"rules": [[ "maxSpawnCount", [1]]],
+		"def": [ "tmx", "nemountainmicor2.json" ]
+	}},
+	{ "op": "add", "path": "/parts/-", "value": {
+		"name": "newcacvestlemicor",
+		"rules": [[ "maxSpawnCount", [1]]],
+		"def": [ "tmx", "newcacvestlemicor.json" ]
+	}},
+	{ "op": "add", "path": "/parts/-", "value": {
+		"name": "newcacvestlemicor2",
+		"rules": [[ "maxSpawnCount", [1]]],
+		"def": [ "tmx", "newcacvestlemicor2.json" ]
+	}},
+	{ "op": "add", "path": "/parts/-", "value": {
+		"name": "newcacvestlemicor3",
+		"rules": [[ "maxSpawnCount", [1]]],
+		"def": [ "tmx", "newcacvestlemicor3.json" ]
+	}},
+	{ "op": "add", "path": "/parts/-", "value": { 
+		"name": "newcacvestlemicor232",
+		"rules": [[ "maxSpawnCount", [1]]],
+		"def": [ "tmx", "newcacvestlemicor232.json" ]
+	}},
+	{ "op": "add", "path": "/parts/-", "value": {
+		"name": "newdangerouscave",
+		"rules": [[ "maxSpawnCount", [1]]],
+		"def": [ "tmx", "newdangerouscave.json" ]
+	}},
+	{ "op": "add", "path": "/parts/-", "value": {
+		"name": "newwatertrap11",
+		"rules": [[ "maxSpawnCount", [1]]],
+		"def": [ "tmx", "newwatertrap11.json" ]
+	}},
+	{ "op": "add", "path": "/parts/-", "value": {
+		"name": "newwatertrap112",
+		"rules": [[ "maxSpawnCount", [1]]],
+		"def": [ "tmx", "newwatertrap112.json" ]
+	}},
+	{ "op": "add", "path": "/parts/-", "value": {
+		"name": "waterbridgeims1",
+		"rules": [[ "maxSpawnCount", [1]]],
+		"def": [ "tmx", "waterbridgeims1.json" ]
+	}},
+	{ "op": "add", "path": "/parts/-", "value": {
+		"name": "waterbridgeims2",
+		"rules": [[ "maxSpawnCount", [1]]],
+		"def": [ "tmx", "waterbridgeims2.json" ]
+	}},
+	{ "op": "add", "path": "/parts/-", "value": {
+		"name": "witchercaveimd",
+		"rules": [[ "maxSpawnCount", [1]]],
+		"def": [ "tmx", "witchercaveimd.json" ]
+	}},
+	{ "op": "add", "path": "/parts/-", "value": {
+		"name": "newbigdabgerouscave1",
+		"rules": [[ "maxSpawnCount", [1]]],
+		"def": [ "tmx", "newbigdabgerouscave1.json" ]
+	}},
+	{ "op": "add", "path": "/parts/-", "value": {
+		"name": "terrarobasedcvae1",
+		"rules": [[ "maxSpawnCount", [1]]],
+		"def": [ "tmx", "terrarobasedcvae1.json" ]
+	}},
+	{ "op": "add", "path": "/parts/-", "value": {
+		"name": "terrarobasedcvae2",
+		"rules": [[ "maxSpawnCount", [1]]],
+		"def": [ "tmx", "terrarobasedcvae2.json" ]
+	}},
+	{ "op": "add", "path": "/parts/-", "value": {
+		"name": "newbigdabgerouscave13",
+		"rules": [[ "maxSpawnCount", [1]]],
+		"def": [ "tmx", "newbigdabgerouscave13.json" ]
+	}},
+	{ "op": "add", "path": "/parts/-", "value": {
+		"name": "neterradamcn1",
+		"rules": [[ "maxSpawnCount", [1]]],
+		"def": [ "tmx", "neterradamcn1.json" ]
+	}},
+	{ "op": "add", "path": "/parts/-", "value": {
+		"name": "neterradamcn2",
+		"rules": [[ "maxSpawnCount", [1]]],
+		"def": [ "tmx", "neterradamcn2.json" ]
+	}},
+	{ "op": "add", "path": "/parts/-", "value": {
+		"name": "neterradamcn3",
+		"rules": [[ "maxSpawnCount", [1]]],
+		"def": [ "tmx", "neterradamcn3.json" ]
+	}},
+	{ "op": "add", "path": "/parts/-", "value": {
+		"name": "neterradamcn4",
+		"rules": [[ "maxSpawnCount", [1]]],
+		"def": [ "tmx", "neterradamcn4.json" ]
+	}},
+	{ "op": "add", "path": "/parts/-", "value": {
+		"name": "neterradamcn5",
+		"rules": [[ "maxSpawnCount", [1]]],
+		"def": [ "tmx", "neterradamcn5.json" ]
+	}},
+	{ "op": "add", "path": "/parts/-", "value": {
+		"name": "neterradamcn6",
+		"rules": [[ "maxSpawnCount", [1]]],
+		"def": [ "tmx", "neterradamcn6.json" ]
+	}},
+	{ "op": "add", "path": "/parts/-", "value": {
+		"name": "wandermerchantcaveimd",
+		"rules": [[ "maxSpawnCount", [1]]],
+		"def": [ "tmx", "wandermerchantcaveimd.json" ]
+	}},
+	{ "op": "add", "path": "/parts/-", "value": {
+		"name": "newlandforslae6001",
+		"rules": [[ "maxSpawnCount", [1]]],
+		"def": [ "tmx", "newlandforslae6001.json" ]
+	}},
+	{ "op": "add", "path": "/parts/-", "value": {
+		"name": "newsmallvialgeegs001",
+		"rules": [[ "maxSpawnCount", [1]]],
+		"def": [ "tmx", "newsmallvialgeegs001.json" ]
+	}},
+	{ "op": "add", "path": "/parts/-", "value": {
+		"name": "newsmallvialgeegs002",
+		"rules": [[ "maxSpawnCount", [1]]],
+		"def": [ "tmx", "newsmallvialgeegs002.json" ]
+	}},
+	{ "op": "add", "path": "/parts/-", "value": {
+		"name": "newsmallvialgeegs003",
+		"rules": [[ "maxSpawnCount", [1]]],
+		"def": [ "tmx", "newsmallvialgeegs003.json" ]
+	}},
+	{ "op": "add", "path": "/parts/-", "value": {
+		"name": "newsmallvialgeegs004",
+		"rules": [[ "maxSpawnCount", [1]]],
+		"def": [ "tmx", "newsmallvialgeegs004.json" ]
+	}},
+	{ "op": "add", "path": "/parts/-", "value": {
+		"name": "newsmallvialgeegs005",
+		"rules": [[ "maxSpawnCount", [1]]],
+		"def": [ "tmx", "newsmallvialgeegs005.json" ]
+	}}
+]

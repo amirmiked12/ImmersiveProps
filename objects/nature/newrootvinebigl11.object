@@ -1,0 +1,41 @@
+{
+  "objectName" : "newrootvinebigl11",
+  "colonyTags" : ["Nature"],
+  "printable" : false,
+  "smashable" : false,
+  "smashOnBreak" : true,
+  "smashSounds" : [ "/sfx/objects/plant_break1.ogg", "/sfx/objects/plant_break2.ogg", "/sfx/objects/plant_break3.ogg", "/sfx/objects/plant_break4.ogg", "/sfx/objects/plant_break5.ogg", "/sfx/objects/plant_break6.ogg" ],
+  "smashParticles" : [ { "count" : 5, "particle" : "plantshard" } ],
+  "rarity" : "Common",
+  "category" : "Nature",
+
+  "description" : "A Vine.",
+  "shortdescription" : "Vine",
+  "race" : "human",
+
+  "apexDescription" : "A Vine.",
+  "avianDescription" : "A Vine.",
+  "floranDescription" : "A Vine.",
+  "glitchDescription" : "Statement. A Vine.",
+  "humanDescription" : "A Vine.",
+  "hylotlDescription" : "A Vine.",
+
+  "inventoryIcon" : "newrootvinebigl11.png",
+  "orientations" : [
+    {
+      "dualImage" : "newrootvinebigl11.png:<color>",
+      "imagePosition" : [-8,0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "top" ]
+
+    }
+  ],
+
+  "smashDropOptions" : [
+    [ [ "plantfibre", 20, { } ] ]
+  ],
+    "maxImmersion" : 0.125
+}

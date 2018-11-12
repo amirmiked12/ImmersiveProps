@@ -1,0 +1,39 @@
+{
+  "objectName" : "forsalehomelandimbsnow001",
+  "tags" : ["decorative"],
+  "printable" : false,
+  "smashable" : false,
+  "smashOnBreak" : true,
+  "smashSounds" : [ "/sfx/objects/wood_break1.ogg", "/sfx/objects/wood_break2.ogg", "/sfx/objects/wood_break3.ogg", "/sfx/objects/wood_break4.ogg", "/sfx/objects/wood_break5.ogg", "/sfx/objects/wood_break6.ogg" ],
+  "smashParticles" : [ { "count" : 5, "particle" : "woodshard" } ],
+  "rarity" : "Common",
+  "category" : "guide",
+
+  "description" : "A Land For Sale Sign.",
+  "shortdescription" : "Sign",
+  "race" : "human",
+
+  "apexDescription" : "This Sign says this land is for sale.",
+  "avianDescription" : "This Sign says this land is for sale.",
+  "floranDescription" : "This Sign says this land is for sale.",
+  "glitchDescription" : "This Sign says this land is for sale.",
+  "humanDescription" : "This Sign says this land is for sale.",
+  "hylotlDescription" : "This Sign says this land is for sale.",
+
+  "inventoryIcon" : "forsalehomelandimbsnow001.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "forsalehomelandimbsnow001.png" } ],
+      "imagePosition" : [-16,0],
+
+      "direction" : "right",
+      "flipImages" : false,
+
+      "frames" : 1,
+      "animationCycle" : 0.1,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+  }
