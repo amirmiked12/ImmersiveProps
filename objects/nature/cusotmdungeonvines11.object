@@ -2,6 +2,8 @@
   "objectName" : "cusotmdungeonvines11",
   "colonyTags" : ["Nature"],
   "printable" : false,
+  "health" : 10,
+  "rooting" : true,
   "smashable" : false,
   "smashOnBreak" : true,
   "smashSounds" : [ "/sfx/objects/plant_break1.ogg", "/sfx/objects/plant_break2.ogg", "/sfx/objects/plant_break3.ogg", "/sfx/objects/plant_break4.ogg", "/sfx/objects/plant_break5.ogg", "/sfx/objects/plant_break6.ogg" ],

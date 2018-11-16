@@ -4,7 +4,7 @@
  "layers":[
         {
          "compression":"zlib",
-         "data":"eJzt2kEKgzAURdGQ\/S\/MJXQ5DjqRQAr2K8TnufBm9cvBaXtrrZtZzFJ6i3PsLc5jvNnxZsebHW92vNnxZsebHW92vNnxZsebHW92vNnxZsebHe+3rXCz8uzdN3jr7+Nd5wZv\/X2869zgrb+Pd40b4\/\/r+vDbz5+rPHvHjZn1aE7y\/rLOvvcTO+M0MzMzu3o79nN8PQ==",
+         "data":"eJzt2kEKhDAQBdGQ+x\/PI3gQcdHgJoK2gVhdBX83tjzcTm+tdecccn+qkjWqZI0qWaNK1qiSNapkjSpZI73s9LLTy04vO73s9LLTy04vO73s9LLTy04vO73sRt4tcTPz7OwbevPv07vODb359+ld54be\/Pv0rnHj7v8552\/3l8s8O+PGyHo1k7x31tH3\/mNPnM4555xzX+8ANSGDQQ==",
          "encoding":"base64",
          "height":60,
          "name":"back",
@@ -84,8 +84,8 @@
                  "type":"",
                  "visible":true,
                  "width":8,
-                 "x":24,
-                 "y":48
+                 "x":64,
+                 "y":40
                 }, 
                 {
                  "gid":5,
@@ -96,8 +96,8 @@
                  "type":"",
                  "visible":true,
                  "width":8,
-                 "x":448,
-                 "y":48
+                 "x":400,
+                 "y":40
                 }, 
                 {
                  "gid":5,
@@ -109,7 +109,7 @@
                  "visible":true,
                  "width":8,
                  "x":456,
-                 "y":200
+                 "y":280
                 }, 
                 {
                  "gid":5,
@@ -121,7 +121,7 @@
                  "visible":true,
                  "width":8,
                  "x":8,
-                 "y":208
+                 "y":288
                 }, 
                 {
                  "gid":5,
@@ -203,7 +203,7 @@
                  "y":296
                 }, 
                 {
-                 "gid":2147483923,
+                 "gid":2147483935,
                  "height":20,
                  "id":30,
                  "name":"",
@@ -215,7 +215,7 @@
                  "y":400
                 }, 
                 {
-                 "gid":2147483923,
+                 "gid":2147483935,
                  "height":20,
                  "id":31,
                  "name":"",
@@ -227,7 +227,7 @@
                  "y":400
                 }, 
                 {
-                 "gid":670,
+                 "gid":682,
                  "height":16,
                  "id":35,
                  "name":"",
@@ -239,7 +239,7 @@
                  "y":312
                 }, 
                 {
-                 "gid":670,
+                 "gid":682,
                  "height":16,
                  "id":37,
                  "name":"",
@@ -251,7 +251,7 @@
                  "y":312
                 }, 
                 {
-                 "gid":670,
+                 "gid":682,
                  "height":16,
                  "id":40,
                  "name":"",
@@ -263,7 +263,7 @@
                  "y":312
                 }, 
                 {
-                 "gid":670,
+                 "gid":682,
                  "height":16,
                  "id":41,
                  "name":"",
@@ -309,6 +309,30 @@
                  "width":112,
                  "x":168,
                  "y":400
+                }, 
+                {
+                 "gid":5,
+                 "height":8,
+                 "id":51,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":8,
+                 "y":96
+                }, 
+                {
+                 "gid":5,
+                 "height":8,
+                 "id":52,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":456,
+                 "y":96
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -390,7 +414,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":51,
+ "nextobjectid":53,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.1.6",
@@ -405,15 +429,15 @@
          "source":"..\/..\/..\/..\/tilesets\/packed\/dungeonobjects.json"
         }, 
         {
-         "firstgid":77,
+         "firstgid":89,
          "source":"..\/..\/..\/..\/..\/..\/assets\/Packed\/tilesets\/packed\/materials.json"
         }, 
         {
-         "firstgid":272,
+         "firstgid":284,
          "source":"..\/..\/..\/..\/..\/..\/assets\/Packed\/tilesets\/packed\/objects-by-category\/furniture.json"
         }, 
         {
-         "firstgid":618,
+         "firstgid":630,
          "source":"..\/..\/..\/..\/..\/..\/assets\/Packed\/tilesets\/packed\/objects-by-category\/light.json"
         }],
  "tilewidth":8,

@@ -7,10 +7,11 @@
   "shortdescription" : "Village House",
   "race" : "human",
   "category" : "furniture",
-  "price" : 100,
+  "price" : 100000,
+  "rooting" : true,
   "smashable" : false,
   "smashOnBreak" : true,
-  "health" : 1000000,
+  "health" : 500,
 
   "apexDescription" : "A Very Good Place To Stay And Rest.",
   "avianDescription" : "A Very Good Place To Stay And Rest.",

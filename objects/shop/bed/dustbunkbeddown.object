@@ -1,0 +1,47 @@
+{
+  "objectName" : "dustbunkbeddown",
+  "colonyTags" : ["fenerox"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "An old, worn and dusty bed.",
+  "shortdescription" : "Dusty Bunk Bed(down)",
+  "race" : "fenerox",
+  "category" : "furniture",
+  "price" : 0,
+
+  "apexDescription" : "Old and worn, but probably works efficiently enough.",
+  "avianDescription" : "A bed with a grass stuffed sheet. I could get used to this!",
+  "floranDescription" : "Floran could probably sssleep in this fine.",
+  "glitchDescription" : "Confused. Is this furniture meant to look this dishevelled?",
+  "humanDescription" : "This looks old and dry. I'd be nervous putting it near an open flame.",
+  "hylotlDescription" : "I am not comfortable sleeping in such dire conditions.",
+  "novakidDescription" : "A little dust never hurt anyone.",
+
+  "inventoryIcon" : "dustbunkbeddown.png",
+  "orientations" : [
+    {
+      "dualImage" : "dustbunkbeddown.png:<color>",
+
+      "imagePosition" : [-24, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+	  "collision" : "platform"
+
+    }
+  ],
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : true,
+  "sitPosition" : [-10, 14],
+  "sitOrientation" : "lay",
+  "sitAngle" : 90,
+  "sitCoverImage" : "/objects/shop/bed/dustbunkbeddowncover.png",
+  "sitEmote" : "sleep",
+  "sitStatusEffects" : [
+    "bed1"
+  ],
+  "sitEffectEmitters" : [ "sleepbubbles" ]
+}

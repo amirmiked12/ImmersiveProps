@@ -4,7 +4,7 @@
  "layers":[
         {
          "compression":"zlib",
-         "data":"eJzt0jEKgEAQBMHD\/7\/FNxodiIEiCEJfNUy+BbuNMTYzy6zSKs5rK1lnvO142\/G2423H2463HW873na87Xjb8bbjbcfbjrcdbzvedrzteNvxtuNtt5L3aj2b99DurHN\/3\/jlnqyV\/37jNDMzM\/t6B5gbTRk=",
+         "data":"eJzt0jEKgEAQBMHD\/\/\/TbxgdiIEiCEJfNUy+BbuNMTYzy6zSKs5rK1lnvO142\/G2423H2463HW873na87Xjb8bbjbcfbjrcdbzvedrzteNvxtuNtt5L3aj2b99DurHN\/3\/jlnqyV\/37jNDMzM\/t6BzWYY88=",
          "encoding":"base64",
          "height":60,
          "name":"back",
@@ -170,7 +170,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":20,
+ "nextobjectid":30,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.1.6",
@@ -185,7 +185,7 @@
          "source":"..\/..\/..\/..\/tilesets\/packed\/dungeonobjects.json"
         }, 
         {
-         "firstgid":35,
+         "firstgid":92,
          "source":"..\/..\/..\/..\/..\/..\/assets\/Packed\/tilesets\/packed\/materials.json"
         }],
  "tilewidth":8,

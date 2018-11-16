@@ -2,7 +2,9 @@
   "objectName" : "newdungeoncaveerr",
   "tags" : ["decorative"],
   "printable" : false,
+  "rooting" : true,
   "rarity" : "Common",
+  "health" : 50,
   "category" : "decorative",
 
   "description" : "I sure could use some water...",

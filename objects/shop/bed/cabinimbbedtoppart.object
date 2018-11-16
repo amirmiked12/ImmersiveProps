@@ -1,0 +1,46 @@
+{
+  "objectName" : "cabinimbbedtoppart",
+  "colonyTags" : ["cabin"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "What's better than a bed? Two beds!",
+  "shortdescription" : "Cabin Bunk Bed(top)",
+  "race" : "cabin",
+  "category" : "furniture",
+  "price" : 0,
+
+  "apexDescription" : "Is the top bed for looking for approaching enemies? I don't understand.",
+  "avianDescription" : "Bunk beds are so useful for shared spaces!",
+  "floranDescription" : "Floran doesssn't like sssleeping so far from ground.",
+  "glitchDescription" : "Worried. I hope that it doesn't collapse while being used.",
+  "humanDescription" : "The bunk bed is a beautiful invention. I'm glad it's stood the test of time.",
+  "hylotlDescription" : "The ingenuity in this furniture is ruined by the crude bedding.",
+  "novakidDescription" :  "Me, well I'd prefer to sleep on the top bunk, closer to the stars.",
+
+  "inventoryIcon" : "cabinimbbedtoppart.png",
+  "orientations" : [
+    {
+      "dualImage" : "cabinimbbedtoppart.png:<color>",
+
+      "imagePosition" : [-24, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : true,
+  "sitPosition" : [-10, 13],
+  "sitOrientation" : "lay",
+  "sitAngle" : 90,
+  "sitCoverImage" : "/objects/shop/bed/cabinimbbedtoppartcover.png",
+  "sitEmote" : "sleep",
+  "sitStatusEffects" : [
+    "bed1"
+  ],
+  "sitEffectEmitters" : [ "sleepbubbles" ]
+}

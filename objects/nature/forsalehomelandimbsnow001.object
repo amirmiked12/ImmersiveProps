@@ -4,9 +4,11 @@
   "printable" : false,
   "smashable" : false,
   "smashOnBreak" : true,
+  "health" : 50,
   "smashSounds" : [ "/sfx/objects/wood_break1.ogg", "/sfx/objects/wood_break2.ogg", "/sfx/objects/wood_break3.ogg", "/sfx/objects/wood_break4.ogg", "/sfx/objects/wood_break5.ogg", "/sfx/objects/wood_break6.ogg" ],
   "smashParticles" : [ { "count" : 5, "particle" : "woodshard" } ],
   "rarity" : "Common",
+  "rooting" : true,
   "category" : "guide",
 
   "description" : "A Land For Sale Sign.",

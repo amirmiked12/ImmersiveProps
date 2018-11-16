@@ -1,0 +1,46 @@
+{
+  "objectName" : "newdarkoadkbunkbedtop",
+  "colonyTags" : ["human"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "A beautiful bed made of Dark Oak.",
+  "shortdescription" : "Dark Oak Bunk Bed(top)",
+  "race" : "human",
+  "category" : "furniture",
+  "price" : 0,
+
+  "apexDescription" : "A bed of Dark Oak.Fit for a My Home.",
+  "avianDescription" : "A bed forged from precious Oak. Who sleeps amongst such precious materials?",
+  "floranDescription" : "Floran want to try out Dark bed.",
+  "glitchDescription" : "Identify. A bed built for Humans.",
+  "humanDescription" : "I suspect this was built for Humans.",
+  "hylotlDescription" : "why this bed is so dark?",
+  "novakidDescription" : "Sure is a fancy bed, fit for a king almost!",
+
+  "inventoryIcon" : "newdarkoadkbunkbedtop.png",
+  "orientations" : [
+    {
+      "dualImage" : "newdarkoadkbunkbedtop.png:<color>",
+
+      "imagePosition" : [-24, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : true,
+  "sitPosition" : [-10, 9],
+  "sitOrientation" : "lay",
+  "sitAngle" : 90,
+  "sitCoverImage" : "/objects/shop/bed/newdarkoadkbunkbedtopcover.png",
+  "sitEmote" : "sleep",
+  "sitStatusEffects" : [
+    "bed1"
+  ],
+  "sitEffectEmitters" : [ "sleepbubbles" ]
+}

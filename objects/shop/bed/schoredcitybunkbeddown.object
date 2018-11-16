@@ -1,0 +1,47 @@
+{
+  "objectName" : "schoredcitybunkbeddown",
+  "colonyTags" : ["scorched"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "A clean and sturdy bed.",
+  "shortdescription" : "Stylish Bunk Bed(down)",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 0,
+
+  "apexDescription" : "A fresh, clean looking bed.",
+  "avianDescription" : "A plain looking bed. The sheets are fresh.",
+  "floranDescription" : "Clean bed isss good for a resstful sleep.",
+  "glitchDescription" : "Calm. A bed with an appealingly high level of sterility.",
+  "humanDescription" : "A clean looking bed, it seems comfy enough.",
+  "hylotlDescription" : "A simple bed, it will serve it's purpose.",
+  "novakidDescription" : "This bed looks a little too clean, if you ask me.",
+
+  "inventoryIcon" : "schoredcitybunkbeddown.png",
+  "orientations" : [
+    {
+      "dualImage" : "schoredcitybunkbeddown.png:<color>",
+
+      "imagePosition" : [-24, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+	  "collision" : "platform"
+
+    }
+  ],
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : true,
+  "sitPosition" : [-10, 13],
+  "sitOrientation" : "lay",
+  "sitAngle" : 90,
+  "sitCoverImage" : "/objects/shop/bed/schoredcitybunkbeddowncover.png",
+  "sitEmote" : "sleep",
+  "sitStatusEffects" : [
+    "bed1"
+  ],
+  "sitEffectEmitters" : [ "sleepbubbles" ]
+}

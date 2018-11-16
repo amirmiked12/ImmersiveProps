@@ -1,6 +1,7 @@
 {
   "objectName" : "newisladnbednewimbv1v1",
   "colonyTags" : ["island"],
+  "printable" : false,
   "rarity" : "Common",
   "description" : "An Island wooden bed.",
   "shortdescription" : "Island Bed",

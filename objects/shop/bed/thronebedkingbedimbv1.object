@@ -1,6 +1,7 @@
 {
   "objectName" : "thronebedkingbedimbv1",
   "colonyTags" : ["human"],
+  "printable" : false,
   "rarity" : "Common",
   "description" : "A beautiful bed made of Dark Oak.",
   "shortdescription" : "Dark Oak Bed",

@@ -1,6 +1,7 @@
 {
   "objectName" : "newislandbunkbeddownimb",
   "colonyTags" : ["island"],
+  "printable" : false,
   "rarity" : "Common",
   "description" : "An Island wooden bed.",
   "shortdescription" : "Island Bunk Bed(down)",

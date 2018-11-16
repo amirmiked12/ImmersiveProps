@@ -1,13 +1,14 @@
 {
   "objectName" : "cyanpoolpartimbvbea",
   "colonyTags" : ["human"],
+  "printable" : false,
   "rarity" : "Common",
   "category" : "furniture",
   "description" : "A Beach Bed For Tanning.",
   "shortdescription" : "Beach Bed",
   "race" : "human",
   "price" : 0,
-  "health" : 1.5,
+  
 
   "apexDescription" : "I Realy Like The Bed.",
   "avianDescription" : "I Realy Like The Bed.",
