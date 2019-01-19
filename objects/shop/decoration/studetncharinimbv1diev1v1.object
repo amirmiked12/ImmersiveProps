@@ -1,0 +1,29 @@
+{
+  "objectName" : "studetncharinimbv1diev1v1",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "category" : "furniture",
+  "price" : 50,
+
+  "description" : "A comfy Seat, looks like it's meant to be for students.",
+  "shortdescription" : "Students Seat",
+  "race" : "human",
+
+  "apexDescription" : "This Seat is pretty comfortable. A reward for reporting on your neighbour.",
+  "avianDescription" : "Is this full of feathers?",
+  "floranDescription" : "Sso sssoft.",
+  "glitchDescription" : "Impressed. A chair worthy of a Student.",
+  "humanDescription" : "Wow, this is a pretty comfortable Seat. It looks cheap.",
+  "hylotlDescription" : "As soft as sand on the sea bed.",
+  "novakidDescription" : "This sure is a comfy Seat to sit on.",
+
+  "inventoryIcon" : "studetncharinimbv1diev1v1.png",
+  "orientations" : [
+    {
+      "dualImage" : "studetncharinimbv1diev1v1.png",
+      "imagePosition" : [-25, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

@@ -23,6 +23,19 @@
 	{ "op": "add", "path": "/metadata/anchor/-", "value": "neterradamcn6" },
 	{ "op": "add", "path": "/metadata/anchor/-", "value": "wandermerchantcaveimd" },
 	{ "op": "add", "path": "/metadata/anchor/-", "value": "newlandforslae6001" },
+	{ "op": "add", "path": "/metadata/anchor/-", "value": "newsmallvialgeegs001" },
+	{ "op": "add", "path": "/metadata/anchor/-", "value": "newsmallvialgeegs002" },
+	{ "op": "add", "path": "/metadata/anchor/-", "value": "newsmallvialgeegs003" },
+	{ "op": "add", "path": "/metadata/anchor/-", "value": "newsmallvialgeegs004" },
+	{ "op": "add", "path": "/metadata/anchor/-", "value": "newsmallvialgeegs005" },
+	{ "op": "add", "path": "/metadata/anchor/-", "value": "newwanderingmaerchant001" },
+	{ "op": "add", "path": "/metadata/anchor/-", "value": "farmerhomimb001" },
+	{ "op": "add", "path": "/metadata/anchor/-", "value": "wanderintravelersimb1" },
+	{ "op": "add", "path": "/metadata/anchor/-", "value": "newwatercaveimbv1" },
+	{ "op": "add", "path": "/metadata/anchor/-", "value": "newwatercaveimbv2" },
+	{ "op": "add", "path": "/metadata/anchor/-", "value": "newwatercaveimbv3" },
+	{ "op": "add", "path": "/metadata/anchor/-", "value": "newcaveholeimbv1" },
+	{ "op": "add", "path": "/metadata/anchor/-", "value": "newcaveholeimbvdanger1" },
 	{ "op": "add", "path": "/parts/-", "value": {
 		"name": "nemountainmicor1",
 		"rules": [[ "maxSpawnCount", [1]]],
@@ -142,5 +155,70 @@
 		"name": "newlandforslae6001",
 		"rules": [[ "maxSpawnCount", [1]]],
 		"def": [ "tmx", "newlandforslae6001.json" ]
+	}},
+	{ "op": "add", "path": "/parts/-", "value": {
+		"name": "newsmallvialgeegs001",
+		"rules": [[ "maxSpawnCount", [1]]],
+		"def": [ "tmx", "newsmallvialgeegs001.json" ]
+	}},
+	{ "op": "add", "path": "/parts/-", "value": {
+		"name": "newsmallvialgeegs002",
+		"rules": [[ "maxSpawnCount", [1]]],
+		"def": [ "tmx", "newsmallvialgeegs002.json" ]
+	}},
+	{ "op": "add", "path": "/parts/-", "value": {
+		"name": "newsmallvialgeegs003",
+		"rules": [[ "maxSpawnCount", [1]]],
+		"def": [ "tmx", "newsmallvialgeegs003.json" ]
+	}},
+	{ "op": "add", "path": "/parts/-", "value": {
+		"name": "newsmallvialgeegs004",
+		"rules": [[ "maxSpawnCount", [1]]],
+		"def": [ "tmx", "newsmallvialgeegs004.json" ]
+	}},
+	{ "op": "add", "path": "/parts/-", "value": {
+		"name": "newsmallvialgeegs005",
+		"rules": [[ "maxSpawnCount", [1]]],
+		"def": [ "tmx", "newsmallvialgeegs005.json" ]
+	}},
+	{ "op": "add", "path": "/parts/-", "value": {
+		"name": "newwanderingmaerchant001",
+		"rules": [[ "maxSpawnCount", [1]]],
+		"def": [ "tmx", "newwanderingmaerchant001.json" ]
+	}},
+	{ "op": "add", "path": "/parts/-", "value": {
+		"name": "farmerhomimb001",
+		"rules": [[ "maxSpawnCount", [1]]],
+		"def": [ "tmx", "farmerhomimb001.json" ]
+	}},
+	{ "op": "add", "path": "/parts/-", "value": {
+		"name": "wanderintravelersimb1",
+		"rules": [[ "maxSpawnCount", [1]]],
+		"def": [ "tmx", "wanderintravelersimb1.json" ]
+	}},
+	{ "op": "add", "path": "/parts/-", "value": {
+		"name": "newwatercaveimbv1",
+		"rules": [[ "maxSpawnCount", [1]]],
+		"def": [ "tmx", "newwatercaveimbv1.json" ]
+	}},
+	{ "op": "add", "path": "/parts/-", "value": {
+		"name": "newwatercaveimbv2",
+		"rules": [[ "maxSpawnCount", [1]]],
+		"def": [ "tmx", "newwatercaveimbv2.json" ]
+	}},
+	{ "op": "add", "path": "/parts/-", "value": {
+		"name": "newwatercaveimbv3",
+		"rules": [[ "maxSpawnCount", [1]]],
+		"def": [ "tmx", "newwatercaveimbv3.json" ]
+	}},
+	{ "op": "add", "path": "/parts/-", "value": {
+		"name": "newcaveholeimbv1",
+		"rules": [[ "maxSpawnCount", [1]]],
+		"def": [ "tmx", "newcaveholeimbv1.json" ]
+	}},
+	{ "op": "add", "path": "/parts/-", "value": {
+		"name": "newcaveholeimbvdanger1",
+		"rules": [[ "maxSpawnCount", [1]]],
+		"def": [ "tmx", "newcaveholeimbvdanger1.json" ]
 	}}
 ]

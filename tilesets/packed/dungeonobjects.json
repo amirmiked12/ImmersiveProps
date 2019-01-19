@@ -8,8 +8,8 @@
  "margin":0,
  "name":"dungeonobjects",
  "spacing":0,
- "tilecount":66,
- "tileheight":92,
+ "tilecount":71,
+ "tileheight":104,
  "tileproperties":
     {
      "0":
@@ -642,6 +642,46 @@
          "object":"woodnvailbeddown",
          "tilesetDirection":"right"
         },
+     "66":
+        {
+         "\/\/description":"nothing",
+         "\/\/name":"nothing",
+         "\/\/shortdescription":"nothing",
+         "imagePositionX":"-45",
+         "imagePositionY":"0",
+         "object":"farmproductsstareogecartnewimbv1v1",
+         "tilesetDirection":"right"
+        },
+     "67":
+        {
+         "\/\/description":"nothing",
+         "\/\/name":"nothing",
+         "\/\/shortdescription":"nothing",
+         "imagePositionX":"-13",
+         "imagePositionY":"0",
+         "object":"newdoceorationalgrass4imbvv21",
+         "tilesetDirection":"right"
+        },
+     "68":
+        {
+         "\/\/description":"nothing",
+         "\/\/name":"nothing",
+         "\/\/shortdescription":"nothing",
+         "imagePositionX":"-13",
+         "imagePositionY":"0",
+         "object":"newdoceorationalgrass4imbvv21snow",
+         "tilesetDirection":"right"
+        },
+     "69":
+        {
+         "\/\/description":"nothing",
+         "\/\/name":"nothing",
+         "\/\/shortdescription":"nothing",
+         "imagePositionX":"-24",
+         "imagePositionY":"0",
+         "object":"cabinimbbeddownpart",
+         "tilesetDirection":"right"
+        },
      "7":
         {
          "\/\/description":"nothing",
@@ -650,6 +690,16 @@
          "imagePositionX":"-8",
          "imagePositionY":"0",
          "object":"vineveriosnsmallgrenn",
+         "tilesetDirection":"right"
+        },
+     "70":
+        {
+         "\/\/description":"nothing",
+         "\/\/name":"nothing",
+         "\/\/shortdescription":"nothing",
+         "imagePositionX":"-24",
+         "imagePositionY":"0",
+         "object":"cabinimbbedtoppart",
          "tilesetDirection":"right"
         },
      "8":
@@ -1305,7 +1355,57 @@
          "object":"string",
          "tilesetDirection":"string"
         },
+     "66":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "67":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "68":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "69":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
      "7":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "70":
         {
          "\/\/description":"string",
          "\/\/name":"string",
@@ -1716,11 +1816,41 @@
          "imageheight":24,
          "imagewidth":48
         },
+     "66":
+        {
+         "image":"..\/..\/..\/..\/tiled\/mymod\/farmproductsstareogecartnewimbv1v1.png",
+         "imageheight":48,
+         "imagewidth":97
+        },
+     "67":
+        {
+         "image":"..\/..\/..\/..\/tiled\/mymod\/newdoceorationalgrass4imbvv21.png",
+         "imageheight":104,
+         "imagewidth":27
+        },
+     "68":
+        {
+         "image":"..\/..\/..\/..\/tiled\/mymod\/newdoceorationalgrass4imbvv21snow.png",
+         "imageheight":104,
+         "imagewidth":27
+        },
+     "69":
+        {
+         "image":"..\/..\/..\/..\/tiled\/mymod\/cabinimbbeddownpart.png",
+         "imageheight":24,
+         "imagewidth":48
+        },
      "7":
         {
          "image":"..\/..\/..\/..\/tiled\/mymod\/vineveriosnsmallgrenn.png",
          "imageheight":48,
          "imagewidth":17
+        },
+     "70":
+        {
+         "image":"..\/..\/..\/..\/tiled\/mymod\/cabinimbbedtoppart.png",
+         "imageheight":24,
+         "imagewidth":48
         },
      "8":
         {

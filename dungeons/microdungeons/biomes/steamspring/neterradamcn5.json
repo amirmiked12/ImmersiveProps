@@ -33,54 +33,6 @@
          "name":"objects",
          "objects":[
                 {
-                 "gid":58,
-                 "height":48,
-                 "id":1,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":17,
-                 "x":304,
-                 "y":368
-                }, 
-                {
-                 "gid":2147483706,
-                 "height":48,
-                 "id":3,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":17,
-                 "x":280,
-                 "y":368
-                }, 
-                {
-                 "gid":2147483706,
-                 "height":48,
-                 "id":4,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":17,
-                 "x":208,
-                 "y":360
-                }, 
-                {
-                 "gid":58,
-                 "height":48,
-                 "id":6,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":17,
-                 "x":184,
-                 "y":360
-                }, 
-                {
                  "gid":5,
                  "height":8,
                  "id":7,
@@ -242,7 +194,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":20,
+ "nextobjectid":26,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.1.6",
@@ -261,7 +213,7 @@
          "source":"..\/..\/..\/..\/tilesets\/packed\/dungeonobjects.json"
         }, 
         {
-         "firstgid":60,
+         "firstgid":122,
          "source":"..\/..\/..\/..\/..\/..\/assets\/Packed\/tilesets\/packed\/supports.json"
         }],
  "tilewidth":8,

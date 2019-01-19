@@ -1,0 +1,74 @@
+{
+  "objectName" : "newblackdarkstove",
+  "colonyTags" : ["human","light","cooking"],
+  "rarity" : "Common",
+  "category" : "crafting",
+  "price" : 0,
+  "printable" : false,
+  "description" : "A quaint metal stove, perfect for cooking.",
+  "shortdescription" : "Old Stove",
+  "race" : "human",
+
+  "maximumLiquidLevel" : 0.2,
+
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/craftingcampfire.config",
+    "filter" : [ "campfire" ],
+    "paneLayoutOverride" : {
+      "windowtitle" : {
+        "title" : " Old Stove",
+        "subtitle" : " Wood-fired cooking"
+      }
+    }
+  },
+
+  "apexDescription" : "Sometimes, the simplest methods for heat are the best.",
+  "avianDescription" : "Is this open fire suitable for roasting nuts I wonder?",
+  "floranDescription" : "Floran concerned around hot firesss...",
+  "glitchDescription" : "Peaceful. The fire is basic, yet calming.",
+  "humanDescription" : "An old fire stove! Does anyone have any marshmallows?",
+  "hylotlDescription" : "This is not the most efficient way to produce heat.",
+  "novakidDescription":  "There's few things I like more than sittin' by an ol' fire.",
+
+  "statusEffects" : [ ],
+
+  "lightColor" : [179, 149, 107],
+
+  "flickerPeriod" : 0.3,
+  "flickerMinIntensity" : 0.95,
+  "flickerMaxIntensity" : 1,
+  "flickerPeriodVariance" : 0.075,
+  "flickerIntensityVariance" : 0.025,
+
+  "inventoryIcon" : "newblackdarkstoveicon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "newblackdarkstove.png:<color>.<frame>", "fullbright" : true }, { "image" : "newblackdarkstovelit.png:<color>.<frame>" } ],
+      "direction" : "left",
+      "flipImages" : true,
+      
+      "imagePosition" : [-9, 0],
+      "frames" : 4,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "imageLayers" : [ { "image" : "newblackdarkstove.png:<color>.<frame>", "fullbright" : true }, { "image" : "newblackdarkstovelit.png:<color>.<frame>" } ],
+      "direction" : "right",
+      
+      "imagePosition" : [-8, 0],
+      "frames" : 4,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "soundEffect" : "/sfx/objects/torch.ogg",
+  "soundEffectRangeMultiplier" : 0.5
+
+}

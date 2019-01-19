@@ -1,0 +1,53 @@
+{
+  "objectName" : "newdallaswoodstatuehideimbv1",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 0,
+  "description" : "Dallas picture stand.",
+  "shortdescription" : "Picture Stand",
+  "race" : "human",
+
+  "apexDescription" : "If the intent of this prop is to create an effective disguise, then it is a failure.",
+  "avianDescription" : "Do I stand with my face in the hole to create a picture? How humorous!",
+  "floranDescription" : "Floran doesssn't get it.",
+  "glitchDescription" : "Confused. What is the purpose of this?",
+  "humanDescription" : "A novelty picture stand? Let me put my face behind it, and someone take my picture!",
+  "hylotlDescription" : "This isn't very amusing.",
+  "novakidDescription" : "Yee-haw! If I get behind this, I can look like a gunslinger.",
+
+  "inventoryIcon" : "newdallaswoodstatuehideimbv1.png",
+  "orientations" : [
+    {
+      "image" : "newdallaswoodstatuehideimbv1.png:<color>",
+      "imagePosition" : [-17, 0],
+
+      "direction" : "left",
+      "flipImages" : true,
+
+      "sitPosition" : [-14, 21],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "newdallaswoodstatuehideimbv1.png:<color>",
+      "imagePosition" : [-15, 0],
+
+      "direction" : "right",
+
+      "sitPosition" : [12, 21],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false,
+  // "sitOrientation" : "lay",
+  "sitCoverImage" : "/objects/shop/decoration/newdallaswoodstatuehideimbv1.png",
+  "sitStatusEffects" : [
+    "nude"
+  ]
+}

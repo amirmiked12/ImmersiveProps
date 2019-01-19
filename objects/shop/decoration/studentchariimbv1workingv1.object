@@ -1,0 +1,49 @@
+{
+  "objectName" : "studentchariimbv1workingv1",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false,
+  "category" : "furniture",
+  "price" : 50,
+
+  "description" : "A comfy Seat, looks like it's meant to be for students.",
+  "shortdescription" : "Students Seat",
+  "race" : "human",
+
+  "apexDescription" : "This Seat is pretty comfortable. A reward for reporting on your neighbour.",
+  "avianDescription" : "Is this full of feathers?",
+  "floranDescription" : "Sso sssoft.",
+  "glitchDescription" : "Impressed. A chair worthy of a Student.",
+  "humanDescription" : "Wow, this is a pretty comfortable Seat. It looks cheap.",
+  "hylotlDescription" : "As soft as sand on the sea bed.",
+  "novakidDescription" : "This sure is a comfy Seat to sit on.",
+  "inventoryIcon" : "studentchariimbv1workingv1.png",
+  
+
+  "orientations" : [
+    {
+      "image" : "studentchariimbv1workingv1.png:<color>",
+      "imagePosition" : [-32, 0],
+      "flipImages" : true,
+      "direction" : "left",
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "sitPosition" : [-6, 21]
+    },
+    {
+      "image" : "studentchariimbv1workingv1.png:<color>",
+      "imagePosition" : [-32, 0],
+      "direction" : "right",
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "sitPosition" : [6, 21]
+    }
+  ]
+}

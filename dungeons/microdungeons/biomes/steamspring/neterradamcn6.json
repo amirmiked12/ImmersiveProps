@@ -33,18 +33,6 @@
          "name":"objects",
          "objects":[
                 {
-                 "gid":58,
-                 "height":48,
-                 "id":6,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":17,
-                 "x":184,
-                 "y":376
-                }, 
-                {
                  "gid":6,
                  "height":8,
                  "id":7,
@@ -218,7 +206,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":21,
+ "nextobjectid":22,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.1.6",
@@ -237,7 +225,7 @@
          "source":"..\/..\/..\/..\/tilesets\/packed\/dungeonobjects.json"
         }, 
         {
-         "firstgid":60,
+         "firstgid":122,
          "source":"..\/..\/..\/..\/..\/..\/assets\/Packed\/tilesets\/packed\/supports.json"
         }],
  "tilewidth":8,

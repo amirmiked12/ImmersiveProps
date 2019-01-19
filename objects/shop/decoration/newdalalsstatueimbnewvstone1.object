@@ -1,0 +1,33 @@
+{
+  "objectName" : "newdalalsstatueimbnewvstone1",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "description" : "The Maker Of I.M.P..",
+  "shortdescription" : "DALLAS Statue",
+  "race" : "human",
+  "price" : 0,
+  "health" : 1.5,
+
+  "apexDescription" : "This Statue Is Very Expensive And Looks Like A Theif.",
+  "avianDescription" : "This Statue Is Very Expensive And Looks Like A Theif.",
+  "floranDescription" : "This Statue Is Very Expensive And Looks Like A Theif.",
+  "glitchDescription" : "This Statue Is Very Expensive And Looks Like A Theif.",
+  "humanDescription" : "This Statue Is Very Expensive And Looks Like A Theif.",
+  "hylotlDescription" : "This Statue Is Very Expensive And Looks Like A Theif.",
+  "novakidDescription" : "This Statue Is Very Expensive And Looks Like A Theif.",
+
+  "inventoryIcon" : "newdalalsstatueimbnewvstone1.png",
+  "orientations" : [
+    {
+      "dualImage" : "newdalalsstatueimbnewvstone1.png:<color>",
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}
