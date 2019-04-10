@@ -36,6 +36,11 @@
 	{ "op": "add", "path": "/metadata/anchor/-", "value": "newwatercaveimbv3" },
 	{ "op": "add", "path": "/metadata/anchor/-", "value": "newcaveholeimbv1" },
 	{ "op": "add", "path": "/metadata/anchor/-", "value": "newcaveholeimbvdanger1" },
+	{ "op": "add", "path": "/metadata/anchor/-", "value": "newaterycaveimb001" },
+	{ "op": "add", "path": "/metadata/anchor/-", "value": "wateryholeinworlimb001" },
+	{ "op": "add", "path": "/metadata/anchor/-", "value": "newsmallvialgeegs001w" },
+	{ "op": "add", "path": "/metadata/anchor/-", "value": "newsmallvialgeegs001w2" },
+	{ "op": "add", "path": "/metadata/anchor/-", "value": "newsmallvialgeegs001w23" },
 	{ "op": "add", "path": "/parts/-", "value": {
 		"name": "nemountainmicor1",
 		"rules": [[ "maxSpawnCount", [1]]],
@@ -220,5 +225,30 @@
 		"name": "newcaveholeimbvdanger1",
 		"rules": [[ "maxSpawnCount", [1]]],
 		"def": [ "tmx", "newcaveholeimbvdanger1.json" ]
+	}},
+	{ "op": "add", "path": "/parts/-", "value": {
+		"name": "newaterycaveimb001",
+		"rules": [[ "maxSpawnCount", [1]]],
+		"def": [ "tmx", "newaterycaveimb001.json" ]
+	}},
+	{ "op": "add", "path": "/parts/-", "value": {
+		"name": "wateryholeinworlimb001",
+		"rules": [[ "maxSpawnCount", [1]]],
+		"def": [ "tmx", "wateryholeinworlimb001.json" ]
+	}},
+	{ "op": "add", "path": "/parts/-", "value": {
+		"name": "newsmallvialgeegs001w",
+		"rules": [[ "maxSpawnCount", [1]]],
+		"def": [ "tmx", "newsmallvialgeegs001w.json" ]
+	}},
+	{ "op": "add", "path": "/parts/-", "value": {
+		"name": "newsmallvialgeegs001w2",
+		"rules": [[ "maxSpawnCount", [1]]],
+		"def": [ "tmx", "newsmallvialgeegs001w2.json" ]
+	}},
+	{ "op": "add", "path": "/parts/-", "value": {
+		"name": "newsmallvialgeegs001w23",
+		"rules": [[ "maxSpawnCount", [1]]],
+		"def": [ "tmx", "newsmallvialgeegs001w23.json" ]
 	}}
 ]
