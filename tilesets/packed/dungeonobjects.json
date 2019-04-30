@@ -8,7 +8,7 @@
  "margin":0,
  "name":"dungeonobjects",
  "spacing":0,
- "tilecount":71,
+ "tilecount":72,
  "tileheight":104,
  "tileproperties":
     {
@@ -700,6 +700,16 @@
          "imagePositionX":"-24",
          "imagePositionY":"0",
          "object":"cabinimbbedtoppart",
+         "tilesetDirection":"right"
+        },
+     "71":
+        {
+         "\/\/description":"nothing",
+         "\/\/name":"nothing",
+         "\/\/shortdescription":"nothing",
+         "imagePositionX":"-16",
+         "imagePositionY":"0",
+         "object":"newoldbasictvnewimbv1v1",
          "tilesetDirection":"right"
         },
      "8":
@@ -1415,6 +1425,16 @@
          "object":"string",
          "tilesetDirection":"string"
         },
+     "71":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
      "8":
         {
          "\/\/description":"string",
@@ -1851,6 +1871,12 @@
          "image":"..\/..\/..\/..\/tiled\/mymod\/cabinimbbedtoppart.png",
          "imageheight":24,
          "imagewidth":48
+        },
+     "71":
+        {
+         "image":"..\/..\/..\/..\/tiled\/mymod\/newoldbasictvnewimbv1v1.png",
+         "imageheight":28,
+         "imagewidth":27
         },
      "8":
         {
