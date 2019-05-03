@@ -1,0 +1,41 @@
+{
+  "objectName" : "newbathroomfullsetthemimbv1v12",
+  "colonyTags" : ["human","storage"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "category" : "storage",
+  "description" : "A Bathroom set with lots of cabinet.",
+  "shortdescription" : "Bathroom Set",
+  "race" : "generic",
+  "price" : 0,
+
+  "apexDescription" : "I can store everything I want.",
+  "avianDescription" : "I can store everything I want.",
+  "floranDescription" : "I can store everything I want.",
+  "glitchDescription" : "I can store everything I want.",
+  "humanDescription" : "I can store everything I want.",
+  "hylotlDescription" : "I can store everything I want.",
+  "novakidDescription" : "I can store everything I want.",
+
+  "inventoryIcon" : "newbathroomfullsetthemimbv1v12.png",
+  "orientations" : [
+    {
+      "dualImage" : "newbathroomfullsetthemimbv1v12.png:<color>",
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/bunkercabinet_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/bunkercabinet_close.ogg" ],
+  "slotCount" : 64,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+}

@@ -1,0 +1,42 @@
+{
+  "objectName" : "newbathriimthemeimbv1smallcabniet",
+  "colonyTags" : ["island","storage"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "category" : "storage",
+  "description" : "A tropical looking Dresser.",
+  "shortdescription" : "Island Dresser",
+  "race" : "generic",
+  "price" : 0,
+
+  "apexDescription" : "This Dresser is far too expressive for Apex homes.",
+  "avianDescription" : "A Dresser. Very simple.",
+  "floranDescription" : "Floran likesss Green things.",
+  "glitchDescription" : "Uninterested. Just a Dresser.",
+  "humanDescription" : "A regular Dresser.",
+  "hylotlDescription" : "A spot to place Stuff.",
+  "novakidDescription" : "A Small, plain Dresser.",
+
+  "inventoryIcon" : "newbathriimthemeimbv1smallcabniet.png",
+  "orientations" : [
+    {
+      "dualImage" : "newbathriimthemeimbv1smallcabniet.png:<color>",
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/bunkercabinet_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/bunkercabinet_close.ogg" ],
+  "slotCount" : 9,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+}

@@ -1,0 +1,120 @@
+{
+  "objectName" : "newabtroomthermhittubnocurmtv1",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "category" : "furniture",
+  "price" : 0,
+  "description" : "A Hot tub, Very Soothing Water.",
+  "shortdescription" : "Hot tub",
+  "race" : "human",
+
+  "apexDescription" : "I like to sit in it and sleep.",
+  "avianDescription" : "I like to sit in it and sleep.",
+  "floranDescription" : "Florans like to sit in it and sleep.",
+  "glitchDescription" : "I like to sit in it and sleep.",
+  "humanDescription" : "I like to sit in it and sleep.",
+  "hylotlDescription" : "I like to sit in it and sleep.",
+  "novakidDescription":  "I like to sit in it and sleep.",
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false,
+  "sitOrientation" : "lay",
+  "sitAngle" : 0,
+  
+  "sitStatusEffects" : [
+    "nude"
+  ],
+  "sitCoverImage" : "/objects/shop/bath/newabtroomthermhittubnocurmtv1cover.png",
+
+  "particleEmitters" : [
+    {
+      "emissionRate" : 1,
+      "emissionVariance" : 0.25,
+      "pixelOrigin" : [0, 21],
+
+      "particle" : {
+        "type" : "animated",
+        "animation" : "/animations/statuseffects/poison2/poison2.animation",
+        "position" : [0, 0],
+        "initialVelocity" : [0, 0],
+        "finalVelocity" : [0, 3],
+        "approach" : [0, 50],
+        "size" : 1.0,
+        "timeToLive" : 0.85
+      },
+      "particleVariance" : {
+        "position" : [0.9, 0],
+          "finalVelocity" : [0, 2]
+      }
+    },
+
+    {
+      "emissionRate" : 3,
+      "emissionVariance" : 1,
+      "pixelOrigin" : [0, 21],
+
+      "particle" : {
+        "type" : "animated",
+        "animation" : "/animations/statuseffects/poison/poison.animation",
+        "position" : [0, 0],
+        "initialVelocity" : [0, 0],
+        "finalVelocity" : [0, 3],
+        "approach" : [0, 50],
+        "size" : 1.0,
+        "timeToLive" : 0.85
+      },
+      "particleVariance" : {
+        "position" : [0.9, 0],
+          "finalVelocity" : [0, 2]
+      }
+    },
+
+    {
+        "emissionRate" : 3,
+        "emissionVariance" : 0.1,
+        "pixelOrigin" : [0, 21],
+
+        "particle" : {
+          "type" : "ember",
+          "size" : 1.0,
+          "color" : [107, 158, 97, 255],
+          "fade" : 0.9,
+          "initialVelocity" : [0.0, 0],
+          "finalVelocity" : [0.0, 1.5],
+          "approach" : [0, 20],
+          "timeToLive" : 1.0,
+          "layer" : "back"
+        },
+        "particleVariance" : {
+          "position" : [0.9, 0],
+            "finalVelocity" : [0, 0.5]
+        }
+    }
+  ],
+
+  "inventoryIcon" : "newabtroomthermhittubnocurmtv1.png",
+  "orientations" : [
+    {
+      "image" : "newabtroomthermhittubnocurmtv1.png:<color>",
+      "imagePosition" : [-16, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "sitPosition" : [0, 20],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "newabtroomthermhittubnocurmtv1.png:<color>",
+      "imagePosition" : [-16, 0],
+      "direction" : "right",
+
+      "sitPosition" : [0, 20],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+
+}

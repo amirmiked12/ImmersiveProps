@@ -1,0 +1,32 @@
+{
+  "objectName" : "newbathroomthemtwoerlimv1",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "description" : "A Clean Bathroom Towel.",
+  "shortdescription" : "Bathroom Towel",
+  "race" : "human",
+  "price" : 0,
+
+  "apexDescription" : "I Love Green.",
+  "avianDescription" : "I Love Green.",
+  "floranDescription" : "I Love Green.",
+  "glitchDescription" : "I Love Green.",
+  "humanDescription" : "I Love Green.",
+  "hylotlDescription" : "I Love Green.",
+  "novakidDescription" : "I Love Green.",
+
+  "inventoryIcon" : "newbathroomthemtwoerlimv1.png",
+  "orientations" : [
+    {
+      "dualImage" : "newbathroomthemtwoerlimv1.png:<color>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

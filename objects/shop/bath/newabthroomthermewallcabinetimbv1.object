@@ -1,0 +1,42 @@
+{
+  "objectName" : "newabthroomthermewallcabinetimbv1",
+  "colonyTags" : ["human","storage"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "category" : "storage",
+  "description" : "A Bathroom Cabinet For My Home.",
+  "shortdescription" : "Bathroom Cabinet",
+  "race" : "generic",
+  "price" : 0,
+
+  "apexDescription" : "A simple Bathroom Cabinet.",
+  "avianDescription" : "A Cabinet. Very simple.",
+  "floranDescription" : "Sssimple Bathroom Cabinet.",
+  "glitchDescription" : "Uninterested. Just a Cabinet.",
+  "humanDescription" : "A regular Cabinet.",
+  "hylotlDescription" : "A spot to place Plates.",
+  "novakidDescription" : "A large, plain Cabinet.",
+
+  "inventoryIcon" : "newabthroomthermewallcabinetimbv1.png",
+  "orientations" : [
+    {
+      "dualImage" : "newabthroomthermewallcabinetimbv1.png:<color>",
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ],
+      "collision" : "platform"
+
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/woodendoor_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/woodendoor_close.ogg" ],
+  "slotCount" : 16,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+}
