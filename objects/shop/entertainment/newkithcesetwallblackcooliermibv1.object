@@ -1,0 +1,75 @@
+{
+  "objectName" : "newkithcesetwallblackcooliermibv1",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "category" : "furniture",
+  "price" : 0,
+  "printable" : false,
+
+  "description" : "A Modern air conditioner.",
+  "shortdescription" : "Modern air conditioner",
+  "race" : "human",
+
+  "apexDescription" : "air conditioner is Useful in Warm places.",
+  "avianDescription" : "air conditioner is Useful in Warm places.",
+  "floranDescription" : "air conditioner is Useful in Warm places.",
+  "glitchDescription" : "air conditioner is Useful in Warm places.",
+  "humanDescription" : "air conditioner is Useful in Warm places.",
+  "hylotlDescription" : "air conditioner is Useful in Warm places.",
+  "novakidDescription" : "air conditioner is Useful in Warm places.",
+
+  "lightColor" : [0, 0, 0],
+
+  "inventoryIcon" : "newkithcesetwallblackcooliermibv1icon.png",
+  "orientations" : [
+    {
+      "image" : "newkithcesetwallblackcooliermibv1.png:<color>.<frame>",
+      "imagePosition" : [-16, 0],
+      "animationPosition" : [-16, 0],
+      "animationParts" : {
+        "image" : "newkithcesetwallblackcooliermibv1.png"
+      },
+      "direction" : "left",
+	  "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ],
+	  "collision" : "platform"
+    },
+    {
+      "image" : "newkithcesetwallblackcooliermibv1.png:<color>.<frame>",
+      "imagePosition" : [-16, 0],
+      "animationPosition" : [-16, 0],
+      "animationParts" : {
+        "image" : "newkithcesetwallblackcooliermibv1.png"
+      },
+      "direction" : "right",
+
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ],
+	  "collision" : "platform"
+    }
+  ],
+
+  "animation" : "AnimationOnandOFfLooped.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "on" : [ "/sfx/objects/console_button3.ogg" ],
+      "off" : [ "/sfx/objects/console_button3.ogg" ]
+    }
+  },
+  "animationPosition" : [0, 0],
+
+  "scripts" : [
+    "/objects/wired/light/light.lua",
+    "/scripts/npcToyObject.lua"
+  ],
+  "scriptDelta" : 60,
+
+  "inputNodes" : [ [0, 0] ],
+  "defaultLightState" : false,
+
+  "soundEffect" : "/sfx/objects/mechcrafting_loop.ogg",
+  "soundEffectRangeMultiplier" : 1.0
+}

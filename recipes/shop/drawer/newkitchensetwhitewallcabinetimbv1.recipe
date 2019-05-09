@@ -1,0 +1,7 @@
+{
+  "input" : [
+		{ "item" : "money", "count" : 1300 }
+  ],
+  "output" : { "item" : "newkitchensetwhitewallcabinetimbv1", "count" : 1 },
+  "groups" : [ "imbshop", "imbdrawers" ]
+}

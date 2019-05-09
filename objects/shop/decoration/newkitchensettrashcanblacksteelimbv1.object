@@ -1,0 +1,44 @@
+{
+  "objectName" : "newkitchensettrashcanblacksteelimbv1",
+  "colonyTags" : ["human","storage"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "description" : "A Kitchen Trash Can.",
+  "shortdescription" : "Kitchen Trash Can",
+  "race" : "human",
+  "category" : "storage",
+  "price" : 0,
+  "printable" : false,
+
+  "apexDescription" : "Garbage day!",
+  "avianDescription" : "Trash.",
+  "floranDescription" : "Pretty rubbish.",
+  "glitchDescription" : "Unimpressed. Garbage.",
+  "humanDescription" : "Time to take out the trash!",
+  "hylotlDescription" : "Vile garbage.",
+  "novakidDescription" : "Ain't nothin' but trash.",
+
+  "inventoryIcon" : "newkitchensettrashcanblacksteelimbv1.png",
+  "orientations" : [
+    {
+      "dualImage" : "newkitchensettrashcanblacksteelimbv1.png:<color>",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/locker_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/locker_close.ogg" ],
+  "slotCount" : 9,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+
+}

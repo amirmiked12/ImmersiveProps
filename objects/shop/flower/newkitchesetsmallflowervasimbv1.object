@@ -1,0 +1,32 @@
+{
+  "objectName" : "newkitchesetsmallflowervasimbv1",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "description" : "A Modern Flower Pot.",
+  "shortdescription" : "Modern Flower Pot",
+  "race" : "human",
+  "category" : "decorative",
+  "price" : 0,
+
+  "apexDescription" : "A Small Modern Flower Pot.",
+  "avianDescription" : "A Small Modern Flower Pot.",
+  "floranDescription" : "A Small Modern Flower Pot.",
+  "glitchDescription" : "A Small Modern Flower Pot.",
+  "humanDescription" : "A Small Modern Flower Pot.",
+  "hylotlDescription" : "A Small Modern Flower Pot.",
+
+  "inventoryIcon" : "newkitchesetsmallflowervasimbv1.png",
+  "orientations" : [
+    {
+      "dualImage" : "newkitchesetsmallflowervasimbv1.png:<color>",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

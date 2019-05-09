@@ -1,0 +1,33 @@
+{
+  "objectName" : "newkitchesetsmallbowlimbv12",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "description" : "A Cooking Bowl.",
+  "shortdescription" : "Cooking Bowl",
+  "race" : "human",
+  "category" : "decorative",
+  "price" : 0,
+
+  "apexDescription" : "A simple Cooking Bowl.",
+  "avianDescription" : "A simple Cooking Bowl.",
+  "floranDescription" : "A simple Cooking Bowl.",
+  "glitchDescription" : "A simple Cooking Bowl.",
+  "humanDescription" : "A simple Cooking Bowl.",
+  "hylotlDescription" : "A simple Cooking Bowl.",
+  "novakidDescription" : "A simple Cooking Bowl.",
+
+  "inventoryIcon" : "newkitchesetsmallbowlimbv12.png",
+  "orientations" : [
+    {
+      "dualImage" : "newkitchesetsmallbowlimbv12.png:<color>",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

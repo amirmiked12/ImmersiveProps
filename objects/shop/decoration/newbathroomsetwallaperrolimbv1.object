@@ -1,0 +1,33 @@
+{
+  "objectName" : "newbathroomsetwallaperrolimbv1",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "description" : "A Toilet paper roll.",
+  "shortdescription" : "Toilet paper roll",
+  "race" : "human",
+  "category" : "decorative",
+  "price" : 0,
+
+  "apexDescription" : "A simple Toilet paper roll.",
+  "avianDescription" : "A simple Toilet paper roll.",
+  "floranDescription" : "A simple Toilet paper roll.",
+  "glitchDescription" : "A simple Toilet paper roll.",
+  "humanDescription" : "A simple Toilet paper roll.",
+  "hylotlDescription" : "A simple Toilet paper roll.",
+  "novakidDescription" : "A simple Toilet paper roll.",
+
+  "inventoryIcon" : "newbathroomsetwallaperrolimbv1.png",
+  "orientations" : [
+    {
+      "dualImage" : "newbathroomsetwallaperrolimbv1.png:<color>",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

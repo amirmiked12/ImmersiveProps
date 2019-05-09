@@ -1,0 +1,45 @@
+{
+  "objectName" : "newkitchensetmicorwavenewimbv1",
+  "colonyTags" : ["human","cooking"],
+  "rarity" : "Common",
+  "description" : "Nuke all the foods!",
+  "shortdescription" : "modern Microwave",
+  "subtitle" : "A cup of the good stuff",
+  "race" : "human",
+  "price" : 0,
+  "category" : "crafting",
+  
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/craftingcampfire.config",
+    "filter" : [ "campfire" ],
+    "paneLayoutOverride" : {
+      "windowtitle" : {
+        "title" : " Microwave",
+        "subtitle" : " Cooking convenience"
+      }
+    }
+  },
+
+  "apexDescription" : "A device for quickly cooking food.",
+  "avianDescription" : "A bit like an oven, but quicker.",
+  "floranDescription" : "Machine for heating sssnacks. Floran used one before.",
+  "glitchDescription" : "Uncomfortable. Microwaves can be somewhat damaging to Glitch circuitry.",
+  "humanDescription" : "I once microwaved a salad. It wasn't too bad, actually!",
+  "hylotlDescription" : "A method of cooking for those who do not care about the quality of their preparation.",
+  "novakidDescription" : "Not sure what this machine does... But it smells like somethin' died in there.",
+
+  "inventoryIcon" : "newkitchensetmicorwavenewimbv1.png",
+  "orientations" : [
+    {
+      "dualImage" : "newkitchensetmicorwavenewimbv1.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

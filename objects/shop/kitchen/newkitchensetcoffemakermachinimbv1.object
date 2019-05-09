@@ -1,0 +1,33 @@
+{
+  "objectName" : "newkitchensetcoffemakermachinimbv1",
+  "colonyTags" : ["human","cooking"],
+  "rarity" : "Common",
+  "description" : "A Modern coffee machine, for the perfect pick-me-up.",
+  "shortdescription" : "Modern Coffee Machine",
+  "subtitle" : "A cup of the good stuff",
+  "race" : "human",
+  "price" : 0,
+  "category" : "decorative",
+
+  "apexDescription" : "This machine produces a black, bitter liquid.",
+  "avianDescription" : "I like the smell of this.",
+  "floranDescription" : "A smelly drinksss machine.",
+  "glitchDescription" : "Neutral. A Modern coffee machine.",
+  "humanDescription" : "Damn fine coffee.",
+  "hylotlDescription" : "A bitter, unpleasant drink.",
+  "novakidDescription" : "Black, no milk, no sugar. Don't mind if I do!",
+
+  "inventoryIcon" : "newkitchensetcoffemakermachinimbv1.png",
+  "orientations" : [
+    {
+      "dualImage" : "newkitchensetcoffemakermachinimbv1.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

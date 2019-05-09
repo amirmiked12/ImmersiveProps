@@ -1,0 +1,33 @@
+{
+  "objectName" : "newkitchensetmixermetalnewimbv1",
+  "colonyTags" : ["human","cooking"],
+  "rarity" : "Common",
+  "description" : "A Mixer Machine.",
+  "shortdescription" : "Mixer Machine",
+  "race" : "human",
+  "category" : "decorative",
+  "price" : 0,
+
+  "apexDescription" : "A simple mixer machine.",
+  "avianDescription" : "A simple mixer machine.",
+  "floranDescription" : "A simple mixer machine.",
+  "glitchDescription" : "A simple mixer machine.",
+  "humanDescription" : "A simple mixer machine.",
+  "hylotlDescription" : "A simple mixer machine.",
+  "novakidDescription" : "A simple mixer machine.",
+
+  "inventoryIcon" : "newkitchensetmixermetalnewimbv1.png",
+  "orientations" : [
+    {
+      "dualImage" : "newkitchensetmixermetalnewimbv1.png:<color>",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

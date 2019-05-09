@@ -1,0 +1,33 @@
+{
+  "objectName" : "newkitchesetsmallwaterglassibv12",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "description" : "A Water Glass.",
+  "shortdescription" : "Water Glass",
+  "race" : "human",
+  "category" : "decorative",
+  "price" : 0,
+
+  "apexDescription" : "A Simple Water Glass.",
+  "avianDescription" : "A Simple Water Glass.",
+  "floranDescription" : "A Simple Water Glass.",
+  "glitchDescription" : "A Simple Water Glass.",
+  "humanDescription" : "A Simple Water Glass.",
+  "hylotlDescription" : "A Simple Water Glass.",
+  "novakidDescription" : "A Simple Water Glass.",
+
+  "inventoryIcon" : "newkitchesetsmallwaterglassibv12.png",
+  "orientations" : [
+    {
+      "dualImage" : "newkitchesetsmallwaterglassibv12.png:<color>",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

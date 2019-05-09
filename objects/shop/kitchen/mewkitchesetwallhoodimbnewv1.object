@@ -1,0 +1,73 @@
+{
+  "objectName" : "mewkitchesetwallhoodimbnewv1",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "category" : "furniture",
+  "price" : 0,
+  "printable" : false,
+
+  "description" : "A kitchen Hood.",
+  "shortdescription" : "kitchen hood",
+  "race" : "human",
+
+  "apexDescription" : "A Kitchen Hood made in factory.",
+  "avianDescription" : "A Kitchen Hood made in factory.",
+  "floranDescription" : "A Kitchen Hood made in factory.",
+  "glitchDescription" : "A Kitchen Hood made in factory.",
+  "humanDescription" : "A Kitchen Hood made in factory.",
+  "hylotlDescription" : "A Kitchen Hood made in factory.",
+  "novakidDescription" : "A Kitchen Hood made in factory.",
+
+  "lightColor" : [0, 0, 0],
+
+  "inventoryIcon" : "mewkitchesetwallhoodimbnewv1icon.png",
+  "orientations" : [
+    {
+      "image" : "mewkitchesetwallhoodimbnewv1.png:<color>.<frame>",
+      "imagePosition" : [-16, 0],
+      "animationPosition" : [-16, 0],
+      "animationParts" : {
+        "image" : "mewkitchesetwallhoodimbnewv1.png"
+      },
+      "direction" : "left",
+	  "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "top" ]
+    },
+    {
+      "image" : "mewkitchesetwallhoodimbnewv1.png:<color>.<frame>",
+      "imagePosition" : [-16, 0],
+      "animationPosition" : [-16, 0],
+      "animationParts" : {
+        "image" : "mewkitchesetwallhoodimbnewv1.png"
+      },
+      "direction" : "right",
+
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "top" ]
+    }
+  ],
+
+  "animation" : "AnimationOnandOFfLooped2.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "on" : [ "/sfx/objects/console_button3.ogg" ],
+      "off" : [ "/sfx/objects/console_button3.ogg" ]
+    }
+  },
+  "animationPosition" : [0, 0],
+
+  "scripts" : [
+    "/objects/wired/light/light.lua",
+    "/scripts/npcToyObject.lua"
+  ],
+  "scriptDelta" : 60,
+
+  "inputNodes" : [ [0, 0] ],
+  "defaultLightState" : false,
+
+  "soundEffect" : "/sfx/objects/bunkervent.ogg",
+  "soundEffectRangeMultiplier" : 1.0
+}

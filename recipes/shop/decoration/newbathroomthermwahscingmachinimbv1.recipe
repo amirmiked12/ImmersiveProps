@@ -3,5 +3,5 @@
 		{ "item" : "money", "count" : 5000 }
   ],
   "output" : { "item" : "newbathroomthermwahscingmachinimbv1", "count" : 1 },
-  "groups" : [ "imbshop", "imbkitchen" ]
+  "groups" : [ "imbshop", "imbdecorations" ]
 }

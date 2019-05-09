@@ -1,0 +1,33 @@
+{
+  "objectName" : "newkitchensetbreadtosterimbv12",
+  "colonyTags" : ["human","cooking"],
+  "rarity" : "Common",
+  "description" : "A Toaster.",
+  "shortdescription" : "Toaster",
+  "race" : "human",
+  "category" : "decorative",
+  "price" : 0,
+
+  "apexDescription" : "A simple Toaster.",
+  "avianDescription" : "A simple mixer.",
+  "floranDescription" : "A simple mixer.",
+  "glitchDescription" : "A simple mixer.",
+  "humanDescription" : "A simple mixer.",
+  "hylotlDescription" : "A simple mixer.",
+  "novakidDescription" : "A simple mixer.",
+
+  "inventoryIcon" : "newkitchensetbreadtosterimbv12.png",
+  "orientations" : [
+    {
+      "dualImage" : "newkitchensetbreadtosterimbv12.png:<color>",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

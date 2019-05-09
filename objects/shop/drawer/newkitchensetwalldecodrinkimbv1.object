@@ -1,0 +1,42 @@
+{
+  "objectName" : "newkitchensetwalldecodrinkimbv1",
+  "colonyTags" : ["human","storage"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "category" : "storage",
+  "description" : "A Modern Wine Cabinet.",
+  "shortdescription" : "Modern Wine Cabinet",
+  "race" : "human",
+  "price" : 0,
+
+  "apexDescription" : "A simple Modern Wine Cabinet.",
+  "avianDescription" : "A Wine Cabinet. Very simple.",
+  "floranDescription" : "Sssimple Wine Cabinet.",
+  "glitchDescription" : "Uninterested. Just a Cabinet.",
+  "humanDescription" : "A regular Wine Cabinet.",
+  "hylotlDescription" : "A spot to place Wines.",
+  "novakidDescription" : "A Small, plain Wine Cabinet.",
+
+  "inventoryIcon" : "newkitchensetwalldecodrinkimbv1.png",
+  "orientations" : [
+    {
+      "dualImage" : "newkitchensetwalldecodrinkimbv1.png:<color>",
+      "imagePosition" : [-8, 0],
+	  "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ],
+      "collision" : "platform"
+
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/bunkercabinet_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/bunkercabinet_close.ogg" ],
+  "slotCount" : 9,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+}

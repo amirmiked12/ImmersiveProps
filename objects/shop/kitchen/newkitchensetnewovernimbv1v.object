@@ -1,0 +1,46 @@
+{
+  "objectName" : "newkitchensetnewovernimbv1v",
+  "colonyTags" : ["human","cooking"],
+  "rarity" : "Common",
+  "category" : "crafting",
+  "price" : 0,
+  "description" : "Cooks food to a reasonable standard.",
+  "shortdescription" : "Modern Oven",
+  "race" : "human",
+
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/craftingcampfire.config",
+    "filter" : [ "campfire" ],
+    "paneLayoutOverride" : {
+      "windowtitle" : {
+        "title" : " Modern Oven",
+        "subtitle" : " Cooks food to a reasonable standard"
+      }
+    }
+  },
+
+  "apexDescription" : "A Modern oven, just about suitable for heating food.",
+  "avianDescription" : "A device for heating food. I can cook here.",
+  "floranDescription" : "Fire make food extra tasssty.",
+  "glitchDescription" : "Observant. Cooking device identified.",
+  "humanDescription" : "A gas oven. I've never used one.",
+  "hylotlDescription" : "We can quickly heat food here.",
+  "novakidDescription" : "It's for cookin' meals.",
+
+  "statusEffects" : [ ],
+
+  "inventoryIcon" : "newkitchensetnewovernimbv1v.png",
+  "orientations" : [
+    {
+      "dualImage" : "newkitchensetnewovernimbv1v.png:<color>",
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

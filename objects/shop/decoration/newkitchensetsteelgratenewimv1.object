@@ -1,0 +1,33 @@
+{
+  "objectName" : "newkitchensetsteelgratenewimv1",
+  "colonyTags" : ["human","cooking"],
+  "rarity" : "Common",
+  "description" : "A Steel Grater.",
+  "shortdescription" : "Steel Grater",
+  "race" : "human",
+  "category" : "decorative",
+  "price" : 0,
+
+  "apexDescription" : "A simple Steel Grater.",
+  "avianDescription" : "A simple Steel Grater.",
+  "floranDescription" : "A simple Steel Grater.",
+  "glitchDescription" : "A simple Steel Grater.",
+  "humanDescription" : "A simple Steel Grater.",
+  "hylotlDescription" : "A simple Steel Grater.",
+  "novakidDescription" : "A simple Steel Grater.",
+
+  "inventoryIcon" : "newkitchensetsteelgratenewimv1.png",
+  "orientations" : [
+    {
+      "dualImage" : "newkitchensetsteelgratenewimv1.png:<color>",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

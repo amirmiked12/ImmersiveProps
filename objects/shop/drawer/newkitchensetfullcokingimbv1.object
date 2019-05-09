@@ -1,0 +1,41 @@
+{
+  "objectName" : "newkitchensetfullcokingimbv1",
+  "colonyTags" : ["human","storage"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "category" : "storage",
+  "description" : "A Modern Kitchen Cabinet Set.",
+  "shortdescription" : "Modern Kitchen Cabinet Set",
+  "race" : "human",
+  "price" : 0,
+
+  "apexDescription" : "For my Kitchen to store anything in it.",
+  "avianDescription" : "For my Kitchen to store anything in it.",
+  "floranDescription" : "For my Kitchen to store anything in it.",
+  "glitchDescription" : "For my Kitchen to store anything in it.",
+  "humanDescription" : "For my Kitchen to store anything in it.",
+  "hylotlDescription" : "For my Kitchen to store anything in it.",
+  "novakidDescription" : "For my Kitchen to store anything in it.",
+
+  "inventoryIcon" : "newkitchensetfullcokingimbv1.png",
+  "orientations" : [
+    {
+      "dualImage" : "newkitchensetfullcokingimbv1.png:<color>",
+      "imagePosition" : [-32, 0],
+	  "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/bunkercabinet_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/bunkercabinet_close.ogg" ],
+  "slotCount" : 32,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+}

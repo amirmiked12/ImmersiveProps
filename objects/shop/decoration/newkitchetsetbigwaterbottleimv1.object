@@ -1,0 +1,33 @@
+{
+  "objectName" : "newkitchetsetbigwaterbottleimv1",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "description" : "A Glass Water pitcher.",
+  "shortdescription" : "Glass Water pitcher",
+  "race" : "human",
+  "category" : "decorative",
+  "price" : 0,
+
+  "apexDescription" : "A Simple Glass Water pitcher.",
+  "avianDescription" : "A Simple Glass Water pitcher.",
+  "floranDescription" : "A Simple Glass Water pitcher.",
+  "glitchDescription" : "A Simple Glass Water pitcher.",
+  "humanDescription" : "A Simple Glass Water pitcher.",
+  "hylotlDescription" : "A Simple Glass Water pitcher.",
+  "novakidDescription" : "A Simple Glass Water pitcher.",
+
+  "inventoryIcon" : "newkitchetsetbigwaterbottleimv1.png",
+  "orientations" : [
+    {
+      "dualImage" : "newkitchetsetbigwaterbottleimv1.png:<color>",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

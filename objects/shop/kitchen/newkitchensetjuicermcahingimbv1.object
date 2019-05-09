@@ -1,0 +1,33 @@
+{
+  "objectName" : "newkitchensetjuicermcahingimbv1",
+  "colonyTags" : ["human","cooking"],
+  "rarity" : "Common",
+  "description" : "A Modern Juicer.",
+  "shortdescription" : "Modern Juicer",
+  "race" : "human",
+  "category" : "decorative",
+  "price" : 0,
+
+  "apexDescription" : "A simple Modern Juicer.",
+  "avianDescription" : "A simple Modern Juicer.",
+  "floranDescription" : "A simple Modern Juicer.",
+  "glitchDescription" : "A simple Modern Juicer.",
+  "humanDescription" : "A simple Modern Juicer.",
+  "hylotlDescription" : "A simple Modern Juicer.",
+  "novakidDescription" : "A simple Modern Juicer.",
+
+  "inventoryIcon" : "newkitchensetjuicermcahingimbv1.png",
+  "orientations" : [
+    {
+      "dualImage" : "newkitchensetjuicermcahingimbv1.png:<color>",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

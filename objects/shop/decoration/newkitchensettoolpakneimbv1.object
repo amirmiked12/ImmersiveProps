@@ -1,0 +1,33 @@
+{
+  "objectName" : "newkitchensettoolpakneimbv1",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "description" : "A Kitchen Tool Rack.",
+  "shortdescription" : "Kitchen Tool Rack",
+  "race" : "human",
+  "category" : "decorative",
+  "price" : 0,
+
+  "apexDescription" : "A simple Kitchen Tool Rack.",
+  "avianDescription" : "A simple Kitchen Tool Rack.",
+  "floranDescription" : "A simple Kitchen Tool Rack.",
+  "glitchDescription" : "A simple Kitchen Tool Rack.",
+  "humanDescription" : "A simple Kitchen Tool Rack.",
+  "hylotlDescription" : "A simple Kitchen Tool Rack.",
+  "novakidDescription" : "A Simple Kitchen Tool Rack.",
+
+  "inventoryIcon" : "newkitchensettoolpakneimbv1.png",
+  "orientations" : [
+    {
+      "dualImage" : "newkitchensettoolpakneimbv1.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "objectName" : "newkitchnetpaperrollwoodneimbv1",
+  "colonyTags" : ["human"],
+  "rarity" : "Common",
+  "description" : "A Kitchen paper roll.",
+  "shortdescription" : "Kitchen paper roll",
+  "race" : "human",
+  "category" : "decorative",
+  "price" : 0,
+
+  "apexDescription" : "A simple Kitchen paper roll.",
+  "avianDescription" : "A simple Kitchen paper roll.",
+  "floranDescription" : "A simple Kitchen paper roll.",
+  "glitchDescription" : "A simple Kitchen paper roll.",
+  "humanDescription" : "A simple Kitchen paper roll.",
+  "hylotlDescription" : "A simple Kitchen paper roll.",
+  "novakidDescription" : "A simple Kitchen paper roll.",
+
+  "inventoryIcon" : "newkitchnetpaperrollwoodneimbv1.png",
+  "orientations" : [
+    {
+      "dualImage" : "newkitchnetpaperrollwoodneimbv1.png:<color>",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}
